@@ -91,6 +91,8 @@ function buildId(title: string, isLn: boolean, year: string, number: string): st
     .toLowerCase();
   const suffix = isLn ? `ln-${year}-${number}` : `${year}-${number}`;
   if (slug.endsWith(suffix)) return slug;
+  // If the slug already ends with the year, only append the number.
+  if (!isLn && slug.endsWith(`-${year}`)) return `${slug}-${number}`;
   return `${slug}-${suffix}`;
 }
 
@@ -108,6 +110,20 @@ function parseAknUrl(urlPath: string): { year: string; number: string; isLn: boo
 }
 
 /**
+ * Decode common HTML entities that appear in link text.
+ */
+function decodeEntities(s: string): string {
+  return s
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&#x27;/gi, "'")
+    .replace(/&nbsp;/g, ' ');
+}
+
+/**
  * Parse AKN entries from a LesLII legislation browse page.
  */
 function parseLawEntries(html: string): { title: string; urlPath: string }[] {
@@ -119,7 +135,8 @@ function parseLawEntries(html: string): { title: string; urlPath: string }[] {
 
   while ((match = pattern.exec(html)) !== null) {
     const urlPath = match[1].trim();
-    const title = match[2].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+    const rawTitle = match[2].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+    const title = decodeEntities(rawTitle);
 
     if (!title || title.length < 4) continue;
 
