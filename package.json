@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/lesotho-law-mcp",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "mcpName": "eu.ansvar/lesotho-law-mcp",
   "description": "Lesotho legislation database \u2014 full-text search across statutes and regulations. Part of the Ansvar Open Law initiative.",
   "author": "Ansvar Systems <hello@ansvar.eu>",
