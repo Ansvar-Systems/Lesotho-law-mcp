@@ -1,9 +1,9 @@
 /**
- * Rate-limited HTTP client for Lesotho Law (lawlesotho.com)
+ * Rate-limited HTTP client for the Lesotho Legal Information Institute (LesLII, lesotholii.org).
  *
- * - 500ms minimum delay between requests (be respectful to government servers)
+ * - 500ms minimum delay between requests (be respectful to the AfricanLII/Laws.Africa servers)
  * - User-Agent header identifying the MCP
- * - Fetches structured AKN HTML from lawlesotho.com
+ * - Fetches the Akoma Ntoso HTML and index pages served by LesLII
  * - No auth needed (Government Open Data)
  */
 

@@ -1,17 +1,18 @@
 /**
- * Lesotho Law PDF Parser
+ * AKN HTML parser for Lesotho legislation from lesotholii.org (LesLII).
  *
- * Parses text extracted from Lesotho proclamation PDFs (Federal Negarit Gazette).
- * Most proclamations are bilingual (Amharic + English); this parser extracts
- * English text where available and falls back to Amharic otherwise.
+ * LesLII is part of the AfricanLII / Laws.Africa network. It serves two
+ * document variants:
+ *   1. display-type="akn" - full Akoma Ntoso HTML embedded in the page with
+ *      semantic classes (akn-section, akn-part, akn-chapter, akn-paragraph,
+ *      akn-num, akn-heading, akn-p, akn-intro, akn-content, akn-wrapUp).
+ *   2. display-type="pdf" - PDF-only documents where the page only exposes a
+ *      download link at /akn/ls/<frbr>/source.pdf. Ingest records an empty
+ *      provision set and flags these so they can be re-parsed later via
+ *      pdftotext when OCR is enabled.
  *
- * Article identification:
- *   - Articles are numbered as "N. Title" at the start of a line
- *   - Parts/chapters as "PART ONE", "CHAPTER TWO" etc.
- *   - Sub-articles as "1/", "2/", etc.
- *   - Sub-sub-articles as "a)", "b)", etc.
- *
- * Source: lawlesotho.com (Federal Negarit Gazette PDFs)
+ * This parser handles variant (1) directly and returns an empty provision
+ * list for variant (2) so ingest can downgrade those entries in the census.
  */
 
 export interface ActIndexEntry {
@@ -19,10 +20,17 @@ export interface ActIndexEntry {
   title: string;
   titleEn: string;
   shortName: string;
-  status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
+  status: 'in_force' | 'amended' | 'repealed' | 'partially_suspended' | 'not_yet_in_force';
   issuedDate: string;
   inForceDate: string;
+  /** Canonical AKN URL on lesotholii.org (e.g. https://lesotholii.org/akn/ls/act/2024/3/eng@2024-04-02) */
   url: string;
+  /** Category from the census ("act" for principal, "subsidiary" for Legal Notices) */
+  category: 'act' | 'subsidiary' | 'constitution';
+  /** AKN year (e.g. "2024") */
+  aknYear: string;
+  /** AKN number (e.g. "3") */
+  aknNumber: string;
   description?: string;
 }
 
@@ -46,297 +54,137 @@ export interface ParsedAct {
   title: string;
   title_en: string;
   short_name: string;
-  status: string;
+  status: 'in_force' | 'amended' | 'repealed' | 'partially_suspended' | 'not_yet_in_force';
   issued_date: string;
   in_force_date: string;
   url: string;
   description?: string;
   provisions: ParsedProvision[];
   definitions: ParsedDefinition[];
-}
-
-/* ---------- Language detection ---------- */
-
-/** Check if a line is primarily Amharic (Ethiopic script) */
-function isAmharicLine(line: string): boolean {
-  const ethiopicChars = (line.match(/[\u1200-\u137F\u1380-\u139F\u2D80-\u2DDF\uAB00-\uAB2F]/g) || []).length;
-  const latinChars = (line.match(/[A-Za-z]/g) || []).length;
-  // If more than 40% of chars are Ethiopic and there are at least some
-  return ethiopicChars > 3 && ethiopicChars > latinChars * 0.5;
-}
-
-/** Check if a line has substantial English text */
-function isEnglishLine(line: string): boolean {
-  const words = line.split(/\s+/).filter(w => /^[A-Za-z]/.test(w));
-  return words.length >= 2;
+  /** Set by ingest when the document is PDF-only and could not be structurally parsed */
+  pdf_only?: boolean;
 }
 
 /**
- * Determine if the document is bilingual (has substantial English content).
- * If bilingual, we extract English only. If not, we keep Amharic.
+ * Strip HTML tags and decode common entities, normalising whitespace.
  */
-function isBilingual(lines: string[]): boolean {
-  let englishLines = 0;
-  let totalLines = 0;
-  for (const line of lines) {
-    if (line.trim().length < 3) continue;
-    totalLines++;
-    if (isEnglishLine(line)) englishLines++;
-  }
-  // If more than 15% of lines have English, consider it bilingual
-  return totalLines > 0 && englishLines / totalLines > 0.15;
-}
-
-/* ---------- Text cleaning ---------- */
-
-/** Remove page headers/footers and clean up PDF extraction artifacts */
-function cleanPdfText(text: string): string {
-  let cleaned = text
-    // Remove page number lines
-    .replace(/^\s*\d+\s*$/gm, '')
-    // Remove Federal Negarit Gazette headers
-    .replace(/^\s*(?:ፌደራል ነጋሪት ጋዜጣ|FEDERAL NEGARIT GAZETTE)\s*$/gm, '')
-    // Remove "page" references
-    .replace(/page\s*…*\s*\d+/gi, '')
-    // Remove form feed characters
-    .replace(/\f/g, '\n')
-    // Collapse triple+ newlines into double
-    .replace(/\n{3,}/g, '\n\n');
-
-  return cleaned;
-}
-
-/** Filter to English-only content from bilingual text */
-function extractEnglishContent(lines: string[]): string[] {
-  const result: string[] = [];
-  for (const line of lines) {
-    const trimmed = line.trim();
-    if (trimmed.length === 0) {
-      result.push('');
-      continue;
-    }
-    // Keep lines that are English or look like article numbers
-    if (isEnglishLine(trimmed) || /^\d+[\./]/.test(trimmed) || /^[a-z]\)/.test(trimmed)) {
-      // Skip lines that are predominantly Amharic
-      if (!isAmharicLine(trimmed)) {
-        result.push(trimmed);
-      }
-    }
-    // Keep structural markers in English
-    if (/^(PART|CHAPTER|SECTION|SCHEDULE|APPENDIX)\s/i.test(trimmed) && !isAmharicLine(trimmed)) {
-      if (!result.includes(trimmed)) {
-        result.push(trimmed);
-      }
-    }
-  }
-  return result;
-}
-
-/* ---------- Structural parsing ---------- */
-
-interface RawArticle {
-  number: number;
-  title: string;
-  content: string[];
-  part: string;
-  chapter: string;
+function stripHtml(html: string): string {
+  return html
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/ /g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
 /**
- * Parse articles from the extracted text lines.
- * Articles follow the pattern: "N. Title" or "N.Title" at the start of a line.
+ * Determine the chapter/part container for a section from its AKN id.
  *
- * In bilingual PDFs, each article appears twice (Amharic then English).
- * We detect duplicates and keep the English version (or the one with more Latin text).
+ * AKN ids follow patterns like:
+ *   part_I__sec_1       -> chapter = "Part I"
+ *   chp_ONE__sec_1      -> chapter = "Chapter ONE"
+ *   sec_1               -> chapter = undefined
  */
-function parseArticles(lines: string[]): RawArticle[] {
-  const allArticles: RawArticle[] = [];
-  let currentPart = '';
-  let currentChapter = '';
-  let currentArticle: RawArticle | null = null;
+function extractChapter(sectionId: string): string | undefined {
+  const partMatch = sectionId.match(/^part_([^_]+)__/);
+  if (partMatch) return `Part ${partMatch[1]}`;
 
-  // Regex for article start: "N. Title" or "N.Title" at line start
-  const articleRe = /^(\d+)\.\s*(.*)/;
-  const partRe = /^PART\s+(\w+)/i;
-  const chapterRe = /^CHAPTER\s+(\w+)/i;
-  const sectionRe = /^SECTION\s+(\w+)/i;
+  const chpMatch = sectionId.match(/^chp_([^_]+)__/);
+  if (chpMatch) return `Chapter ${chpMatch[1]}`;
 
-  for (const line of lines) {
-    const trimmed = line.trim();
-    if (trimmed.length === 0) {
-      if (currentArticle) {
-        currentArticle.content.push('');
-      }
-      continue;
-    }
-
-    // Check for Part (English)
-    const partMatch = trimmed.match(partRe);
-    if (partMatch && !isAmharicLine(trimmed)) {
-      currentPart = trimmed;
-      continue;
-    }
-
-    // Check for Chapter or Section (structural, English)
-    const chapterMatch = trimmed.match(chapterRe) || trimmed.match(sectionRe);
-    if (chapterMatch && !isAmharicLine(trimmed)) {
-      currentChapter = trimmed;
-      continue;
-    }
-
-    // Check for article start
-    const articleMatch = trimmed.match(articleRe);
-    if (articleMatch) {
-      const num = parseInt(articleMatch[1], 10);
-      const title = articleMatch[2].trim();
-
-      // Only treat as a new article if the number is reasonable
-      if (num >= 1 && num <= 500) {
-        if (currentArticle) {
-          allArticles.push(currentArticle);
-        }
-        currentArticle = {
-          number: num,
-          title,
-          content: [],
-          part: currentPart,
-          chapter: currentChapter,
-        };
-        continue;
-      }
-    }
-
-    // Add line to current article
-    if (currentArticle) {
-      currentArticle.content.push(trimmed);
-    }
-  }
-
-  // Push the last article
-  if (currentArticle) {
-    allArticles.push(currentArticle);
-  }
-
-  // Deduplicate: in bilingual PDFs, each article number appears twice.
-  // Keep the version with more English content.
-  const byNumber = new Map<number, RawArticle[]>();
-  for (const article of allArticles) {
-    const existing = byNumber.get(article.number) ?? [];
-    existing.push(article);
-    byNumber.set(article.number, existing);
-  }
-
-  const dedupedArticles: RawArticle[] = [];
-  for (const [, versions] of byNumber) {
-    if (versions.length === 1) {
-      dedupedArticles.push(versions[0]);
-      continue;
-    }
-    // Pick the version with more English text
-    let bestVersion = versions[0];
-    let bestEnglishScore = 0;
-    for (const v of versions) {
-      const fullText = v.title + ' ' + v.content.join(' ');
-      const englishWords = (fullText.match(/[A-Za-z]{3,}/g) || []).length;
-      if (englishWords > bestEnglishScore) {
-        bestEnglishScore = englishWords;
-        bestVersion = v;
-      }
-    }
-    dedupedArticles.push(bestVersion);
-  }
-
-  // Sort by article number
-  dedupedArticles.sort((a, b) => a.number - b.number);
-  return dedupedArticles;
+  return undefined;
 }
 
 /**
- * Extract definitions from definition articles.
- * Definition articles typically have numbered terms with "means" or "shall mean" patterns.
+ * Extract the section number from an h3 heading text.
+ * Handles patterns like "1. Short title" or "25. Principles of data protection".
  */
-function extractDefinitions(articles: RawArticle[], docId: string): ParsedDefinition[] {
+function extractSectionNumber(heading: string): string | null {
+  const match = heading.match(/^(\d+[A-Za-z]*)\.\s/);
+  return match ? match[1] : null;
+}
+
+/**
+ * Extract the section title from an h3 heading text.
+ * Strips the leading number and period.
+ */
+function extractSectionTitle(heading: string): string {
+  return heading.replace(/^\d+[A-Za-z]*\.\s*/, '').trim();
+}
+
+/**
+ * Detect whether a LesLII document page is a PDF-only display.
+ * Returns true if the display type is "pdf" and no AKN sections are in the body.
+ */
+export function isPdfOnly(html: string): boolean {
+  if (/data-display-type="pdf"/.test(html)) {
+    const hasAknSections = /<section[^>]*class="akn-section"/.test(html);
+    return !hasAknSections;
+  }
+  return false;
+}
+
+/**
+ * Parse LesLII AKN HTML to extract provisions from a statute page.
+ *
+ * The HTML contains <section class="akn-section" id="..." data-eid="..."> elements.
+ * Each section contains an <h3> with the section number and title, followed by
+ * structural content using akn-intro, akn-paragraph, akn-subsection, akn-content,
+ * akn-p, and akn-num elements.
+ */
+export function parseLesothoLawHtml(html: string, act: ActIndexEntry): ParsedAct {
+  const provisions: ParsedProvision[] = [];
   const definitions: ParsedDefinition[] = [];
 
-  // Find the definitions article (usually article 2, titled "Definitions" or "Interpretation")
-  const defArticle = articles.find(a =>
-    /definition|interpretation/i.test(a.title) ||
-    (a.number === 2 && a.content.some(l => /means|shall mean/i.test(l)))
-  );
+  const sectionPattern = /<section\s+class="akn-section"\s+(?:id="([^"]+)"\s+)?data-eid="([^"]+)"[^>]*>/g;
+  const sectionStarts: { id: string; index: number }[] = [];
+  let match: RegExpExecArray | null;
 
-  if (!defArticle) return definitions;
+  while ((match = sectionPattern.exec(html)) !== null) {
+    const id = match[1] ?? match[2];
+    sectionStarts.push({ id, index: match.index });
+  }
 
-  const fullText = defArticle.content.join('\n');
+  for (let i = 0; i < sectionStarts.length; i++) {
+    const start = sectionStarts[i];
+    const endIndex = i + 1 < sectionStarts.length ? sectionStarts[i + 1].index : html.length;
+    const sectionHtml = html.substring(start.index, endIndex);
 
-  // Pattern: term "means" definition, or numbered definitions like 1/ "term" means...
-  const defPatterns = [
-    // "term" means definition
-    /[""]([^""]+)[""]\s+(?:means?|shall mean|refers? to)\s+(.*?)(?=\n\s*\d+\/|\n\s*[""]|$)/gis,
-    // 1/ "term" means definition
-    /\d+\/\s*[""]([^""]+)[""]\s+(?:means?|shall mean|refers? to)\s+(.*?)(?=\n\s*\d+\/|\n\s*$)/gis,
-  ];
+    const headingMatch = sectionHtml.match(/<h3[^>]*>([\s\S]*?)<\/h3>/);
+    if (!headingMatch) continue;
 
-  for (const pattern of defPatterns) {
-    let match: RegExpExecArray | null;
-    while ((match = pattern.exec(fullText)) !== null) {
-      const term = match[1].trim();
-      const def = match[2].replace(/\s+/g, ' ').trim().replace(/;$/, '.');
-      if (term.length > 1 && def.length > 5) {
-        definitions.push({
-          term,
-          definition: def,
-          source_provision: `Article ${defArticle.number}`,
-        });
-      }
+    const headingText = stripHtml(headingMatch[1]);
+    const sectionNum = extractSectionNumber(headingText);
+    if (!sectionNum) continue;
+
+    const title = extractSectionTitle(headingText);
+    const chapter = extractChapter(start.id);
+
+    const isArticle = start.id.includes('__art_');
+    const provisionRef = isArticle ? `art${sectionNum}` : `s${sectionNum}`;
+
+    const contentHtml = sectionHtml.replace(/<h3[^>]*>[\s\S]*?<\/h3>/, '');
+    const content = stripHtml(contentHtml);
+
+    if (content.length > 10) {
+      provisions.push({
+        provision_ref: provisionRef,
+        chapter,
+        section: sectionNum,
+        title,
+        content: content.substring(0, 12000),
+      });
+    }
+
+    if (title.toLowerCase().includes('interpretation') || title.toLowerCase().includes('definition')) {
+      extractDefinitions(sectionHtml, provisionRef, definitions);
     }
   }
-
-  return definitions;
-}
-
-/* ---------- Main parser function ---------- */
-
-/**
- * Parse extracted PDF text into a structured act with provisions and definitions.
- * Called by the ingestion pipeline after PDF download and text extraction.
- */
-export function parsePdfText(text: string, act: ActIndexEntry): ParsedAct {
-  const cleaned = cleanPdfText(text);
-  const allLines = cleaned.split('\n');
-
-  // Determine if bilingual and extract English if so
-  const bilingual = isBilingual(allLines);
-  const lines = bilingual ? extractEnglishContent(allLines) : allLines;
-
-  // Parse articles
-  const rawArticles = parseArticles(lines);
-
-  // Convert to provisions
-  const provisions: ParsedProvision[] = [];
-  for (const article of rawArticles) {
-    const contentText = article.content
-      .join('\n')
-      .replace(/\n{3,}/g, '\n\n')
-      .trim();
-
-    // Skip articles with no meaningful content
-    if (contentText.length < 5) continue;
-
-    const provRef = `Article ${article.number}`;
-    const section = article.number.toString();
-    const chapter = [article.part, article.chapter].filter(Boolean).join(' / ') || undefined;
-
-    provisions.push({
-      provision_ref: provRef,
-      chapter,
-      section,
-      title: article.title || `Article ${article.number}`,
-      content: contentText,
-    });
-  }
-
-  // Extract definitions
-  const definitions = extractDefinitions(rawArticles, act.id);
 
   return {
     id: act.id,
@@ -348,20 +196,38 @@ export function parsePdfText(text: string, act: ActIndexEntry): ParsedAct {
     issued_date: act.issuedDate,
     in_force_date: act.inForceDate,
     url: act.url,
-    description: bilingual ? 'Bilingual (Amharic/English) - English text extracted' : 'Amharic text (no English translation available)',
+    description: act.description,
     provisions,
     definitions,
   };
 }
 
-// Legacy export for compatibility with the stub interface
-export function parseHtml(html: string, act: ActIndexEntry): ParsedAct {
-  // This function is no longer used -- PDFs are the primary source.
-  // But we keep it for interface compatibility.
-  return parsePdfText(html, act);
-}
+/**
+ * Extract term definitions from an Interpretation section.
+ * Definitions in AKN HTML appear as akn-p elements, typically in the pattern:
+ *   "term" means ...;
+ *   "term" includes ...;
+ */
+function extractDefinitions(
+  sectionHtml: string,
+  sourceProvision: string,
+  definitions: ParsedDefinition[],
+): void {
+  const pElements = sectionHtml.match(/<span class="akn-p"[^>]*>[\s\S]*?<\/span>/g) ?? [];
 
-// Re-export parsePdfText as the primary parser
-export function parseLesothoLawHtml(html: string, act: ActIndexEntry): ParsedAct {
-  return parsePdfText(html, act);
+  for (const p of pElements) {
+    const text = stripHtml(p);
+    const defMatch = text.match(/^["“]([^"”]+)["”]\s+(means|includes|has the meaning)\s+(.+)/i);
+    if (defMatch) {
+      const term = defMatch[1].trim();
+      const definition = defMatch[3].replace(/;$/, '').trim();
+      if (term.length > 0 && definition.length > 5) {
+        definitions.push({
+          term,
+          definition,
+          source_provision: sourceProvision,
+        });
+      }
+    }
+  }
 }

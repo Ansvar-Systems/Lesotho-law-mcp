@@ -24,8 +24,8 @@ const DB_PATH = resolve(__dirname, '../data/database.db');
 const CENSUS_PATH = resolve(__dirname, '../data/census.json');
 
 const MAX_DB_AGE_DAYS = Number(process.env['MAX_DB_AGE_DAYS'] ?? '90');
-const PORTAL_URL = 'http://lawlesotho.com';
-const PORTAL_NAME = 'Lesotho Law';
+const PORTAL_URL = 'https://lesotholii.org';
+const PORTAL_NAME = 'Lesotho Legal Information Institute (LesLII)';
 
 interface CensusSummary {
   total_laws?: number;

@@ -30,12 +30,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Lesotho Law (lawlesotho.com) — National Council for Law Reporting',
-    jurisdiction: 'KE',
+    data_source: 'Lesotho Legal Information Institute (lesotholii.org) — AfricanLII / Laws.Africa',
+    jurisdiction: 'LS',
     disclaimer:
-      'This data is sourced from Lesotho Law under Government Open Data principles. ' +
-      'The authoritative versions are in English. Swahili translations may be available for some documents. ' +
-      'Always verify with the official Lesotho Law portal (lawlesotho.com).',
+      'This data is sourced from the Lesotho Legal Information Institute (LesLII) under Government Open Data principles. ' +
+      'The authoritative versions are in English. ' +
+      'Always verify with the official LesLII portal (lesotholii.org).',
     freshness,
   };
 }
