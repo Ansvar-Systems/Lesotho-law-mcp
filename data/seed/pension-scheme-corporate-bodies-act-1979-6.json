@@ -1,0 +1,56 @@
+{
+  "id": "pension-scheme-corporate-bodies-act-1979-6",
+  "type": "statute",
+  "title": "Pension Scheme (Corporate Bodies) Act, 1979",
+  "title_en": "Pension Scheme (Corporate Bodies) Act, 1979",
+  "short_name": "Pension Scheme (Corporate B...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://lesotholii.org/akn/ls/act/1979/6/eng@1979-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "This Act may be cited as the Pensions Scheme (Corporate Bodies) Act 1979 and shall come into operation on a date to be appointed by the Minister by notice in the Gazette ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act \" company \" means the Lesotho National Insurance Company; \" Fund \" means the Statutory Bodies Pensions Fund established under regulation 3 of the Statutory Bodies Pensions Fund Regulations 1976. [ L.N. 12 of 76]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Transfer of Fund and of rights and obligations",
+      "content": "(1) The assets and liabilities of the Fund as at the commencement of this Act are transferred to the Company. (2) All rights and obligations which contributors, their obligations legal representatives, widowers and orphans may have had against or to the Fund under the Statutory Bodies Pensions Fund Regulations 1976 shall be rights and obligations held as against or to the company . [ L.N. 12 of 76]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Company to operate scheme",
+      "content": "(1) The company shall operate a pensions scheme which shall apply to employees of corporate bodies. (2) A pensions scheme operated by the company under subsection (1) shall comply with regulations made under section 5 ."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Regulations",
+      "content": "(1) The Minister may, after consultation with the company , make regulations— (a) with respect to the persons eligible to contribute to a pensions scheme under section 4 (1), amounts to be contributed, the payments, and the withdrawal of contributions; (b) providing for the payment of pensions, gratuities, allowances or benefits to contributors, their legal representatives, widowers or orphans, and the eligibility and qualification for such payment; (c) providing for the production of returns and audited accounts by the company . (2) Until such time as regulations are made under sub­section (1), the rules contained in the Schedule to the Statutory Bodies Pension Fund Regulations 1976 shall continue in force save that references to the company (a) to the Accountant-General and to the Board shall be construed as references to the company ; (b) to a statutory body shall be construed as references to a body corporate."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Repeal",
+      "content": "Save as provided in regulation 5(2) the Statutory Bodies Pensions Fund Regulations 1976 are repealed. History of this document 31 December 1979 this version Published in Government Gazette 09 August 1979 Assented to Related documents Commences Arbitration Act, 1980 [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About LesLII The Lesotho Legal Information Institute (LesLII) was set up in 2012. LesLII's mission is to publish the laws of Lesotho for free access to everyone. LesLII is supported by the Judiciary of Lesotho, the Law Office, the Law Society and other justice sector stakeholders. AfricanLII and Laws.Africa provide technical support to LesLII. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Lesotho Judiciary Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "company",
+      "definition": "means the Lesotho National Insurance Company",
+      "source_provision": "s2"
+    }
+  ]
+}

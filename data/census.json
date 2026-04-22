@@ -8,7 +8,7 @@
   "summary": {
     "total_laws": 84,
     "ingestable": 84,
-    "ocr_needed": 0,
+    "ocr_needed": 9,
     "inaccessible": 0,
     "excluded": 0
   },
@@ -21,9 +21,10 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null
+      "ingestion_date": "2026-04-22",
+      "pdf_only": true
     },
     {
       "id": "administration-of-the-judiciary-act-2011-16",
@@ -33,9 +34,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 29,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "agricultural-marketing-act-1967-26",
@@ -45,9 +46,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 10,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "anti-trafficking-in-persons-act-2011-1",
@@ -57,9 +58,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 56,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "appropriation-1962-63-law-1962-2",
@@ -69,9 +70,10 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null
+      "ingestion_date": "2026-04-22",
+      "pdf_only": true
     },
     {
       "id": "arbitration-act-1980-12",
@@ -81,9 +83,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 42,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "audit-act-2016-6",
@@ -93,9 +95,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 44,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "building-control-act-1995-8",
@@ -105,9 +107,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 43,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "childrens-protection-and-welfare-act-2011-7",
@@ -117,9 +119,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 237,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "codes-of-good-practice-notice-2008-ln-2008-194",
@@ -129,9 +131,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 18,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "communications-act-2012-4",
@@ -141,9 +143,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 56,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "companies-act-2011-18",
@@ -153,9 +155,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 187,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "copyright-regulations-2015-ln-2015-139",
@@ -165,9 +167,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 35,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "corporate-bodies-pension-scheme-regulations-1983-ln-1983-108",
@@ -177,9 +179,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 17,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "court-of-appeal-act-1978-10",
@@ -189,9 +191,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 23,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "court-of-appeal-rules-2006-ln-2006-182",
@@ -201,9 +203,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 22,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "credit-reporting-act-2011-2012-1",
@@ -213,9 +215,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 41,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "credit-reporting-regulations-2013-ln-2013-68",
@@ -225,9 +227,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 17,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "criminal-procedure-and-evidence-act-1981-7",
@@ -237,9 +239,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 345,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "customs-and-excise-act-1982-10",
@@ -249,9 +251,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 124,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "data-protection-act-2012-5",
@@ -261,9 +263,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 57,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "disaster-management-act-1997-2",
@@ -273,9 +275,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 50,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "drugs-of-abuse-act-2008-5",
@@ -285,9 +287,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 108,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "education-act-2010-3",
@@ -297,9 +299,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 70,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "environment-act-2008-10",
@@ -309,9 +311,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 116,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "export-and-import-control-act-1984-16",
@@ -321,9 +323,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 5,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "financial-institutions-licensing-requirements-regulations-2016-ln-2016-46",
@@ -333,9 +335,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 27,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "financial-institutions-act-2012-3",
@@ -345,9 +347,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 77,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "forestry-act-1998-17",
@@ -357,9 +359,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 42,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "high-court-commercial-court-rules-2011-ln-2011-159",
@@ -369,9 +371,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 23,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "high-court-act-1978-5",
@@ -381,9 +383,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 17,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "high-court-civil-litigation-rules-2024-ln-2024-65",
@@ -393,9 +395,10 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null
+      "ingestion_date": "2026-04-22",
+      "pdf_only": true
     },
     {
       "id": "high-court-rules-1980-ln-1980-9",
@@ -405,9 +408,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 60,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "higher-education-act-2004-1",
@@ -417,9 +420,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 53,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "human-rights-commission-act-2016-2",
@@ -429,9 +432,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 38,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "industrial-licensing-act-2014-10",
@@ -441,9 +444,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 33,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "insurance-act-2014-12",
@@ -453,9 +456,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 139,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "international-organisations-privileges-and-immunities-southern-african-customs-union-regulations-2017-ln-2017-3",
@@ -465,9 +468,10 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null
+      "ingestion_date": "2026-04-22",
+      "pdf_only": true
     },
     {
       "id": "interpretation-act-1977-19",
@@ -477,9 +481,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 65,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "labour-act-2024-3",
@@ -489,9 +493,10 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null
+      "ingestion_date": "2026-04-22",
+      "pdf_only": true
     },
     {
       "id": "labour-appeal-court-rules-2002-ln-2002-158",
@@ -501,9 +506,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 19,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "labour-code-directorate-of-disputes-prevention-and-resolution-regulations-2001-ln-2001-194",
@@ -513,9 +518,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 30,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "labour-code-wages-minimum-wages-notice-2024-27",
@@ -525,9 +530,10 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null
+      "ingestion_date": "2026-04-22",
+      "pdf_only": true
     },
     {
       "id": "labour-court-rules-1994-ln-1994-35",
@@ -537,9 +543,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 57,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "land-act-2010-8",
@@ -549,9 +555,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 93,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "land-administration-authority-act-2010-9",
@@ -561,9 +567,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 28,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "land-husbandry-act-1969-22",
@@ -573,9 +579,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 10,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "land-regulations-2011-ln-2011-21",
@@ -585,9 +591,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 58,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "legal-aid-regulations-1979-ln-1979-32",
@@ -597,9 +603,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 9,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "legal-practitioners-act-1967-11",
@@ -609,9 +615,10 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null
+      "ingestion_date": "2026-04-22",
+      "pdf_only": true
     },
     {
       "id": "lesotho-communications-authority-administrative-rules-2016-ln-2016-77",
@@ -621,9 +628,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 50,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "lesotho-passports-and-travel-documents-act-2018-5",
@@ -633,9 +640,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 20,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "local-government-service-act-2008-2",
@@ -645,9 +652,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 34,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "local-government-service-regulations-2011-ln-2011-85",
@@ -657,9 +664,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 102,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "members-of-parliament-salaries-act-1998-18",
@@ -669,9 +676,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 9,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "mine-safety-act-1981-4",
@@ -681,9 +688,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 38,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "money-laundering-and-proceeds-of-crime-act-2008-4",
@@ -693,9 +700,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 113,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "money-laundering-and-proceeds-of-crime-regulations-2019-ln-2019-29",
@@ -705,9 +712,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 37,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "national-identity-cards-act-2011-9",
@@ -717,9 +724,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 21,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "office-of-attorney-general-act-1994-6",
@@ -729,9 +736,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 7,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "penal-code-act-2012-6",
@@ -741,9 +748,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 109,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "pension-funds-act-2019-5",
@@ -753,9 +760,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 81,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "pension-scheme-corporate-bodies-act-1979-6",
@@ -765,9 +772,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 6,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "persons-with-disability-equity-act-2021-2",
@@ -777,9 +784,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 53,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "police-service-act-1998-7",
@@ -789,9 +796,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 85,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "prescription-act-1861-6",
@@ -801,9 +808,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 13,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "prevention-and-suppression-of-terrorism-act-2018-3",
@@ -813,9 +820,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 69,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "prevention-of-corruption-and-economic-offences-act-1999-5",
@@ -825,9 +832,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 53,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "public-financial-management-and-accountability-act-2011-12",
@@ -837,9 +844,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 63,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "public-procurement-regulations-2007-ln-2007-1",
@@ -849,9 +856,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 67,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "public-service-regulations-2008-ln-2008-78",
@@ -861,9 +868,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 144,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "refugee-act-1983-18",
@@ -873,9 +880,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 18,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "refugee-regulations-1986-ln-1986-58",
@@ -885,9 +892,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 15,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "registration-of-births-and-deaths-act-1973-22",
@@ -897,9 +904,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 47,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "road-traffic-act-1981-8",
@@ -909,9 +916,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 125,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "road-traffic-regulations-1981-ln-1981-84",
@@ -921,9 +928,10 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null
+      "ingestion_date": "2026-04-22",
+      "pdf_only": true
     },
     {
       "id": "road-transport-act-1981-6",
@@ -933,9 +941,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 30,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "subordinate-court-rules-1996-ln-1996-132",
@@ -945,9 +953,9 @@
       "status": "in_force",
       "category": "subsidiary",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 62,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "supplementary-appropriation-1961-62-law-1961-8",
@@ -957,9 +965,10 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
+      "ingested": true,
       "provision_count": 0,
-      "ingestion_date": null
+      "ingestion_date": "2026-04-22",
+      "pdf_only": true
     },
     {
       "id": "teaching-service-commission-act-1983-15",
@@ -969,9 +978,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 21,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "tourism-act-2002-4",
@@ -981,9 +990,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 35,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "value-added-tax-act-2001-9",
@@ -993,9 +1002,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 90,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "water-act-2008-15",
@@ -1005,9 +1014,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 43,
+      "ingestion_date": "2026-04-22"
     },
     {
       "id": "workmens-compensation-act-1977-13",
@@ -1017,9 +1026,9 @@
       "status": "in_force",
       "category": "act",
       "classification": "ingestable",
-      "ingested": false,
-      "provision_count": 0,
-      "ingestion_date": null
+      "ingested": true,
+      "provision_count": 47,
+      "ingestion_date": "2026-04-22"
     }
   ]
 }

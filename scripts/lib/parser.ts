@@ -141,7 +141,11 @@ export function parseLesothoLawHtml(html: string, act: ActIndexEntry): ParsedAct
   const provisions: ParsedProvision[] = [];
   const definitions: ParsedDefinition[] = [];
 
-  const sectionPattern = /<section\s+class="akn-section"\s+(?:id="([^"]+)"\s+)?data-eid="([^"]+)"[^>]*>/g;
+  // LesLII emits `data-eId` (mixed case) rather than `data-eid`; match
+  // case-insensitively and accept either `id=... data-eId=...` or either
+  // attribute alone to be robust across AKN renderers. Rules of court use
+  // `akn-rule` containers instead of `akn-section` — treat them identically.
+  const sectionPattern = /<section\s+class="akn-(?:section|rule)"\s+(?:id="([^"]+)"(?:\s+data-eid="[^"]*")?|data-eid="([^"]+)")[^>]*>/gi;
   const sectionStarts: { id: string; index: number }[] = [];
   let match: RegExpExecArray | null;
 
@@ -166,7 +170,8 @@ export function parseLesothoLawHtml(html: string, act: ActIndexEntry): ParsedAct
     const chapter = extractChapter(start.id);
 
     const isArticle = start.id.includes('__art_');
-    const provisionRef = isArticle ? `art${sectionNum}` : `s${sectionNum}`;
+    const isRule = start.id.startsWith('rule_') || start.id.includes('__rule_');
+    const provisionRef = isArticle ? `art${sectionNum}` : isRule ? `r${sectionNum}` : `s${sectionNum}`;
 
     const contentHtml = sectionHtml.replace(/<h3[^>]*>[\s\S]*?<\/h3>/, '');
     const content = stripHtml(contentHtml);
@@ -204,30 +209,39 @@ export function parseLesothoLawHtml(html: string, act: ActIndexEntry): ParsedAct
 
 /**
  * Extract term definitions from an Interpretation section.
- * Definitions in AKN HTML appear as akn-p elements, typically in the pattern:
- *   "term" means ...;
- *   "term" includes ...;
+ *
+ * LesLII renders definitions with an explicit Akoma Ntoso `<span class="akn-def">`
+ * wrapping the defined term, followed by the definition text. We scan for each
+ * akn-def span and capture everything up to the next akn-def span or the next
+ * akn-section boundary as the definition body.
  */
 function extractDefinitions(
   sectionHtml: string,
   sourceProvision: string,
   definitions: ParsedDefinition[],
 ): void {
-  const pElements = sectionHtml.match(/<span class="akn-p"[^>]*>[\s\S]*?<\/span>/g) ?? [];
+  const pattern = /<span class="akn-def"[^>]*>([^<]+)<\/span>([\s\S]*?)(?=<span class="akn-def"|<section class="akn-section")/g;
+  let m: RegExpExecArray | null;
 
-  for (const p of pElements) {
-    const text = stripHtml(p);
-    const defMatch = text.match(/^["“]([^"”]+)["”]\s+(means|includes|has the meaning)\s+(.+)/i);
-    if (defMatch) {
-      const term = defMatch[1].trim();
-      const definition = defMatch[3].replace(/;$/, '').trim();
-      if (term.length > 0 && definition.length > 5) {
-        definitions.push({
-          term,
-          definition,
-          source_provision: sourceProvision,
-        });
-      }
+  while ((m = pattern.exec(sectionHtml)) !== null) {
+    const term = stripHtml(m[1]);
+    let definition = stripHtml(m[2]);
+
+    // Trim leading quote and trailing ; or " or [ annotation
+    if (definition.startsWith('"') || definition.startsWith('“')) {
+      definition = definition.substring(1).trim();
+    }
+    // Strip trailing semicolon + quote + stray edit-annotation fragments
+    definition = definition.replace(/[;,]\s*["”]?\s*$/, '').trim();
+    // Cap at 2000 chars
+    definition = definition.substring(0, 2000);
+
+    if (term.length > 0 && definition.length > 5) {
+      definitions.push({
+        term,
+        definition,
+        source_provision: sourceProvision,
+      });
     }
   }
 }

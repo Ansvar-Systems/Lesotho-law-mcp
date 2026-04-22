@@ -1,0 +1,331 @@
+{
+  "id": "mine-safety-act-1981-4",
+  "type": "statute",
+  "title": "Mine Safety Act, 1981",
+  "title_en": "Mine Safety Act, 1981",
+  "short_name": "Mine Safety Act, 1981",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://lesotholii.org/akn/ls/act/1981/4/eng@1981-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "This Act may be cited as the Mine Safety Act 1981 and shall come into operation on such day as the Minister may, by and notice in the Gazette , appoint."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act — \" Chief Inspector \" means the Chief Inspector of Mines appointed under section 8 (1); \" Commissioner \" means the Commissioner of Mines; \" inspector \" means an Inspector of Mines appointed under section 8 (1), and, where the context so permits, means also the Chief Inspector; \" machinery \" means any mechanical or electrical appliance or portion thereof employed for mining purposes; \" manager \" means the person appointed to be manager of a mine or a temporary manager appointed under section 6 ; \" mine \", when used to express a state or condition, means any place, excavation or working wherein or whereon any mining operation is carried on together with all buildings, premises, erections and appliances belonging or appertaining thereto above and below ground for the purpose of searching for, winning, treating or preparing minerals or obtaining or extracting any mineral or metal by any mode or method or for the purpose of dressing mineral ores; \" mine \", when used to express action, means intentionally to search for or win minerals and includes any operations which are necessary therefor or directly or indirectly necessary therefor or incidental thereto; \" mineral \" means any substance occurring naturally in or on the earth having been formed by or subjected to a geo­logical process; \" Minister \" means the Minister responsible for mines; \" owner \" means the holder under the Mining Rights Act 1967 of prospecting or mining rights or his representative as appointed by him under section 5 (1); \" serious bodily injury \" means an injury which involves, or in all probability will involve the permanent loss of the use of or injury to sight or hearing."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Act not to apply in certain cases",
+      "content": "(1) Subject to subsections (2) and (3), this Act except for section 9 , 10 and 22 shall not apply to— (a) a mine or part thereof, in which excavation is for prospecting purposes only, and not for the purpose of development or construction of the mine or for winning minerals from it; (b) a mine used solely for the purpose of extracting sand, gravel, road metal, earth and building stone; (2) Notwithstanding subsection (1), where— (a) the number of persons employed in the mine on any one day exceeds 15; (b) any part of the excavation extends below superjacent ground; (c) the depth of the excavation measured from the highest to the lowest point exceeds 6 metres, this Act shall apply. (3) Notwithstanding subsection (1), the Minister may ex­tend the application of this Act or of any provision thereof to a mine referred to in paragraph (1) (a) or (1) (b) wherever satis­fied, having regard to the circumstances obtaining in relation to mine , that it is necessary and desirable to do so. (4) Where the circumstances referred to in paragraph (2)(a), (2) (b) or (2) (c) are present, the owner shall so inform the Chief Inspector . Part II – Mining operations, owners and managers"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Notice of commencing etc. operations",
+      "content": "The owner of a mine shall, prior to commencing, re­-commencing or abandoning mining operations, give at least 14 days' written notice thereof to the Chief Inspector and to the District Administrator of the district in which the mine is situated."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Appointment of owner 's representative",
+      "content": "(1) Where, by reason of absence from Lesotho or illness, the owner of a mine is incapable of assuming or performing his duties and obligations under this Act, he shall appoint a re­presentative to act on his behalf and such representative shall, during the period of absence or illness, be deemed to be the owner for all the purposes of this Act. (2) The owner shall give written notice to the Commissioner of— (a) an appointment under sub-section (1) stating the name and address of the appointee; (b) the cessation of an appointment under sub-section (1). (3) Where the owner fails to give notice as required under subsection (2) (a), he shall continue to be personally liable for securing the fulfilment of his responsibilities under this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Appointment of manager",
+      "content": "(1) Subject to subsection (2), the owner of every mine shall appoint a manager whose duty it shall be to control and supervise such mine . (2) The owner may appoint himself as manager . (3) The owner shall, within 14 days of appointing or ter­minating the appointment of a manager , give written notice there­of to the Commissioner . (4) A manager may, during his temporary absence, ap­point in writing some suitable person to be temporary manager , and thereupon, all duties and obligations of the manager shall devolve upon the temporary manager . (5) manager shall, prior to absenting himself, give writ­ten notice to the Commissioner of the appointment of a tem­porary manager . (6) A manager appointed under this section shall possess such qualifications as the Minister may prescribe."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Penalty for working mine without manager",
+      "content": "If a mine is worked for more than 14 days without the control and supervision of a manager , the owner of the mine shall be liable to a fine of 50 rand and to a further fine of 25 rand for each day after the fourteenth during which the mine is so worked. Part III – Inspectors"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Appointment of Chief Inspector and inspectors",
+      "content": "(1) Subject to the law governing the public service, the Minister may appoint a Chief Inspector of Mines and such ins­pectors of mines as may be necessary for the carrying into effect of this Act, and the appointment shall be notified in the Gazette . (2) The Minister shall satisfy himself, with respect to any person whom he proposes to appoint to be an inspector , that the person will have no such interest (whether financial or other­wise) as is likely to affect him in the exercise and performance of his powers and duties as an inspector ."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "General powers of inspectors",
+      "content": "(1) An inspector may— (a) at any time (whether by day or night) but so as not unreasonably to impede or obstruct the working of the mine enter, inspect and examine any mine and every part thereof: (b) conduct such examination, inquiry or test as may be necessary— (i) to determine whether this Act is being observed; or (ii) to ascertain any matter affecting or relating to the safety or well-being of persons employed at a mine , and in particular the causes and circumstances of any accident or other occurrence at a mine ; (c) subject to notifying the manager , take or remove for the purpose of analysis or test, or for use in evidence, samples or mineral , material, substances or other items found at a mine ; (d) obtain and record statements from any person (whether at the mine or elsewhere) which he may consider neces­sary for the purposes of and examination or inquiry under this subsection; (e) require the production of, inspect, and take extracts from, registers, books, plans or other documents rele­vant for the purposes of an examination or inquiry under this subsection; (f) require any person having responsibilities in relation to a mine (whether or not the owner or manager or other person employed thereat) to give him such facilities and assistance with respect to any matters or things to which the responsibilities of that person extend as are neces­sary for the purpose of enabling the inspector to exer­cise the powers conferred on him by this Act; (g) exercise such other powers as may be necessary for car­rying this Act into effect. (2) In the exercise of his powers of entry and inspection under subsection (1), an inspector may be accompanied by any person or persons duly authorised in writing by the Chief Ins­pector to accompany him."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Powers of authorised persons to enter etc.",
+      "content": "(1) Any person having the written authorisation of an inspector may, upon giving not less than 4 days' notice to the manager of a mine , enter the mine at any time to survey, level or measure it or any part of it. (2) Notwithstanding subsection (1), where, in the opinion of the inspector , an emergency exists, the authorised entry may be effected without notice, but the inspector shall within 7 days of such entry inform the manager in writing of the emergency."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Powers of inspectors to remedy dangerous practices and procedure to be followed",
+      "content": "(1) Where an inspector finds that a mine or any mat­ter, thing or practice in or connected with a mine is or may be dangerous to human life or safety, he shall give written notice to the owner or manager of the mine — (a) stating the particulars in which he considers the mine , matter, thing or practice to be dangerous; (b) requiring the danger to be remedied within the time and in the manner specified in the notice; and (c) where the danger appears to the inspector to be im­minent, imposing such prohibitions, restrictions or re­quirements as he considers necessary for the purpose of safeguarding the safety or health of persons employed at the mine . (2) On receipt of a notice given under subsection (1), the owner or manager shall comply therewith, or, if he objects there­to, he shall immediately state his objection in writing to the Com­missioner. (3) Notwithstanding an objection under subsection (2), the owner or manager shall comply with any prohibition, restric­tion or requirement imposed pursuant to subsection (1) (c) un­til such time as the objection has been determined by the Com­missioner, and in case of default shall be guilty of an offence. (4) An owner or manager who fails to comply with the terms of a notice given under subsection (1) or, in the case of an objection, with the decision of the Commissioner with respect to the objection, is guilty of an offence and is liable to a fine of 1000 rand and to 12 months' imprisonment. Part IV – Inquiries into accidents"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part IV",
+      "section": "12",
+      "title": "Inquiries by Minister into accident causing death or serious injury",
+      "content": "Where an accident which occurs at a mine results— (a) in death or injury likely to be fatal; or (b) serious bodily injury , the manager of the mine shall give immediate notice thereof to the Commissioner who shall inform the Minister and thereupon, the Minister shall appoint some person to hold an inquiry into the causes of the accident."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part IV",
+      "section": "13",
+      "title": "Notice of occurrences and inquiries by Minister",
+      "content": "(1) Where there occurs at a mine — (a) an explosion, ignition, spontaneous heating, outbreak of fire or irruption or inrush of water or other liquid matter; (b) an influx of inflammable or noxious gases; (c) a breakage of ropes, chains or other gear by which per­sons or material are lowered or raised in a shaft or in­cline; (d) an overwinding of cages or other means of conveyance in any shaft, while persons or material are being lower­ed or raised, (e) a premature collapse of any part of the workings; or (f) any other occurrence or type of occurrence to which the Minister may, by order, extend the application of this subsection, the manager shall— (aa) give immediate notice of the occurrence to the Com­missioner; (bb) simultaneously post one copy of the notice on a notice board clearly visible to all persons employed at the mine ; and (cc) ensure that the notice be kept posted for at least 14 days. (2) Upon receipt of a notice given pursuant to subsection (1), the Commissioner shall report the occurrence to the Minister who may, if he so thinks fit, appoint some person to hold an inquiry into the causes of the occurrence."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part IV",
+      "section": "14",
+      "title": "Notice of, and inquiries into diseases",
+      "content": "The Minister may, by order, extend the application of section 13 (1) to the contraction by a person employed at a mine of any such disease as may be specified in the order, and section 13 shall have effect as if such disease were an occurrence under that section."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Inquiries initiated by Chief Inspector",
+      "content": "(1) Where, in the opinion of the Chief Inspector , it is for any reason expedient that an inquiry be held into an occurrence, other than an occurrence reported to the Minister under section 13 , or into safety or health conditions at a mine, he may hold, or direct an inspector to hold, an inquiry into such occurrence or conditions. (2) Where a trade union at a mine submits a written request setting out the reasons for an inquiry to be held into any occurrence, other than an occurrence reported to the Minister under section 9 , or condition at a mine affecting or likely to affect the safety or health of persons, the Chief Inspector may cause such occurrence or condition to be investigated and, if he considers it expedient, he may hold, or direct an inspector to hold, an inquiry into such occurrence or condition."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Procedure at inquiries",
+      "content": "Section 4 to 9 of the Commissioners Powers Proclamation 1955 shall apply to any inquiry held pursuant to sections 12 to 15 of this Act as if the inquiry were a commission appointed under section 3 of that Proclamation, save that a subpoena issued under section 4 of the Proclamation may be in the form of a letter signed by the person or persons holding the inquiry and may be served in such manner as such person or persons may direct. [ Proclamation 99 of 1955 ]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Supply of drinking water",
+      "content": "The owner and manager of a mine shall secure the provision and maintenance thereat at suitable points conveniently accessible to all persons employed at the mine of an adequate supply of wholesome drinking water."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Sanitary conveniences",
+      "content": "(1) The owner and manager of a mine shall secure the provision thereat (below and above ground) of sufficient and suitable sanitary conveniences for the separate use of employees of both sexes. (2) Sanitary conveniences provided in pursuance of subsection (1) shall be properly maintained, kept clean and reasonably well lit."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "First aid",
+      "content": "The owner and manager of a mine shall secure the provision thereat of an adequate supply of drugs and dressings and of adequate facilities and equipment for the first aid or medical treatment of persons who, while employed in or about the mine , receive injury or become ill, and for their conveyance, where necessary, to hospitals and dispensaries."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Inspector may issue directions",
+      "content": "(1) Where, in the opinion of an inspector , adequate provision has not been secured pursuant to section 17 , 18 (1) or 19 he may serve notice on the owner or manager, requiring him to make adequate provision accordingly within such time as may be specified in the notice. (2) On receipt of the notice the owner or manager shall comply therewith, or if he objects, he shall immediately state his objection in writing to the Commissioner . (3) Pending the decision of the Commissioner on the ob­jection, the notice shall be in abeyance. (4) Upon failure to comply with a notice given under sub­section (1) or, in the case of an objection, with the decision of the Commissioner the owner and manager shall, subject to any defence under section 29 or 30 be guilty of an offence and liable to a fine of 200 rand and to two months' imprisonment. Part VI – Employment provisions [Please note: numbering as in original.]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part VI",
+      "section": "21",
+      "title": "Registers of persons employed",
+      "content": "(1) The manager of a mine shall keep or cause to be kept at the office of the mine or in such place as may be approved by an inspector , the following registers in such form as may be prescribed— (a) a register of all persons employed at the mine ; (b) a register of persons employed below ground; (c) a register of persons employed above ground. (2) The register referred to in paragraph (1) (a) shall specify in respect of each person— (a) his name and address and the name and address of his next-of-kin; (b) his age and sex; and (c) the date of first employment at the mine . (3) The register referred to in paragraphs (1)(b) and (1)(c) shall specify in respect of each person— (a) his name; (b) the nature of his employment; and (c) if engaged on shift-work, the hours thereof. (4) The register of persons employed below ground shall, at any given moment, show the names of every person then be­low ground."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part VI",
+      "section": "22",
+      "title": "Employment of young persons and women",
+      "content": "(1) No person under the age of eighteen shall be employed at a mine . (2) Subject to the Employment Act 1967, no woman shall be employed at a mine — (a) below ground; or (b) above ground except between the hours of 7 a.m. and 6 p.m. [Act 43 of 1967 ] Part VII – Regulations and instructions"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part VII",
+      "section": "23",
+      "title": "Regulations",
+      "content": "The Minister may make regulations for all or any of the following purposes— (a) the regulation of all works and machinery connected with mining in so far as the prevention of accidents and the protection of life and limb are concerned; (b) the regulation of all matters relating to sanitation, health and welfare of persons employed at mines; (c) the prohibition or restriction in relation to the making or use of roads or railways, or the erecting or use of buildings or other structures or objects over, or in the vicinity of, workings of mines; (d) upon the cessation or abandonment of mining opera­tions, the removal from the land of buildings, walls, structures, foundations and of all dangers resulting from undermined ground, dumps, shafts, holes, trenches or excavations of whatever nature; (e) the making and keeping of mine plans and sections and the filling of copies with the Department of Mines; (f) the furnishing of returns, statistics, information and re­ports in relation to a mine ; (g) the requirement of qualifications for employment in particular occupations at mines, the grant of certificates of competency in relation to such occupations, the can­cellation or suspension of such certificates and the pro­hibition of employment of persons not in possession of such certificates; (h) restricting or prohibiting the employment of certain persons or classes of persons in mines or in parts there­of; (i) prescribing the number of hours and the number of shifts during any specified period which employees may work or be permitted to work in or at mines; (j) prescribing conditions of employment at mines, includ­ing minimum rates of remuneration, number of days of paid leave and sick leave; (k) requiring the imparting of practical instruction to, or training of, persons employed or to be employed in mines; (l) prescribing the fees to be paid in respect of any matter or thing done under this Act; (m) prescribing the form of notice required to be given under this Act; (n) prescribing anything which by this Act may or is re­quired to be prescribed; and (o) generally for the better carrying out of the purposes of this Act."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part VII",
+      "section": "24",
+      "title": "Code of instructions",
+      "content": "(1) The owner of a mine shall, if called upon to do so by the Chief Inspector , prepare and submit to the Chief Inspector , a code of instructions (in this section referred to as a \"code\") for the guidance and control of employees of the mine , which code shall contain such instructions as the owner may deem necessary for the prevention of accidents and for the maintenance of order and discipline at the mine . (2) If the owner of a mine — (a) fails to submit a code within two months after his being called upon to do so by the Chief Inspector ; or (b) submits a code which, in the opinion of the Chief Ins­pector, is inadequate, the Chief Inspector may— (aa) in the case of paragraph (a) produce a code for adop­tion by the owner ; or (bb) amend the code submitted by the owner , and shall for­ward the code to the owner for his consideration. (3) If within two months after the date on which the code was sent by the Chief Inspector to the owner in accordance with subsection (2), the Chief Inspector and the owner are unable to agree to its terms, it shall be referred to the Minister for final settlement. (4) The manager shall cause two copies of the code as prepared by the owner , or as produced or amended by the Chief Inspector , or as finally settled by the Minister , whichever be the case, one copy being in English and the other in Sesotho, to be posted at the office of the mine on a notice-board conspicuously displayed."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part VII",
+      "section": "25",
+      "title": "Breach of code of instructions",
+      "content": "(1) The code of instructions shall have effect as from the day it is posted. (2) An employee of a mine who contravenes a provision of the code of instructions applicable at that mine commits a breach of discipline and is liable to disciplinary proceedings and to pu­nishment. (3) The disciplinary proceedings shall be conducted by the manager or by some person or persons designated by him. (4) The following punishments may be imposed on a per­son committing a breach of discipline— (a) dismissal, (b) fine not exceeding 50 Rand, (c) caution or reprimand. Part VIII – Offences, penalties and proceedings"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part VIII",
+      "section": "26",
+      "title": "Obstruction or failure to assist officials",
+      "content": "Any person who— (a) obstructs an inspector or a person authorised to enter a mine under section 10 or any person performing a duty under this Act in discharge of his duty; or (b) refuses or neglects— (i) to furnish an inspector or person authorised under section 10 with the means and assistance necessary for making any entry, inspection or inquiry under this Act; or (ii) to attend, when required to do so by an inspector , any inspection or examination; (iii) to give such statement as an inspector may require of him, is guilty of an offence and liable to a fine of 1,000 rand and to 12 months' imprisonment."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part VIII",
+      "section": "27",
+      "title": "Failure to give notice and keep registers",
+      "content": "(1) An owner who— (a) fails to give to the Chief Inspector the information required under section 3 (4); (b) fails to give notice pursuant to section 4 or section 5 (2), is guilty of an offence. (2) A manager who— (a) fails to give immediate notice pursuant to sections 12 and 13 ; (b) fails to post a copy of the notice or to keep such copy posted, as required of him under section 13 ; or (c) fails to cause copies of the code of instructions to be posted as required of him under section 24 (4), is guilty of an offence. (3) A manager who fails to keep or to cause to be kept such registers as are required to be kept under section 21 (1) is guilty of an offence. (4) Any person who has been instructed by the manager to keep a register referred to in section 21 and who— (a) fails to keep such register; (b) makes any incorrect or false entry in the register; or (c) omits to make entries in the register, is guilty of an offence. (5) A person guilty of an offence under this section is liable to a fine of 200 rand and to two months' imprisonment."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part VIII",
+      "section": "28",
+      "title": "Prohibition of employment",
+      "content": "A manager who contravenes section 22 is guilty of an offence and liable to a fine of 600 rand and six months' imprisonment."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VIII",
+      "section": "29",
+      "title": "Duty and obligation of manager and defence available to him",
+      "content": "(1) The manager of a mine shall enforce the observance of this Act on the mine under his charge. (2) A manager who fails to carry out any of the provisions of this Act shall be deemed guilty of an offence unless he can prove— (a) that all reasonable means of enforcing the provisions of this Act and of preventing any breach of them were taken by him; or (b) that the necessary means for carrying out any of the provisions of the Act were refused him by the owner , in which case the owner shall be responsible for the failure."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part VIII",
+      "section": "30",
+      "title": "Liability of both owner and manager",
+      "content": "(1) In the event of a contravention, in relation to a mine — (a) of a direction, prohibition, restriction or requirement given or imposed by a notice served under this Act by an inspector ; or (b) of a decision of the Commissioner pursuant to section 11 (4) or 20 (4); the owner , subject to subsection (2), and the manager subject to section 29 (2), shall each be guilty of an offence. (2) It shall be a defence for the owner to prove that he is­sued the necessary instructions to the manager and provided him with all the means necessary to secure compliance with the direc­tion, prohibition, restriction or requirement contained in the notice or in the decision of the Commissioner , as the case may be."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VIII",
+      "section": "31",
+      "title": "Endangering safety",
+      "content": "If any person is responsible for any act or omission, whereby in or at a mine — (a) the safety of any person is endangered or likely to be endangered; or (b) serious bodily harm is caused to any person, he shall be guilty of an offence and liable to a fine of 1,000 rand and to 12 months' imprisonment."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VIII",
+      "section": "32",
+      "title": "Power of court to make orders",
+      "content": "(1) Where the owner or manager of a mine is convicted of an offence against this Act, the court may, in addition to any punishment it may impose, require him within a specified period (which may be extended by the court upon an application made in that behalf) to take such measures as may be specified for remedying the matters in respect of which the offence was committed. (2) If, on the expiry of the period or extended period (as the case may be) specified under subsection (1), the order of the court has not been fully complied with, the owner or manager shall be guilty of an offence, the penalty for which shall be the penalty prescribed for the offence in respect of which the order of the court was made."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VIII",
+      "section": "33",
+      "title": "Limitation of",
+      "content": "No court shall take cognisance of an offence under this Act unless complaint thereof has been made— (a) within six months of the date on which the offence is alleged to have been committed or in the case of a continuing offence of the last date on which the alleged offence is continued; or (b) within six months of the date on which the alleged commission of the offence came to the knowledge of an inspector or of the Commissioner , as the case may be. Part IX – Miscellaneous"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part IX",
+      "section": "34",
+      "title": "Notice on manager to be notice on owner",
+      "content": "A notice given to or served upon the manager of a mine in pursuance of this Act shall be deemed to have been given to or served upon the owner of that mine ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part IX",
+      "section": "35",
+      "title": "Immediate notice and objection",
+      "content": "(1) Whenever, in pursuance of this Act, immediate notice is required to be given such notice shall be deemed not to have been given unless given within 24 hours of the occurrence, accident or matter in respect of which immediate notice is required. (2) Whenever, in pursuance of section 11 (2) or 20 (2) an objection is required to be stated, such objection shall be deemed not to have been stated, unless delivered or sent to the Commissioner within 72 hours of the receipt of the notice to which objection is taken."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part IX",
+      "section": "36",
+      "title": "Service of notices",
+      "content": "(1) A notice required by or by virtue of this Act to be served on or given to an inspector or to the Commissioner may be served or given by delivering it in the hands of an inspector or by leaving it at, or sending it by post to, the office of the Department of Mines. (2) A notice required by or by virtue of this Act to be served on or given to the manager of a mine may be served or given by delivering it to him personally or by leaving it at the office of the mine or by sending it post addressed to him at the postal address of the mine . (3) A notice required to be given or served by or by virtue of this Act shall be deemed to have been effected at the time at which it is delivered, or left at the appropriate office, or posted, as the case may be."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part IX",
+      "section": "37",
+      "title": "Exemption from Act",
+      "content": "The Minister may, by order, exempt from the operation of this Act or from any provisions thereof any mine or class of mines for such period and on such condition as he may think fit."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part IX",
+      "section": "38",
+      "title": "Immunity from action",
+      "content": "No action or other legal proceedings whatever, civil or criminal shall be instituted in any court against the Commissioner or an inspector or any person acting under authority of an inspector for or on account of or in respect of anything done in good faith and done or purported to be done in the execution of his duty under this Act. History of this document 31 December 1981 this version Published in Government Gazette 25 June 1981 Assented to Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About LesLII The Lesotho Legal Information Institute (LesLII) was set up in 2012. LesLII's mission is to publish the laws of Lesotho for free access to everyone. LesLII is supported by the Judiciary of Lesotho, the Law Office, the Law Society and other justice sector stakeholders. AfricanLII and Laws.Africa provide technical support to LesLII. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Lesotho Judiciary Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Chief Inspector",
+      "definition": "means the Chief Inspector of Mines appointed under section 8 (1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "means the Commissioner of Mines",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "means an Inspector of Mines appointed under section 8 (1), and, where the context so permits, means also the Chief Inspector",
+      "source_provision": "s2"
+    },
+    {
+      "term": "machinery",
+      "definition": "means any mechanical or electrical appliance or portion thereof employed for mining purposes",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manager",
+      "definition": "means the person appointed to be manager of a mine or a temporary manager appointed under section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mine",
+      "definition": ", when used to express a state or condition, means any place, excavation or working wherein or whereon any mining operation is carried on together with all buildings, premises, erections and appliances belonging or appertaining thereto above and below ground for the purpose of searching for, winning, treating or preparing minerals or obtaining or extracting any mineral or metal by any mode or method or for the purpose of dressing mineral ores",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mine",
+      "definition": ", when used to express action, means intentionally to search for or win minerals and includes any operations which are necessary therefor or directly or indirectly necessary therefor or incidental thereto",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mineral",
+      "definition": "means any substance occurring naturally in or on the earth having been formed by or subjected to a geo­logical process",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "means the Minister responsible for mines",
+      "source_provision": "s2"
+    },
+    {
+      "term": "owner",
+      "definition": "means the holder under the Mining Rights Act 1967 of prospecting or mining rights or his representative as appointed by him under section 5 (1)",
+      "source_provision": "s2"
+    }
+  ]
+}
