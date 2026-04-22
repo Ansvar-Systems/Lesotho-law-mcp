@@ -449,8 +449,8 @@ function buildDatabase(): void {
     insertMeta.run('schema_version', '2');
     insertMeta.run('built_at', new Date().toISOString());
     insertMeta.run('builder', 'build-db.ts');
-    insertMeta.run('jurisdiction', 'ET');
-    insertMeta.run('source', 'lawlesotho.com');
+    insertMeta.run('jurisdiction', 'LS');
+    insertMeta.run('source', 'lesotholii.org');
     insertMeta.run('licence', 'Government Open Data');
   });
   writeMeta();

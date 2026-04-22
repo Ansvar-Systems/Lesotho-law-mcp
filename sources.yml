@@ -3,15 +3,17 @@ jurisdiction: "LS"
 country: "Lesotho"
 language: "English"
 sources:
-  - name: "lesotholii.org"
-    authority: "Government of Lesotho"
+  - name: "Lesotho Legal Information Institute (LesLII)"
+    authority: "Government of Lesotho / AfricanLII / Laws.Africa"
     official_portal: "https://lesotholii.org"
-    retrieval_method: "web scraping"
+    retrieval_method: "web scraping (Akoma Ntoso HTML)"
     update_frequency: "as published"
     license_or_terms: "government open data"
-    coverage: "pending census"
+    coverage: "Acts of Parliament and Legal Notices (statutory instruments) enumerated from /legislation/"
 data_freshness:
-  last_full_ingest: null
-  last_check: null
-  total_laws: 0
-  total_provisions: 0
+  last_full_ingest: "2026-04-22"
+  last_check: "2026-04-22"
+  total_laws: 84
+  total_provisions: 4324
+  total_definitions: 1483
+  pdf_only_pending_ocr: 9

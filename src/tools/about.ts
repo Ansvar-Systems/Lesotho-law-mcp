@@ -44,12 +44,12 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       eu_references: safeCount(db, 'SELECT COUNT(*) as count FROM eu_references'),
     },
     data_source: {
-      name: 'Lesotho Legal Information Portal',
-      authority: 'lawlesotho.com',
-      url: 'https://www.lawlesotho.com',
+      name: 'Lesotho Legal Information Institute (LesLII)',
+      authority: 'lesotholii.org',
+      url: 'https://lesotholii.org',
       license: 'Government Open Data',
-      jurisdiction: 'ET',
-      languages: ['en', 'am'],
+      jurisdiction: 'LS',
+      languages: ['en'],
     },
   };
 }

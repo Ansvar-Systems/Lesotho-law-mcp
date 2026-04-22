@@ -1,0 +1,601 @@
+{
+  "id": "public-financial-management-and-accountability-act-2011-12",
+  "type": "statute",
+  "title": "Public Financial Management and Accountability Act, 2011",
+  "title_en": "Public Financial Management and Accountability Act, 2011",
+  "short_name": "Public Financial Management...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://lesotholii.org/akn/ls/act/2011/12/eng@2011-06-17",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "(1) This Act may be cited as the Public Financial Management and Accountability Act, 2011 and shall come into operation on the date of its publication in the Gazette . (2) Notwithstanding subsection (1), the provisions relating to the accrual basis of accounting shall not come into operation until such date as the Minister may, by notice published in the Gazette , appoint."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" advance \" means repayable funds taken from the Treasury by, or entrusted to, a public officer to meet unforeseen expenses or payments that the Treasury system cannot meet efficiently; \" Advisory Division \" means the Procurement Policy Advisory Division of the Ministry of Finance and Development Planning; \" authorising officer \" means a Chief Accounting Officer or any other public officer appointed by a Chief Accounting Officer to approve expenditures, but excludes an examining officer ; \" annual appropriation \" means an authorisation by Parliament in the form of an Annual Appropriation Act to spend amounts of public money for specific purposes during a financial year ; \" budget balance \" means the sum of budgeted cash receipts after deducting loans received, principal repayments received and equity transfers from public enterprises less the sum of budgeted cash payments after deducting loans made, principal repayments made and equity transfers to public enterprises and the total of the Contingencies Fund within a financial year ; \" budget year \" means a financial year for which a budget is prepared; \" Chief Accounting Officer \" means an officer designated by the Minister and who is personally charged with responsibility for financial control over his ministry, department or unit; \" Consolidated Fund \" means the fund referred to in section 110 of the Constitution; \" council funds \" means the funds referred to in section 47 of the Local Government Act, 1997 1 ; 1 (Act No. 6 of 1997 as amended) \" examining officer \" means a public officer appointed by a Chief Accounting Officer to certify that the details of a payment are correct and that payment may properly be made; \" financial derivative \" means a financial instrument or agreement between two parties, that has a value, but the value is based on an expected future price movement of the asset to which it is linked, called the underlying asset; \" financial year \" means the period commencing 1st April and ending on 31st March of the next year; \" Government \" means all spending units of the Government of Lesotho and its agencies, but excludes local authorities; \" government property \" means all assets and goods, other than public money , owned or controlled by Government or its agencies; \" internal control \" means all the methods and procedures adopted to safeguard the assets of Government and local authorities, to check the accuracy and reliability of accounting information, and to secure compliance with prescribed requirements; \" investigative authority \" means the Financial Intelligence Unit, Lesotho Mounted Police Service, the Directorate of Corruption and Economic Offences or any other investigative body established by law; \" local authority \" means an entity constituted under section 4 of the Local Government Act, 1997; \" Minister \" means the minister responsible for finance; \" official bank account \" means a bank account established for the deposit, custody and payment of public money for Government or its agencies; \" other public funds \" means funds belonging to accounting entities separate from the Consolidated Fund , established by or under this or another Act, to account for public money ; \" performance indicator \" means a measure of the achievement of Government objectives; \" programme \" means a set of activities of a spending unit for the achievement of a common Government objective; \" public enterprise \" means an entity which— (a) has been established by law to carry out specific commercial activities; (b) is owned and controlled by Government or its agencies; and (c) is a distinct accounting entity producing its own financial statements; \" public money \" means any money, bank deposit, negotiable instrument, other investment or earnings— (a) in the custody or under the control of Government or a local authority or their agencies; or (b) in the custody or under the control of any person acting for or on behalf of Government or a local authority or their agencies; or (c) held by Government in trust for, or otherwise for the benefit of a person other than Government ; \" public officer \" means a person holding or acting in any public office; \" spending unit \" means a ministry or other statutory body , or a local authority , charged with the responsibility of administering one or more programmes, to which funding is allocated by Parliament; \" statutory body \" means an entity which— (a) is established by law to carry out specific Government functions; (b) is owned and controlled by Government ; and (c) is a distinct accounting entity producing its own financial statements; \" statutory expenditure \" means a standing authorisation, established by law, to spend an amount of public money ; \" supplementary appropriation \" means an authorisation by Parliament, in the form of a Supplementary Appropriation Act, to spend a specified amount of public money during a particular financial year ; \" warrant \" means an approval from the Minister to spend public money appropriated by Parliament."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Application",
+      "content": "This Act applies to the Government of Lesotho, including Government spending units, to local authorities and to public enterprises. Part II – Roles and responsibilities"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Functions of the Minister",
+      "content": "The Minister shall— (a) set and maintain the financial management policies of Government , including policies in relation to the public debt of Lesotho; (b) prepare the annual budget of Government and submit it to Cabinet and Parliament; (c) establish mechanisms and procedures for use of funds appropriated and for the submission of regular progress reports on the use of those funds; (d) prepare consolidated quarterly and annual financial statements for Government , and other reports and statements required by Cabinet from time to time; (e) prepare consolidated quarterly and annual financial statements for Parliament and other reports and statements required by Parliament from time to time; (f) report to Cabinet and Parliament on the use of appropriated funds or on any other matter under this Act; (g) appoint Chief Accounting Officers; and (h) issue instructions to Chief Accounting Officers on financial matters."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Functions of the Chief Accounting Officer",
+      "content": "A chief accounting officer shall— (a) report to the minister in his ministry on financial and other matters; (b) submit realistic and achievable estimates of receipts and expenditure of the spending unit , after approval of the minister responsible for the spending unit , to the Minister to enable the Minister to prepare the annual estimates referred to in section 112 (1) of the Constitution; (c) ensure that public money allocated by Parliament is used efficiently to achieve programme objectives approved by Parliament; (d) designate the official bank account into which public money received in accordance with section 26 may be deposited; (e) promptly collect, deposit and account for public money due to Government ; (f) ensure that all contractual obligations of a spending unit are settled and that amounts owed by the spending unit are paid within the agreed periods; (g) ensure that a sound system of internal controls is in place within the spending unit to provide assurance that programme objectives are being met and that the necessary accounting controls are in place; (h) ensure that government property is recorded and managed efficiently to achieve the programme objectives approved by Parliament; (i) register assets and prepare asset management plans consistent with the directives of the Minister ; (j) issue instructions to public officers under his or her authority for the discharge of responsibilities set out in this Act; (k) ensure that spending unit public officers fulfil their responsibilities under this Act; and (l) ensure compliance with all reporting responsibilities under this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Delegation",
+      "content": "(1) The Minister may delegate, in writing, the exercise of his powers and responsibilities under this Act to public officers under his control, with the exception of the power of delegation and the authority to make regulations. (2) A Chief Accounting Officer may delegate, in writing, the exercise of his powers and responsibilities under this Act to public officers under his authority with the exception of the power of delegation. Part III – The budget"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "The budget cycle",
+      "content": "(1) The Minister shall prepare a draft annual budget, based on estimated receipts and payments expected over the coming three years and the policies and plans of Government for that period. (2) All transactions between Government and other entities such as local authorities, public enterprises and non-profit organisations shall be included in the annual budget. (3) The Minister shall, each year, issue instructions to Chief Accounting Officers about the budget process for the coming financial year , including instructions for preparing budget submissions."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Budget submissions",
+      "content": "(1) A Chief Accounting Officer shall prepare a budget submission for his spending unit , separately identifying expenditure ceilings already agreed by Cabinet, spending requests in support of existing policy commitments and any spending requests associated with new policy proposals, for each program under the control of the spending unit . (2) Spending requests for— (a) the coming budget year shall be accompanied by estimates for the two subsequent years; (b) new policy proposals shall clearly indicate the effect of the proposal on the policies and plans of Government . (3) A Minister responsible for a spending unit shall, each year, approve a budget submission before formal submission to the Minister ."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Review and approval by Cabinet",
+      "content": "(1) Cabinet shall review budget submissions and approve or reject new policy proposals. (2) After incorporation of any amendments resulting from a review by Cabinet, Cabinet may authorise the Minister to incorporate the estimates contained in a budget submission in the budget expenditure ceilings of Government for the budget year in question and subsequent two years."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Content of the budget",
+      "content": "(1) After cabinet has completed its review of budget submissions, the Minister shall prepare annual budget documents for presentation to Parliament in accordance with section 112(1) of the Constitution. (2) Annual budget documents shall include— (a) budget overview information; (b) information on approved new policies, their cost and their expected impact on achieving Government policies and plans; (c) receipts and expenditure estimates; and (d) assets and liabilities information."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Budget overview",
+      "content": "Budget overview information shall include— (a) an overview of the economic environment, including the major assumptions on which a budget is based; (b) the objectives and priorities of the budget, aggregate receipt and expenditure estimates for the budget year , the estimated budget surplus or deficit at the end of the budget year and a statement on how any deficit is to be financed; and (c) any other information considered necessary by the Minister ."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Receipt and expenditure estimates",
+      "content": "(1) Receipt and expenditure estimates referred to under section 10(2)(c) shall include, for each programme of Government — (a) the objectives of the programme ; (b) details of any new policy initiatives to be implemented in a budget year , including estimated costs; (c) performance indicators for the programme ; (d) actual receipts and expenditures for the year occurring two years prior to the budget year ; (e) estimated receipts and expenditures for the year prior to the budget year ; (f) estimated receipts and expenditures for the budget year and at least the two following years; and (g) any other information considered necessary by the Minister . (2) Receipt and expenditure estimates shall include details of any statutory expenditure ."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Assets and liabilities information",
+      "content": "Assets and liabilities information as referred to under section 10(2)(d) shall include details of— (a) proposed significant investments in non-financial assets in a budget year and the following two years; (b) proposed significant disposal of assets in the budget year and the following two years; (c) any existing financial investments of Government ; (d) any proposals to invest public money in the budget year and the following two years; (e) any existing loans to Government ; (f) any loans Government intends to receive in the budget year and the following two years; (g) a limit on total guarantees and borrowings in the budget year and the following two years; and (h) any other information considered necessary by the Minister ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Annual Appropriation Act",
+      "content": "(1) The Minister shall, for each financial year , present a Bill for an annual Appropriation Act to Parliament, in accordance with section 112(2) of the Constitution. (2) Parliament may propose to Cabinet changes in allocations within programs in the Appropriation Bill. (3) Unspent appropriation under an annual Appropriation Act lapses at the end of the financial year for which it has been approved and any amounts that remain unspent after that date may not be spent or re-allocated. (4) An annual appropriation act shall not include authorisations in respect of statutory expenditure ."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Virement or reallocation",
+      "content": "(1) A chief accounting officer may approve the transfer of annual appropriation for his spending unit within a program up to an amount equal to 20 percent or within a capital project up to an amount equal to 10 percent of the allocation from which the transfer is made, subject to any donor conditions, but only the Minister may approve the transfer of annual appropriation exceeding this amount, or transfer of annual appropriation to or from allocations for— (a) capital projects, subject to any donor conditions and with the prior approval of Cabinet; (b) salaries and wages; (c) grants, subsidies or social benefits; (d) subscriptions to international organisations; and (e) counterpart contributions. (2) The Minister shall not approve such transfers where they will have the effect of a new policy or principle."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Supplementary Appropriation",
+      "content": "(1) The minister shall prepare a Bill for a Supplementary Appropriation Act for presentation to Parliament in accordance with section 112(3) of the Constitution— (a) if Cabinet decides that an amount authorised by an annual Appropriation Act is insufficient; (b) where a need has arisen for new expenditure not provided for by an annual Appropriation Act; or (c) if any money has been expended for any purpose in excess of the amount appropriated to that purpose by the Appropriation Act, after first preparing a statement of excess. (2) A statement identifying the impact of a Supplementary Appropriation Act on aggregate estimates of receipts and expenditure for the year shall accompany any Bill for a Supplementary Appropriation Act presented to Parliament and the statement shall include details of how the supplementary appropriation is to be funded. (3) A Supplementary Appropriation Act shall not include authorisations for statutory expenditure ."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Contingencies Fund",
+      "content": "(1) Pursuant to section 114 of the Constitution, a Contingencies Fund is established and the amount appropriated for the Contingencies Fund shall be determined by Parliament through an annual budget process. (2) If the Minister is satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists and which cannot be postponed without causing an adverse effect to the public interest, the Minister may make advances from the Contingencies Fund to meet that need. (3) Where any advance is made from the Contingencies Fund the amount shall be replaced in accordance with section 114(2) of the Constitution."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Authorisation of expenditure in advance of appropriation",
+      "content": "If it appears to the Minister that an Appropriation Act for any financial year will not come into operation by the beginning of the financial year , the Minister may approve withdrawals from the Consolidated Fund in accordance with section 113 of the Constitution."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Statutory expenditure",
+      "content": "(1) Any bill establishing a statutory expenditure may only be introduced to Parliament after the Minister has consented to it. (2) Before giving consent, the Minister shall satisfy himself that the statutory expenditure proposed does not pose a threat to the long term fiscal stability of Lesotho. Part IV – Financial management"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Oversight",
+      "content": "The Minister has responsibility for the management, supervision, control and direction of all matters relating to the financial affairs of Government which are not by law assigned to any other minister or authority."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Public money",
+      "content": "(1) Any earnings from investment of the consolidated fund are public money . (2) The Minister shall establish and maintain a classification system for recording budgets, receipts and payments of all public money . (3) The Minister may establish such other public funds as are necessary for the effective management of public money and may give directions on how such funds are to operate. (4) Public money appropriated for a local authority shall be deposited into a council fund established under the Local Government Act 1997. (5) The Minister may prescribe circumstances in which receipts or payments may be recorded and reported on a net basis. (6) Where the Minister has made no prescription as referred to in subsection (5), all receipts and payments of public money shall be recorded and reported on a gross basis."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Commitments falling due in future years",
+      "content": "The Minister may authorise the commitment of public money where payments for that commitment are likely to fall due beyond the budget year ."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Investment of the Consolidated Fund and advances",
+      "content": "(1) Surplus balances of the consolidated fund may be invested by the Minister only and any investments of surplus balances of the Consolidated Fund shall remain part of the Consolidated Fund for the purposes of this Act, and shall be made in the name of the Government of Lesotho. (2) The Minister may authorise temporary advances from the Consolidated Fund , and the advances shall be repaid to the Consolidated Fund before the end of the financial year in which they are made. (3) Any advance made under this section shall not constitute a payment from the Consolidated Fund for the purposes of section 27 of this Act. (4) If an amount lawfully paid out under subsection (2) remains outstanding at the end of the financial year in which it is made, then that amount shall be a charge on the Consolidated Fund in that year and the Minister shall recover any such amount from the amount appropriated to the responsible spending unit in the following financial year ."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Money held in trust",
+      "content": "(1) Amounts held in trust shall be separately identified and accounted for. (2) Money held by Government in trust or on behalf of a person other than Government is a liability of Government . (3) If conditions to allow issue of money held in trust have been fulfilled, the money shall be paid to the person or entity entitled to it. (4) Unless the minister determines otherwise— (a) interest shall not be paid on money held in trust; and (b) money held in trust which remains unclaimed after a period of five years shall be treated as revenue of the Consolidated Fund and if any person or entity subsequently proves, to the satisfaction of the Minister , a claim to such an amount, the amount shall be a charge on the Consolidated Fund and shall be paid to that person or entity."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Official bank accounts",
+      "content": "(1) The Minister shall open one or more official bank accounts for the deposit, custody and payment of public money . (2) The opening and operation of an official bank account shall be subject to terms and conditions prescribed by the Minister . (3) Official bank accounts shall not be overdrawn without the prior approval of the Minister ."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Receipt of public money",
+      "content": "(1) A public officer may not accept public money unless he or she has been authorised in writing to do so by a Chief Accounting Officer . (2) All public money received by an authorised public officer shall be deposited into an official bank account designated by a Chief Accounting Officer within 24 hours or as soon as is practicable but not later than 72 hours from receipt."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Payment of public money",
+      "content": "(1) The Minister may issue a warrant for payments from the Consolidated fund only where— (a) the amount has been appropriated in an annual Appropriation Act or a Supplementary Appropriation Act and the appropriation has not lapsed; (b) the amount is a statutory expenditure established by the Constitution or another Act, including this Act; or (c) the amount is an authorisation of expenditure in advance of appropriation under section 113 of the Constitution. (2) The Minister may withdraw the unspent and uncommitted balance of warrant issued under subsection (1) if— (a) there is evidence that funds are not being used lawfully in accordance with the objectives of Government ; (b) the cash available to Government is insufficient to cover the intended expenditure; (c) warranted funds are no longer required for the purpose intended; or (d) Cabinet decides that the warranted funds are required for another purpose. (3) Public money may be paid from the Consolidated Fund only where an examining officer has certified that the details of a payment are correct and that payment may properly be made, and an authorising officer has duly approved the payment. (4) An authorising officer may approve a payment from the consolidated fund only where— (a) sufficient unspent and uncommitted warrant exists for the purposes of the payment; or (b) the payment is a return of money held in trust under section 24; or (c) the payment is a return of money paid to the Consolidated Fund in error under section 31. (5) An authorising officer may approve a commitment of the Consolidated Fund only where sufficient unspent and uncommitted warrant exists for the purposes of the commitment or where the Minister has approved a commitment extending beyond the current financial year . (6) If at any time it appears from the Minister ’s record that expenditure has been incurred in excess of the authorised provision for a head of expenditure, a surcharge of M1000 or the amount of the excess, whichever is the lesser amount, shall be imposed on the person who was Chief Accounting Officer for that head at that time."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "Borrowings and guarantees",
+      "content": "(1) The Minister , with the prior consent of cabinet, shall approve any borrowings of funds or other assets for the public purposes of Government or of local authorities. (2) Loan agreements on behalf of Government shall be signed by the Minister only, after consultation with Cabinet. (3) All funds borrowed in accordance with subsection (2) shall be paid into and form part of the Consolidated Fund . (4) The Minister may guarantee the repayment of loans on behalf of Government . (5) Before approving any borrowing or guarantee, the Minister shall be satisfied that the beneficiary of the borrowing or guarantee has the capacity to repay the amount involved, together with any interest, within the term proposed."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Loans",
+      "content": "(1) Any loan made from the consolidated fund shall be approved, in writing, by the Minister . (2) The Minister may approve a loan from the Consolidated Fund where repayment will extend beyond the current financial year and where the loan is included in an annual Appropriation Act. (3) Before approving a loan from the Consolidated Fund , the Minister shall be satisfied that the beneficiary has the capacity to repay the amount involved, including any interest, within the term proposed. (4) An agreement on which a loan is based may include an absolute right of the Minister to require full repayment of the loan prior to maturity in the event of default. (5) Terms of a loan agreement may only be changed by the Minister , with the approval of Cabinet, acting in the interests of Government , or when the loan or part of the loan is deemed irrecoverable."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Grants",
+      "content": "(1) The Minister shall receive, on behalf of government and any other Government entity, all grants made by a foreign government or any other entity to Government . (2) The Minister may sign agreements on behalf of Government , after consulting with the minister who will become responsible for the grant funds and with the minister responsible for foreign affairs. (3) All grants made in accordance with subsection (2) shall be paid into and form part of the Consolidated Fund ."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IV",
+      "section": "31",
+      "title": "Appropriation for amounts paid into the Consolidated Fund in error",
+      "content": "If an amount is paid into the Consolidated Fund in error and there is no appropriation for the repayment, then the amount shall be a charge on the Consolidated Fund and shall be payable to the person or entity entitled to it."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part IV",
+      "section": "32",
+      "title": "Financial derivatives",
+      "content": "A spending unit of Government shall not enter into a transaction in financial derivatives without the prior written approval of the Minister ."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part IV",
+      "section": "33",
+      "title": "Power to offset amounts",
+      "content": "Where an amount of public money is due to a person or other entity, but other money is due and payable to Government by that person or entity, the Minister may deduct the amount owing to Government from the amount payable to the person or entity. Part V – Reporting and audit"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Spending unit annual report",
+      "content": "(1) A spending unit of government shall prepare quarterly and annual reports which shall include— (a) details of the programme results achieved, including the impact of new policies implemented in that year and in previous years, and set out the performance indicators used to assess programme performance; and (b) financial statements prepared in accordance with international public sector accounting standards. (2) The Minister may direct spending units on how the international public sector accounting standards are to be applied. (3) A local authority shall submit audited annual reports to the minister responsible for local government, who shall table the reports before Parliament and shall furnish copies of the reports to the Minister . (4) Separate statements under subsection (1)(b) shall be prepared in respect of other public funds under the control of a spending unit . (5) An annual report shall include a statement of any losses of public money or loss of or damage to government property , including any amounts recovered or written off and any government property disposed of by way of gift. (6) The chief accounting officer of each spending unit shall certify in writing that an annual report represents the financial and programme performance of the spending unit in all material respects, and the annual report complies with any directives given by the Minister . (7) A Chief Accounting Officer shall furnish a copy of an annual report to the Minister within three months of the end of the financial year to which it relates. (8) A Chief Accounting Officer who fails to comply with the provisions of sub-sections (1), (6) and (7) shall be liable to a surcharge of M500. (9) A minister responsible for a spending unit shall present an annual report to Parliament within four months of the end of the financial year to which it relates. (10) The Minister may require a spending unit to furnish other financial reports from time to time for the effective management of public money ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Consolidated financial statements",
+      "content": "(1) The Minister shall prepare annual consolidated financial statements. (2) Consolidated financial statements shall be prepared only in relation to the finances of Government . (3) Consolidated financial statements shall be prepared in accordance with international public sector accounting standards and shall be submitted to the Auditor General for audit within five months of the end of the financial year ."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part V",
+      "section": "36",
+      "title": "Additional information to be disclosed",
+      "content": "The Minister shall provide the following information to accompany consolidated financial statements— (a) a summary of any losses of public money or loss of or damage to government property , including any amounts recovered or written off; (b) a statement identifying each current guarantee provided by Government , the beneficiary of the guarantee, the purpose of the guarantee and the amount involved; (c) any payments made during the year as a result of the guarantee; and (d) a statement identifying any transfers of non-financial assets to or from Government including any government property disposed of by way of gift."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part V",
+      "section": "37",
+      "title": "Presentation to Parliament",
+      "content": "(1) The Minister shall present audited consolidated financial statements to Parliament within eight months of the end of the financial year to which they relate. (2) The Minister shall prepare and present to Parliament other financial reports that are required from time to time for the effective management of public money ."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part V",
+      "section": "38",
+      "title": "Internal audit",
+      "content": "(1) A chief accounting officer shall establish an internal audit function within his or her spending unit to — (a) assess risks facing the spending unit in achieving its programme objectives and the mitigation measures in place; (b) assess the adequacy and effectiveness of the internal controls of the spending unit ; (c) report significant internal control issues and recommend improvements; (d) liaise with the Office of the Auditor General; and (e) provide periodic information on the status of the execution of an annual audit plan. (2) In carrying out the function of internal audit referred to in subsection (1), a Chief Accounting Officer shall be guided by the international standards for the professional practice of internal auditing."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part V",
+      "section": "39",
+      "title": "Audit of financial statements of local authorities",
+      "content": "The Auditor General shall undertake audit of the financial statements of local authorities. Part VI – Public enterprises"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VI",
+      "section": "40",
+      "title": "Responsibilities of Chief Executive Officer",
+      "content": "(1) Notwithstanding any obligations imposed by any other Act, a Chief executive officer of a public enterprise shall— (a) ensure that the operations of the enterprise are carried out efficiently, effectively and economically, and that its assets and liabilities are managed effectively to support business objectives; (b) cause funds and accounts to be established and properly kept; (c) ensure a sound system of internal controls is in place within the enterprise to provide assurance that business objectives are being met and that necessary accounting controls are in place; (d) produce financial statements meeting international financial reporting standards; and (e) after consultation with the Minister responsible for that public enterprise , report to the Minister on financial and other matters. (2) If a Chief Executive Officer receives an instruction from the board of directors of a public enterprise that he believes will prevent the fulfilment of one or more of the obligations referred to in subsection (1), the matter shall be reported immediately to the Minister , who may, immediately upon receipt of the report, seek an explanation from the board of directors and, if not satisfied with the explanation, shall report the matter to the investigative authorities who shall investigate the matter to determine if any offence has been committed."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VI",
+      "section": "41",
+      "title": "Activities requiring approval",
+      "content": "Notwithstanding approvals required under any other act, a public enterprise may not— (a) acquire or dispose of partial or full ownership of another enterprise, whether public or private; (b) enter into or dissolve participation in a partnership, trust or joint venture; (c) borrow funds; (d) dispose of assets or interest in assets that are essential to the continuing operation of the public enterprise ; or (e) enter into transactions in financial derivatives, without the prior written approval of the Minister ."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VI",
+      "section": "42",
+      "title": "Integration with the government budget process",
+      "content": "(1) A public enterprise shall provide information on request by the Minister to assist with the preparation of the annual budget of Government and the information shall include, but is not limited to— (a) any equity transfers expected to or from Government over the coming three years; (b) any loans and loan repayments, including interest, to or from Government over the coming three years; (c) any guarantees to be sought from the Minister under section 28(4) over the coming three years; (d) any community service obligation payments expected from Government over the coming three years; and (e) any dividends and tax equivalent payments expected to be made to Government over the coming three years. (2) The budgets of public enterprises do not form part of the annual budget of Government ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VI",
+      "section": "43",
+      "title": "Reports",
+      "content": "(1) A public enterprise shall provide the minister with an annual report that includes— (a) a review of the activities of the public enterprise for the year and a statement of the expected activities for the coming three years; (b) audited financial statements, prepared in accordance with international financial reporting standards; and (c) a statement of any losses of enterprise money or loss of or damage to enterprise property, including any amounts recovered or written off and any enterprise property disposed of by way of gift. (2) A Chief Executive Officer of a public enterprise shall furnish a copy of an annual report to the Minister within three months of the end of the financial year to which it relates. (3) The Minister responsible for a public enterprise , after consultation with the Minister , may direct a public enterprise to furnish other financial reports from time to time for the effective management of the investment by Government in that enterprise, and shall furnish copies of the reports to the Minister ."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VI",
+      "section": "44",
+      "title": "Presentation to Parliament",
+      "content": "(1) The minister responsible for a public enterprise shall present audited public enterprise annual reports to Parliament within six months of the end of the financial year to which they relate, and shall furnish copies of the reports to the Minister . (2) The minister responsible for a public enterprise may, after consultation with the Minister , prepare and present to Parliament other financial reports on public enterprise matters from time to time for the effective management of the investment by Government in an enterprise, and shall furnish copies of the reports to the Minister ."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VI",
+      "section": "45",
+      "title": "Audit of the financial statements of public enterprises",
+      "content": "The Auditor General shall undertake audit of financial statements of public enterprises. Part VII – Procurement and government property"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VII",
+      "section": "46",
+      "title": "Procurement",
+      "content": "(1) The chief accounting officer of each spending unit is responsible for ensuring that government property — (a) is acquired only where it is necessary for achieving programme objectives; (b) acquired in accordance with paragraph (a) is only used for the achievement of programme objectives; and (c) is disposed of when it is no longer contributing towards the achievement of programme objectives or where the costs of ownership exceed its contribution towards achieving programme objectives. (2) In acquiring government property , a Chief Accounting Officer shall ensure that the following principles are observed— (a) value for money; (b) open and effective competition; (c) transparent and ethical behaviour; and (d) management of risk. (3) The Chief Accounting Officer of each spending unit shall ensure a sound inventory management system is in place to achieve an appropriate balance between two objectives— (a) ensuring sufficient availability of goods and materials to meet the operating requirements of the spending unit ; and (b) minimising the investment or costs in the goods and materials of the spending unit . (4) A public officer is accountable for government property under his control. (5) Accountability for government property means that the public officer — (a) shall exercise due care in the custody and use of the government property ; and (b) is personally liable for the value of any loss or damage due to negligence. Part VIII – Loss of public money or government property"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VIII",
+      "section": "47",
+      "title": "Usage of terms",
+      "content": "In this Part, a reference to \" public officer \" includes any person who has been a public officer in the past but is not now a public officer ."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VIII",
+      "section": "48",
+      "title": "Recovery of public money",
+      "content": "(1) Where there occurs a loss of public money — (a) that has been advanced to a public officer ; or (b) while that public money is under the control of a public officer , the loss shall be a debt due to Government and may be recovered from the public officer by action in a court of competent jurisdiction. (2) It is a defence in an action for the recovery of a loss of public money from a public officer for the officer to prove that the loss was not caused or contributed to by a failure of the officer to take reasonable steps to prevent the loss."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII",
+      "section": "49",
+      "title": "Recovery of the value of government property",
+      "content": "(1) Where loss, destruction or damage to government property occurs while the property is in the care of a public officer , the value of the property lost or destroyed or the cost of repairing the damage to that property shall be a debt due to Government and may be recovered from the public officer by action in a court of competent jurisdiction. (2) It is a defence to an action for the recovery of the value of government property from a public officer for the officer to prove that the loss, destruction of or damage to the property was not caused or contributed to by failure of the officer to take reasonable steps to prevent that loss, destruction or damage."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VIII",
+      "section": "50",
+      "title": "Write off",
+      "content": "(1) The Minister may write off amounts of public money and amounts due to Government deemed irrecoverable. (2) The Minister may write off— (a) any losses of government property ; or (b) any government property to be scrapped or disposed of by way of gift, which gift shall only be made to nonprofit organisations that are not natural persons. Part IX – Procurement Tribunal"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part IX",
+      "section": "51",
+      "title": "Establishment",
+      "content": "There is established the Procurement Tribunal whose function shall be to hear appeals against the decisions of the Advisory Division established in terms of the Public Procurement Regulations, 2007 2 . 2 (Legal Notice No. 1 of 2007)"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part IX",
+      "section": "52",
+      "title": "Membership",
+      "content": "(1) The Tribunal shall consist of 6 members, namely— (a) a Chairperson, who shall be a legal practitioner with not less than 5 years’ experience in the legal profession; (b) a Deputy Chairperson, who shall be a legal practitioner with not less than 5 years’ experience in the legal profession; (c) 2 members drawn from the accounting profession; and (d) 2 members drawn from the business community. (2) In all cases members shall have special knowledge, skill and commercial experience relevant to the exercise of the powers of the Tribunal. (3) Membership positions shall be filled after advertising. (4) Members of the Tribunal shall be appointed by the Minister by notice published in the Gazette ."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part IX",
+      "section": "53",
+      "title": "Tenure of office",
+      "content": "(1) (a) A member of the Tribunal shall, subject to subsection (2), hold office for a period of 5 years from the date of appointment. (b) A person may apply again on readvertisement of positions, but may not serve for more than two terms. (2) A member of the tribunal shall cease to be a member— (a) upon expiry of the period of his appointment; (b) if a member is absent without reasonable excuse from three consecutive hearings of the Tribunal of which the member had notice and had been nominated to hear the matter; (c) if he is adjudged insolvent; (d) if a member who is a legal practitioner ceases to practice as such on disciplinary grounds confirmed by the Law Society of Lesotho; (e) on grounds of infirmity of body or mind; (f) if a member is removed by the Minister , by notice in writing, for proven misconduct; (g) if a member resigns by notice in writing to the Minister ; or (h) if the Tribunal is abolished by Act of Parliament. (3) If a vacancy occurs in accordance with subsection (2), a new member may be appointed in accordance with section 52, but that member shall hold office only for the remaining part of the term."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part IX",
+      "section": "54",
+      "title": "Remuneration and travel expenses",
+      "content": "A member of the Tribunal shall be paid such remuneration by way of fees, allowances and travel allowances as the Minister may, from time to time, determine."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part IX",
+      "section": "55",
+      "title": "Secretariat",
+      "content": "(1) There shall be a Secretariat of the Tribunal appointed by the Minister from within the Advisory Division . (2) The Secretariat shall be responsible for all administrative and correspondence business of the Tribunal and shall, in consultation with the Chairperson, act as convenor of the Tribunal."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part IX",
+      "section": "56",
+      "title": "Procedure",
+      "content": "(1) The Chairperson shall make rules governing the procedure of the Tribunal. (2) On hearing appeals the Tribunal may, where the Chairperson deems it necessary, be constituted into two panels of three members each, where each panel shall be headed by either the Chairperson or the Deputy Chairperson, and comprise a member from the accounting profession and a member drawn from the business community. (3) The hearings of the Tribunal shall ordinarily be open to the public, although in exceptional cases the Chairperson may request or accede to a hearing in private, in part or in total. (4) (a) All members of the Tribunal have equal voting rights in determining a case. (b) Where the Tribunal is sitting as six members and there is a tie, the Chairperson shall have a casting vote."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part IX",
+      "section": "57",
+      "title": "Decisions of the Tribunal",
+      "content": "(1) A decision of the Tribunal shall be made, in writing, at the hearing or as quickly as is practicable after completion of the hearing. (2) A decision of the Tribunal shall include its findings of fact and opinion. (3) A decision of the Tribunal shall be published for general information in the Gazette of the Government of Lesotho. Part X – Offences and penalties"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part X",
+      "section": "58",
+      "title": "Usage of terms",
+      "content": "In this Part, a reference to a \" public officer \" includes an employee of a local authority and any person who has been a public officer in the past but who is not now a public officer ."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part X",
+      "section": "59",
+      "title": "Offences",
+      "content": "(1) A public officer charged with the collection, custody or payment of public money or with the purchase, custody or disposal of government property who— (a) solicits, accepts or receives money or valuable consideration from a person other than Government or a local authority for the performance of his official duties; or (b) deliberately contravenes a section of this Act or regulations made pursuant to this Act; or (c) deliberately permits or instructs another person to contravene this Act or regulations made pursuant to this Act; or (d) discloses his password for access to the financial management system, human resource management system or payroll system of Government , commits an offence and upon conviction is liable to a fine of M20,000.00 or imprisonment for a period of two years, or both. (2) A person who gives money or valuable consideration to a public officer for the performance of his official duties commits an offence and upon conviction is liable to a fine of M20,000.00, or imprisonment for a period of two years, or both. (3) All proceeds of the crime referred to in subsection (1) shall be recovered in terms of Part IV of the Money Laundering and Proceeds of Crime Act 2008 3 . 3 (Act No. 4 of 2008)"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part X",
+      "section": "60",
+      "title": "Surcharge",
+      "content": "(1) Where a public officer fails to perform any function or duty assigned under this Act and a loss of public money or loss, destruction or damage to government property has resulted, the Minister may require the officer to present an explanation for the failure to perform the function or duty. (2) The Minister may impose a surcharge on a public officer in any case where the Minister considers an explanation under subsection (1) unsatisfactory. (3) If a public officer is not satisfied with a decision to impose a surcharge, he may apply to a court of competent jurisdiction for a review of the decision of the Minister within 21 days of the officer being notified of the decision to impose the surcharge. (4) When determining the amount of any surcharge, the Minister shall have regard to any loss that was or may have been suffered by Government or a local authority or to any amount that was spent in excess of amounts lawfully appropriated as a result of a failure by a public officer . (5) A surcharge imposed in accordance with subsection (2) is a debt due to Government and is recoverable in a court of competent jurisdiction. (6) The Minister may deduct amounts by way of instalments from the salary, wages, pension or gratuity due to a public officer upon whom a surcharge has been imposed, in order to recover the amount of the surcharge. (7) The imposition of a surcharge under subsection (2) does not preclude any disciplinary action or criminal proceedings being taken under any Act. Part XI – Miscellaneous"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part XI",
+      "section": "61",
+      "title": "Regulations",
+      "content": "The Minister may make regulations for giving effect to this Act."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part XI",
+      "section": "62",
+      "title": "Transitional arrangements",
+      "content": "Until such time as the Minister , pursuant to section 1 (2), publishes the date of commencement of the accrual basis of accounting, the cash basis of accounting shall remain in operation, and spending units and local authorities shall comply with any directions given by the Minister regarding the form and content of financial statements."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part XI",
+      "section": "63",
+      "title": "Repeal",
+      "content": "The Finance Act 1988 4 is repealed. 4 (Act No. 6 of 1988) History of this document 17 June 2011 this version Published in Government Gazette 51 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About LesLII The Lesotho Legal Information Institute (LesLII) was set up in 2012. LesLII's mission is to publish the laws of Lesotho for free access to everyone. LesLII is supported by the Judiciary of Lesotho, the Law Office, the Law Society and other justice sector stakeholders. AfricanLII and Laws.Africa provide technical support to LesLII. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Lesotho Judiciary Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "advance",
+      "definition": "means repayable funds taken from the Treasury by, or entrusted to, a public officer to meet unforeseen expenses or payments that the Treasury system cannot meet efficiently",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Advisory Division",
+      "definition": "means the Procurement Policy Advisory Division of the Ministry of Finance and Development Planning",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorising officer",
+      "definition": "means a Chief Accounting Officer or any other public officer appointed by a Chief Accounting Officer to approve expenditures, but excludes an examining officer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "annual appropriation",
+      "definition": "means an authorisation by Parliament in the form of an Annual Appropriation Act to spend amounts of public money for specific purposes during a financial year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "budget balance",
+      "definition": "means the sum of budgeted cash receipts after deducting loans received, principal repayments received and equity transfers from public enterprises less the sum of budgeted cash payments after deducting loans made, principal repayments made and equity transfers to public enterprises and the total of the Contingencies Fund within a financial year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "budget year",
+      "definition": "means a financial year for which a budget is prepared",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Accounting Officer",
+      "definition": "means an officer designated by the Minister and who is personally charged with responsibility for financial control over his ministry, department or unit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Consolidated Fund",
+      "definition": "means the fund referred to in section 110 of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "council funds",
+      "definition": "means the funds referred to in section 47 of the Local Government Act, 1997 1 ; 1 (Act No. 6 of 1997 as amended) \"",
+      "source_provision": "s2"
+    },
+    {
+      "term": "examining officer",
+      "definition": "means a public officer appointed by a Chief Accounting Officer to certify that the details of a payment are correct and that payment may properly be made",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial derivative",
+      "definition": "means a financial instrument or agreement between two parties, that has a value, but the value is based on an expected future price movement of the asset to which it is linked, called the underlying asset",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial year",
+      "definition": "means the period commencing 1st April and ending on 31st March of the next year",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Government",
+      "definition": "means all spending units of the Government of Lesotho and its agencies, but excludes local authorities",
+      "source_provision": "s2"
+    },
+    {
+      "term": "government property",
+      "definition": "means all assets and goods, other than public money , owned or controlled by Government or its agencies",
+      "source_provision": "s2"
+    },
+    {
+      "term": "internal control",
+      "definition": "means all the methods and procedures adopted to safeguard the assets of Government and local authorities, to check the accuracy and reliability of accounting information, and to secure compliance with prescribed requirements",
+      "source_provision": "s2"
+    },
+    {
+      "term": "investigative authority",
+      "definition": "means the Financial Intelligence Unit, Lesotho Mounted Police Service, the Directorate of Corruption and Economic Offences or any other investigative body established by law",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local authority",
+      "definition": "means an entity constituted under section 4 of the Local Government Act, 1997",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "means the minister responsible for finance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "official bank account",
+      "definition": "means a bank account established for the deposit, custody and payment of public money for Government or its agencies",
+      "source_provision": "s2"
+    },
+    {
+      "term": "other public funds",
+      "definition": "means funds belonging to accounting entities separate from the Consolidated Fund , established by or under this or another Act, to account for public money",
+      "source_provision": "s2"
+    },
+    {
+      "term": "performance indicator",
+      "definition": "means a measure of the achievement of Government objectives",
+      "source_provision": "s2"
+    },
+    {
+      "term": "programme",
+      "definition": "means a set of activities of a spending unit for the achievement of a common Government objective",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public enterprise",
+      "definition": "means an entity which— (a) has been established by law to carry out specific commercial activities; (b) is owned and controlled by Government or its agencies; and (c) is a distinct accounting entity producing its own financial statements",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public money",
+      "definition": "means any money, bank deposit, negotiable instrument, other investment or earnings— (a) in the custody or under the control of Government or a local authority or their agencies; or (b) in the custody or under the control of any person acting for or on behalf of Government or a local authority or their agencies; or (c) held by Government in trust for, or otherwise for the benefit of a person other than Government",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public officer",
+      "definition": "means a person holding or acting in any public office",
+      "source_provision": "s2"
+    },
+    {
+      "term": "spending unit",
+      "definition": "means a ministry or other statutory body , or a local authority , charged with the responsibility of administering one or more programmes, to which funding is allocated by Parliament",
+      "source_provision": "s2"
+    },
+    {
+      "term": "statutory body",
+      "definition": "means an entity which— (a) is established by law to carry out specific Government functions; (b) is owned and controlled by Government ; and (c) is a distinct accounting entity producing its own financial statements",
+      "source_provision": "s2"
+    },
+    {
+      "term": "statutory expenditure",
+      "definition": "means a standing authorisation, established by law, to spend an amount of public money",
+      "source_provision": "s2"
+    },
+    {
+      "term": "supplementary appropriation",
+      "definition": "means an authorisation by Parliament, in the form of a Supplementary Appropriation Act, to spend a specified amount of public money during a particular financial year",
+      "source_provision": "s2"
+    }
+  ]
+}

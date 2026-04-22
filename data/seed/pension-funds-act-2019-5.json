@@ -1,0 +1,782 @@
+{
+  "id": "pension-funds-act-2019-5",
+  "type": "statute",
+  "title": "Pension Funds Act, 2019",
+  "title_en": "Pension Funds Act, 2019",
+  "short_name": "Pension Funds Act, 2019",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://lesotholii.org/akn/ls/act/2019/5/eng@2019-11-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "This Act may be cited as the Pension Funds Act, 2019 and shall come into operation on the date of publication in the Gazette ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" actuarial report \" means a report prepared by the actuary of a pension fund pursuant to section 24 (1); \" actuary \" means a person having an actuarial qualification and being a member of a professional actuarial body or institute recognised as such by the Regulator ; \" administrator \" means a legal entity licensed by the Regulator in terms of section 60 ; \" annuity \" means a specified income payable at stated intervals for a fixed or contingent period, against payment of a stipulated premium and paid either in prior instalment payments or in a single payment; \" asset manager \" means a person licensed in terms of the Central Bank (Collective Investment Schemes) Regulations, 2001 1 ; 1 L.N. No. 5 of 2001 \" auditor \" means a member of the Lesotho Institute of Accountants certified to provide auditing functions recognised by the Institute ; \" bank \" means an institution that holds a licence issued under the Financial Institutions Act, 2012 2 ; 2 Act No. 3 of 2012 \" beneficiary \" means any person who is entitled to receive a benefit from a pension fund as provided for in the rules of the fund or in accordance with this Act; \" beneficiary fund \" means a fund that accepts and administers death benefits on behalf of beneficiaries of a deceased fund member ; \" board \" means the Board of Trustees of a pension fund ; \" conservator \" means a person who is appointed by the Regulator to take care of the assets of a pension scheme whose licence has been suspended, terminated, or otherwise revoked; \" custodian \" means a bank licensed by the Regulator to provide custodial services in terms of the Financial Institutions Act, 2012; \" defined benefit fund \" means a fund which promises to pay a specified amount at retirement, in the form of a lump sum, series of payments or a combination, based on pre-determined method; \" defined contribution fund \" means a fund in which benefits of individual members are calculated by adding— (a) the total accumulated contributions of the member or sponsoring employer ; (b) any interest, dividends and other income accrued in respect of contributions of the member or sponsoring employer ; (c) any capital appreciation; and (d) any insurance proceeds in respect of any insured benefits, if applicable, and deducting any capital depreciation, cost of any insured benefits and any other expenses; \" employer \" means a person , including the Government of Lesotho and state owned company that has entered into an employment contract with another person ; \" financially sound fund \" means a pension fund that has assets that exceed or are equal to its liabilities; \" financial year \" means a 12-month period determined by a fund as reflected in the rules of the fund; \" hybrid fund \" means a fund which is a mixture of a defined benefit fund and a defined contribution fund ; \" independent trustee \" means a trustee that is not directly or indirectly associated with the employer , sponsor or the members of a fund; \" Institute \" means the Lesotho Institute of Accountants; \" licensee \" means a person licensed by the Regulator ; \" liquidator \" means a liquidator as defined in the Companies Act, 2011 3 ; 3 Act No. 18 of 2011 \" member \" means a natural person who has acquired membership of a pension fund in terms of the rules of the pension fund ; \" Minister \" means the Minister responsible for finance; \" non-occupational pension fund \" means a pension fund which a person applies to join in his or her individual capacity and is not dependent on an employer -employee relationship, and includes a retirement annuity fund , a preservation fund or a beneficiary fund ; \" occupational pension fund \" means a pension fund which a person joins as a result of an employee- employer relationship; \" pension fund \" or \"fund\" means a fund registered under section 10 and set up to conduct pension fund business ; \" pension fund business \" means the business of undertaking liability in return for contributions from members or sponsoring employers to provide annuities or lump-sum payments and other related benefits on the attainment of retirement age of member or some other contingency; \" pension fund intermediary \" means person licensed in terms of section 60 ; \" person \" means a natural or legal person and includes an individual, a company, a government, a government agency and any other body recognised as a separate legal entity; \" preservation fund \" means a fund established for purpose of preservation of pension benefits; \" Principal Officer \" means a representative of the fund, appointed in terms of section 21 of this Act; \" professional advisor \" means a person who provides advisory services to a pension fund , and includes an auditor or actuary ; \" provident fund \" means any fund that pays out benefits in the form of a lump sum; \" Regulator \" means the Central Bank of Lesotho continued into existence by the Central Bank Act, 2000 4 ; 4 Act No. 2 of 2000 \" retirement annuity fund \" means a pension fund set up for individual natural persons; \" sponsor \" means any person that applies to set up a non-occupational pension fund or an umbrella pension fund ; \" sponsoring employer \" means an employer who contributes towards a pension fund on behalf of a member ; \" stakeholder \" means— (a) a member and any beneficiary of the fund; (b) an employer ; or (c) a former member who has legitimate interest in the fund; \" ultimate controller \" means any person , regardless of whether the person exercises any influence on a licensee either directly or indirectly through a third party, and includes but is not limited to any person in accordance with whose direction and instructions the directors of the licensee are accustomed to act and whose opinions are influential in the decision making process of the licensee ; and \" umbrella pension fund \" means a pension fund in which— (a) more than one employer participates; (b) the assets and liabilities in respect of the members employed by each participating employer are accounted for separately from those in respect of members employed by other participating employers; and (c) the financial position is determined separately in respect of the members employed by each participating employer ."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Application of the Act",
+      "content": "(1) This Act shall apply to all pension funds in Lesotho. (2) Where a pension fund is subject to the provisions of any other law specifically applicable to such pension fund , the provisions of this Act which would otherwise apply to such pension fund shall not apply wherever those provisions would be inconsistent with any such law. Part II – The Regulator"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Administration of the Act",
+      "content": "The Regulator shall be responsible for the general administration and enforcement of this Act, and for that purpose— (a) shall ensure supervision, regulation, control and protection of pension fund business ; and (b) may appoint technically qualified personnel for the administration of this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Objects, functions and powers of the Regulator",
+      "content": "(1) In addition to its objects, functions and powers under the Central Bank Act of 2000 and other relevant Acts, the Regulator shall, in administering this Act— (a) have regard to the following regulatory objectives— (i) maintaining a fair, safe, stable and efficient pension industry for the benefit and protection of beneficiaries; (ii) promoting confidence, competition and sound business cooperation in the pension industry in Lesotho; (iii) ensuring fair treatment of beneficiaries; (iv) ensuring that the activities of pension funds are not used in furtherance of, or for a purpose connected with, a financial crime; and (v) ensuring the orderly growth of the pension industry in Lesotho; (b) discharge its functions in a manner which it considers most appropriate for the purpose of meeting the regulatory objectives set out in paragraph (a), taking into account— (i) the need to balance the regulatory objectives; (ii) the need to establish and maintain the good repute of Lesotho as a sound financial centre, and of enhancing its competitive position; (iii) the duties and responsibilities of those who operate and administer pensions funds; (iv) the need to use resources committed to supervision in an efficient and economic manner; (v) the benefit of promoting public understanding of the pension industry; and (vi) the best economic interests of Lesotho; and (c) have such powers as are necessary for the attainment of its objects and discharge of its functions under this Act, and shall, in particular, have the power to— (i) request any information, record or document in relation to any pension fund ; (ii) carry out, at any time, on-site inspections on the business premises of a pension fund and audit its books or records; (iii) order an investigation into any pension fund ; (iv) appoint a conservator in relation to the whole or part of a pension fund whose registration has been suspended, terminated or otherwise revoked; (v) apply to court for the freezing of assets of a person connected with an offence under this Act or regulations made under it; (vi) give any directive or take any action necessary to achieve the objects of this Act; (vii) prescribe minimum local investment requirements; (viii) prescribe limitations on geographic location in which pension fund monies may be invested; and (ix) impose levies on pension funds and service providers registered or licensed in terms of this Act. (2) To maintain adherence to internationally accepted standards for pension supervision and the general development of the pension industry in Lesotho, the Regulator shall— (a) develop relations and maintain contact with foreign pension supervisors, regional and international associations or bodies relevant to the functions of the Regulator ; and (b) advise the Minister on regulations and policies on matters related to the sound development and growth of the pension fund industry, including making recommendations on amendments or revisions of this Act, regulations or any other law related to pension funds."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Annual report by the Regulator",
+      "content": "The Regulator shall, within six months after the end of each year ending on 31st December, furnish to the Minister a report on the enforcement of this Act during that year, together with an overview of the pension industry in Lesotho including summaries of annual returns of pension funds submitted to the Regulator during that year. Part III – Registration of funds"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Categories and business of funds",
+      "content": "(1) Pension funds in Lesotho shall be categorised as follows— (a) occupational pension funds; (b) non-occupational pension funds; and (c) umbrella pension funds. (2) A pension fund is prohibited from conducting any other business than pension fund business , unless the Regulator has approved such other business."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "A fund to be registered",
+      "content": "(1) No person shall conduct pension fund business in Lesotho unless that business is registered as a pension fund under this Act. (2) No person shall— (a) without the approval of the Regulator , apply to his business or undertaking a name which includes the words \" pension fund \", \" provident fund \", \" preservation fund \", \" beneficiary fund \", \" retirement annuity fund \", \"umbrella fund\" or any permutation thereof that is or is likely to lead persons to believe that he carries on the business of a pension fund ; (b) perform any act which indicates that he carries on or is authorised to carry on pension fund business , unless the Regulator registers such business or undertaking as a pension fund in accordance with this Act; (c) collect, repatriate or facilitate the collection or repatriation of contributions to a pension fund not registered in Lesotho. (3) Subject to the transitional requirements under Part XVI, any person who contravenes subsection (1) or (2) commits an offence and shall be liable upon conviction— (a) in the case of a natural person , to a fine not less than Two Hundred and Fifty Thousand Maloti (M250,000.00), or to imprisonment for a term not less than ten years, or both; or (b) in the case of a body corporate, to a fine not less than Five Hundred Thousand Maloti (M500,000.00), or to imprisonment for a term not less than ten years for the Board or governing body."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Application for registration of a fund",
+      "content": "(1) A person who intends to operate a fund in Lesotho shall make an application for registration to the Regulator in the form and manner as prescribed in this Act and the regulations. (2) An application made under subsection (1) shall be accompanied by— (a) the names, addresses and particulars of— (i) the persons constituting the governing body of the pension fund ; (ii) the sponsoring employer , if applicable; (b) an indication of— (i) the category of pension fund which is being applied for; (ii) whether the pension fund is a provident fund or not; (iii) in the case of a non-occupational pension fund , whether the fund is a retirement annuity fund , preservation fund or beneficiary fund ; (c) a copy of the rules of the fund; (d) a certificate by an actuary as to the financial soundness of the fund; (e) the registration fee as prescribed by the regulations; (f) in the case of a fund in existence at the commencement of this Act— (i) the documents governing the formation of the fund, including the constitution of the fund, trust deed, charter, or articles of incorporation, as the case may be; (ii) statements of comprehensive income and statements of financial position of the fund for the two financial years immediately preceding the year on which the application is made; and (iii) a statement by an actuary showing, in detail, the latest valuation of assets and liabilities, including particulars as to the principles applied in making such valuation, for the financial year immediately preceding the year in which the application is made; and (g) such other information or document as may be specified in the regulations or requested by the Regulator ."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Registration of a fund",
+      "content": "(1) Where an application is made in terms of section 9 , the Regulator shall not register the applicant unless the Regulator is satisfied that the following registration criteria is met— (a) the rules of the fund are consistent with this Act; (b) the fund will be managed by a board that shall carry on the activities of the fund with integrity, prudence and professional skill; (c) the registration of the fund shall not be contrary to public interest; and (d) the application complies with other conditions as prescribed by regulations. (2) If the Regulator is satisfied that the applicant meets the criteria for registration in terms of subsection (1), the Regulator may, subject to such conditions as it may determine, register the applicant for the category of pension fund for which it has applied. (3) Where the Regulator decides to register the applicant as a pension fund in terms of subsection (2), the Regulator shall— (a) notify the applicant, in writing, of his decision to approve the application; and (b) issue a certificate of registration of a pension fund to the applicant, within ninety days of the receipt of a complete application. (4) The Regulator may reject an application for registration of a pension fund if it appears to the Regulator that the applicant does not meet the requirements of this Act and regulations. (5) Where an application has been rejected in terms of subsection (4)— (a) the Regulator shall, in writing— (i) inform the applicant of the decision to reject the application; and (ii) indicate in what respect the applicant does not meet the registration criteria, within ninety days of the receipt of a complete application; and (b) the applicant may resubmit an application for registration in terms of section 9 after having addressed the concerns raised in paragraph (a)(ii)."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Effect of registration of a fund",
+      "content": "(1) A fund registered under this Act, shall— (a) be a body corporate, governed by a board , and capable of suing and being sued in its own name; (b) be capable of owning or holding property, and of doing or performing all such acts as may be necessary or incidental to the exercise of its powers or the performance of its functions in terms of its rules; and (c) assume liability for and guarantee the benefits offered to its members in terms of the rules. (2) Notwithstanding anything to the contrary in— (a) any written law; (b) the memorandum or articles of incorporation; or (c) the constitution or rules of any body having control of the business of a fund, all the assets, rights, liabilities and obligations pertaining to the business of a fund shall be deemed to be assets, rights, liabilities and obligations of the fund to the exclusion of any other person . (3) No person shall have a claim on the assets or rights, or be responsible for any liabilities or obligations of the fund under subsection (2) except in so far as the claim has arisen from or the responsibility has been incurred in connection with transactions relating to the business of the pension fund . (4) The assets, rights, liabilities and obligations of a fund, including any assets held by any person in trust for the fund, existing immediately before its registration, shall vest in and devolve upon the fund without any formal transfer or cession. (5) A fund shall be exempt from the payment of transfer duty, stamp duty, registration fees or charges related to the vesting or devolution under subsection (4). (6) Process in any legal proceedings against a registered fund may be served by leaving the process at the main registered office of the fund, and in the event of such place having ceased to exist, service upon the Regulator shall be deemed to be service upon the fund. Part IV – Rules and contract of a fund"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part IV",
+      "section": "12",
+      "title": "Matters to be included in the rules of a fund",
+      "content": "The rules of a fund shall be written in the English Language and shall, subject to this Act and the regulations, state— (a) the name of the fund and the physical address of the registered office of the fund; (b) the category, type and object of the fund; (c) the requirements for admission to membership and the circumstances under which membership shall cease; (d) the conditions under which a member or other person may become entitled to a benefit and the nature and extent of such benefit; (e) the appointment, removal from office, powers and remuneration, if any, of officers of the fund; (f) the power to invest; (g) the manner in which any actuarial surplus will be distributed to stakeholders; (h) the manner in which any actuarial deficit will be financed; (i) the manner in which benefits are calculated; (j) the manner in which contracts and other documents binding the fund shall be executed; (k) the manner of altering or rescinding the rules; (l) the appointment of the auditor of the fund and the duration of such appointment; (m) the manner in which a dispute between the fund and a member or any person whose claim is derived from a member shall be settled; (n) the custody of title deeds, securities, and other documents belonging to or held by the fund; (o) the manner in which and the circumstances under which the fund shall be wound up; and (p) such other requirements as may be prescribed by the Regulator ."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part IV",
+      "section": "13",
+      "title": "Amendment of rules",
+      "content": "(1) A fund may, in the manner prescribed by its rules, amend or replace any rule or make additional rules, but no such amendment, replacement, or addition shall be valid— (a) if it purports to affect any right of a creditor of the fund, other than as a member or beneficiary of such fund; and (b) unless it has been approved by the Regulator . (2) The Board shall, within one month of the passing of the resolution approving an amendment or replacement of the rules, submit copies of the amendment or replacement rules to the Regulator , together with such documentation or information as may be prescribed by the Regulator . (3) The Regulator shall approve an amendment or replacement of the rules if it is satisfied that the amendment or replacement— (a) is approved by at least a two-thirds majority vote of the members of the fund; (b) is consistent with this Act or any other law administered by the Regulator ; (c) will not render the fund unable to maintain a sound financial position; (d) does not adversely affect the ability of the Board to manage the fund with integrity, prudence and professional skill; (e) is not contrary to public interest; or (f) will not adversely affect any creditor of the fund. (4) The Regulator may refuse to approve the amendment or replacement if it has the effect of— (a) reducing any benefit that has accrued to a member or beneficiary in respect of his or her membership prior to the amendment or replacement; or (b) unreasonably prejudicing any beneficiary or group of beneficiaries. (5) Notwithstanding the provisions of this section, the Regulator may at any time direct that the rules be amended to comply with the provisions of this Act or regulations made in terms of this Act. (6) The Regulator may, at any time, require a fund to consolidate its rules and amendments or replacements into a set of revised rules."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part IV",
+      "section": "14",
+      "title": "Binding effect of rules of a fund",
+      "content": "The rules of a fund and any amendment to the rules shall be binding and legally enforceable— (a) on the fund and any of its service providers; (b) on the members and beneficiaries of the fund; (c) on employers, where the employer is a party; and (d) on any person who claims any benefit under the rules or whose claim is derived from a person so claiming."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Contract of a fund",
+      "content": "(1) A non-occupational pension fund is required to provide every member of the fund with a contract as evidence of membership and such contract shall clearly set out the obligations of the fund to the member . (2) The Regulator may issue regulations specifying the contents of the non-occupational pension fund contract. Part V – Governance of a fund"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part V",
+      "section": "16",
+      "title": "Board of a fund",
+      "content": "(1) A registered fund shall have a board , which shall be its governing body. (2) A person appointed or elected as a member of the board shall meet the criteria prescribed by regulations. (3) The board of a fund shall comprise an odd number of at least five members of the board , and not more than eleven members of the board , except where the Regulator has, on application, permitted a greater number. (4) Where a fund is— (a) an occupational pension fund , the sponsoring employer has the right to appoint trustees; (b) a non-occupational pension fund , the fund shall have at least one independent trustee , and the sponsor of the fund has the right to appoint trustees; and (c) an umbrella pension fund , the fund shall have at least one independent trustee , and the sponsor of the fund and the sponsoring employer has the right to appoint trustees. (5) In subsection (4), the number of member -elected trustees shall not be less than the other trustees."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part V",
+      "section": "17",
+      "title": "Functions of board",
+      "content": "(1) The function of a board shall be to manage a fund in the best interest of its members, and in terms of this Act, the regulations and the rules. (2) A board shall, in pursuing its function— (a) adopt a code of conduct which shall provide for the following— (i) a duty to act with due care, diligence and good faith; (ii) a duty to manage conflict of interest and to act with impartiality in respect of all members and beneficiaries; and (iii) a duty to obtain independent and objective expert advice on matters where the board lacks sufficient expertise; (b) develop, adopt and implement an investment policy, communication policy and a risk management policy that complies with the regulations or such standards as may be prescribed by the Regulator ; and (c) assess its performance at least once a year, using criteria consistent with that prescribed by the Regulator . (3) The Regulator may prescribe such other functions to the board as the Regulator deems necessary."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part V",
+      "section": "18",
+      "title": "Duties of a board",
+      "content": "(1) A board shall appoint and manage service providers who shall perform the functions required by a fund, including— (a) an administrator , who shall administer the fund, including, but not limited to— (i) managing collection of contributions and payment of benefits on behalf of the fund; and (ii) maintaining the membership records of the fund; (b) one or more asset managers to implement the investment policy; (c) a custodian , who shall hold the assets of the fund; (d) one or more insurers, where the fund provides any benefits that require insurance; (e) an auditor ; (f) an actuary ; and (g) any other person that the board may deem necessary. (2) The board shall ensure that the assets of the fund are at all times held by a custodian . (3) Notwithstanding subsection (1)(f), the Regulator may, on application, exempt a defined contribution pension fund from appointing an actuary on such conditions as it may consider appropriate. (4) The Regulator may vary any conditions fixed in terms of subsection (3), or cancel any exemption granted in terms of that subsection. (5) The appointments made under subsection (1) shall be subject to the following conditions— (a) the service provider is licensed to perform the relevant service; (b) the board has taken reasonable steps to assure itself that the service provider has adequate systems and controls in place to perform the functions that have been delegated to them; (c) the board has a contract with the service provider; (d) the board monitors the performance of the service provider in terms of benchmarks described in the contract; and (e) the board reviews the appointment of the service provider at least once every three years. (6) The board shall— (a) ensure that proper registers and records of the operations of the fund are kept, including proper minutes of all resolutions passed by the board ; (b) take all reasonable steps to ensure that contributions are paid on time to the fund in terms of this Act; (c) ensure that adequate and appropriate information is communicated to stakeholders informing them of their rights, benefits and duties in terms of the rules, together with such matters as may be prescribed by the Regulator ; (d) ensure that the rules, the operation and administration of the fund comply with this Act and other laws administered by the Regulator ; and (e) ensure that the fund is protected against errors or dishonesty on the part of the Principal Officer , member of the board , or any other official of the fund."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part V",
+      "section": "19",
+      "title": "Duties of service providers",
+      "content": "(1) A service provider appointed in terms of section 18 (1) shall— (a) act solely in the interest of fund members and their beneficiaries; (b) carry out their duties prudently; and (c) avoid conflicts of interest and act impartially. (2) A service provider shall immediately report to the Regulator any activity of a fund that the service provider is aware of or is suspicious that the activity is not compliant with the provisions of this Act or any other law."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part V",
+      "section": "20",
+      "title": "Principal office",
+      "content": "(1) A fund shall have a principal office in Lesotho, and the Regulator shall approve the location of such office. (2) A board shall request the Regulator for approval prior to changing the address of the principal office of the fund."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part V",
+      "section": "21",
+      "title": "Principal officer",
+      "content": "(1) A board shall, with the prior approval of the Regulator , appoint a principal officer in terms of its rules, and such person shall be appointed if he or she— (a) is resident in Lesotho; and (b) satisfies the fit and proper test requirements issued by the Regulator . (2) A board may, with the approval of the Regulator , appoint an acting principal officer, in the absence of the substantive principal officer, or where the principal officer is unable to perform his duties under this Act. (3) Where anything is required to be done by or in terms of this Act by a fund, it shall be the duty of a principal officer to ensure compliance with the Act. (4) A principal officer shall immediately report to the Regulator any activity of a fund— (a) that is not compliant with this Act or any other relevant law; or (b) that may prejudice the interests of the members. (5) Where a board — (a) fails to appoint a principal officer, the Regulator shall be entitled to institute any action, including penal actions, against the board for such failure; or (b) employs a principal officer who does not meet the criteria in subsection (1), the Regulator shall be entitled to impose appropriate penal measures against such board ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Resignation or termination of appointment of principal officer or service provider",
+      "content": "(1) A principal officer or service provider who resigns from his or her position with a fund or whose appointment has been terminated by the board shall, within fourteen days of the resignation or termination, inform the Regulator of the resignation or termination in writing. (2) A board shall inform the Regulator , in writing, of the resignation or termination of the appointment of the principal officer or service provider and the reasons for the termination within fourteen days of the resignation or termination. Part VI – Financial requirements"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part VI",
+      "section": "23",
+      "title": "Accounts",
+      "content": "(1) A fund shall— (a) maintain such books of accounts and other records as may be necessary for the purpose of the fund; and (b) within four months after the end of its financial year , submit to the Regulator audited accounts and such other statements and reports in the prescribed format. (2) If the Regulator is not satisfied with any audited accounts, statements or reports submitted in terms of paragraph (b), the Regulator shall direct the fund to re-submit the required information or to provide further information within thirty days of receiving such direction."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part VI",
+      "section": "24",
+      "title": "Investigations by actuary",
+      "content": "(1) Subject to section 18 (3), a fund shall cause its financial condition to be investigated by and reported upon by an actuary at such time and in such manner as may be determined by the Regulator . (2) An actuarial report made in terms of subsection (1) shall be submitted to the Regulator within six months after end of the financial year of the fund. (3) If an actuarial report reveals an actuarial surplus, the board may apportion the actuarial surplus between stakeholders in a manner specified in the rules of the fund. (4) Where the actuarial surplus referred to in subsection (3) is apportioned to— (a) a current member , it shall be used to improve benefits in terms of the rules and shall not be paid to the member until such time as the member qualifies for a benefit in terms of the rules; (b) a former member , it shall be paid out in cash to the former member , minus tax payable, if any, on that amount; or (c) an employer , it shall be credited to an employer reserve account established in terms of the rules, and any credit balance may be utilised at the request of the employer for such purposes as are provided for in the rules."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part VI",
+      "section": "25",
+      "title": "Maintenance of financially sound condition",
+      "content": "(1) A fund shall conduct its activities so as to remain in a financially sound condition at all times. (2) Where an actuarial report reveals an actuarial deficit or where the Regulator , after examination of any return or report of a fund, is of the opinion that the fund is not in a financially sound condition, the Regulator shall direct the fund to submit— (a) a scheme setting out arrangements for the purpose of bringing the fund into a financially sound condition within a period which the Regulator deems reasonable; and (b) such scheme to the Regulator within thirty days from the date directed under paragraph (a), together with a report on the scheme by the actuary . (3) The Regulator may, after considering a scheme submitted in terms of subsection (2),— (a) approve the scheme, subject to such conditions, if any, as it deems fit; or (b) reject the scheme, whereupon a fund shall submit a new scheme in accordance with the directions of the Regulator . (4) Where, after consideration of a scheme submitted in terms of subsection (2), the Regulator is of the opinion that it is impossible or impractical to bring a fund into a sound financial condition within a reasonable period, the Regulator may direct that the whole or any part of the business of the fund be wound up. Part VII – Management of a fund"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part VII",
+      "section": "26",
+      "title": "Duty to develop prospectus",
+      "content": "(1) A fund shall— (a) develop a written prospectus which contains correct and up to date information in relation to that fund; and (b) make the prospectus available to any member or prospective member of the fund. (2) The prospectus shall include the information necessary for prospective members to make an informed judgement concerning the fund, including details on— (a) contributions; (b) benefits; (c) investments; and (d) risks attached to the investments and to the fund in general. (3) Information given under subsection (2) shall be meaningful, accurate and complete, and written in a manner that enhances member understanding. (4) The Regulator may issue regulations with requirements as to the content of a prospectus."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part VII",
+      "section": "27",
+      "title": "Fund information and benefit statement",
+      "content": "(1) A fund shall ensure that a member is given fund information and a benefit statement on an annual basis, within 3 months of the end of the financial year . (2) The Regulator may issue regulations with requirements as to the contents and form of the fund information and benefits statement referred to in subsection (1)."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part VII",
+      "section": "28",
+      "title": "Requests for information",
+      "content": "(1) A fund shall comply with any request by a member for information about— (a) the fund; or (b) his or her entitlements in the fund. (2) A fund shall not be obliged to comply with a request under subsection (1) if it provided fund information or benefit statement within 6 months before the request was made."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VII",
+      "section": "29",
+      "title": "Payment of contributions to occupational and umbrella pension funds",
+      "content": "(1) A contribution payable in respect of a member of an occupational or umbrella pension fund shall be paid to the fund by or on behalf of the member within a period of seven days after the expiration of the period in respect of which the contribution is being paid. (2) The board shall, not later than the first business day following the day on which the fund received the contribution, ensure that all moneys received by the fund are invested in accordance with the investment policy of the fund. (3) An employer who fails to remit contributions to an occupational or umbrella pension fund within 7 days of the expiry of the period for which it was due shall— (a) be liable to pay interest on the contributions at a rate determined by the Regulator in the regulations; and (b) pay an administrative penalty of M10,000.00 for each day that the remittance of the contributions remains outstanding. (4) The Regulator may, by regulations, determine whether and to what extent an intermediary licensed in accordance with this Act may receive and remit contributions to an occupational or umbrella pension fund ."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part VII",
+      "section": "30",
+      "title": "Payment of contributions to non-occupational pension funds",
+      "content": "(1) The rules of a non-occupational pension fund may provide that contributions be paid at variable intervals and amounts. (2) The Regulator may, by regulations, determine— (a) whether and to what extent an intermediary licensed in accordance with this Act may receive and remit contributions to a non-occupational pension fund ; and (b) the modalities for the collection of contributions for a non-occupational pension fund ."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VII",
+      "section": "31",
+      "title": "Schedules of contributions",
+      "content": "(1) Subject to section 30 , a fund shall prepare, maintain and, from time to time, revise a schedule of contributions showing— (a) the rates of contributions payable and the amounts actually paid towards the fund by the sponsoring employer and the members, as the case may be; and (b) the dates on or before which such contributions are to be paid. (2) The Regulator may, by regulations, provide for the form and manner in which a schedule of contributions or any matters related to contributions in general shall be prepared and maintained."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VII",
+      "section": "32",
+      "title": "Exclusion from estate of member",
+      "content": "Notwithstanding anything to the contrary contained in any law or in the rules, any benefit payable by a fund shall not form part of the assets of the estate of a member ."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VII",
+      "section": "33",
+      "title": "Allowable deductions from pension benefits",
+      "content": "A fund may deduct an amount from the benefit of a member in respect of— (a) maintenance of dependants of a member by court order; (b) a debt arising from a housing loan issued or guarantee granted by the fund in respect of a housing loan of that member ; (c) an amount for which the employee is liable under a guarantee issued by the employer for purposes of obtaining a housing loan; and (d) an amount representing the loss suffered by the employer due to any unlawful activity of the member for which judgement has been obtained against the member in a court of law or a written acknowledgement of culpability has been signed by the member before a commissioner of oaths."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VII",
+      "section": "34",
+      "title": "Death benefit nomination form",
+      "content": "(1) A fund shall— (a) require a member to fill out a death benefit nomination form detailing the nominated beneficiaries in the event of the death of the member ; and (b) on an annual basis, request the members to update the death benefit nomination form. (2) Where a member fails to update the death benefit nomination form as required in subsection (1)(b), the most recent benefit nomination form will be used in the event of the death of a member ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VII",
+      "section": "35",
+      "title": "Death benefits",
+      "content": "(1) On the death of a member , the board shall distribute the death benefits within three months in accordance with the death benefit nomination form subject to the rules of the fund, the inheritance laws of Lesotho and any applicable law. (2) For the purposes of this section, a payment by a fund to a dependent shall be deemed to include a payment made by the fund to— (a) a beneficiary fund registered in terms of this Act; and (b) a trust account for the dependent, for the benefit of the dependant contemplated in this subsection. (3) Subject to subsection (1), where a payment is made to a beneficiary fund in terms of subsection (2)(a)— (a) any assets held for the benefit of a deceased beneficiary in a beneficiary fund shall be paid into the estate of such beneficiary ; (b) any benefit payable to a minor dependant or minor nominee, may be paid in more than one payment in such amounts as the board may from time to time consider appropriate and in the best interest of such dependent or nominee; and (c) the board of the beneficiary fund shall pay to a dependant or nominee any balance owing to such a dependant or nominee at the date on which he attains the age of majority. (4) A benefit dealt with in terms of this section, payable to a major dependant or a major nominee, may be paid in more than one payment if the dependant or nominee has consented in writing. (5) The amount of the payments, payment intervals, interest to be added and other terms and conditions shall be disclosed in a written agreement which may be cancelled by either party on written notice not exceeding ninety days. (6) If the agreement contemplated in subsection (5) is cancelled, the balance of the benefit shall be paid in full to the dependant or nominee."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VII",
+      "section": "36",
+      "title": "Withdrawal benefits",
+      "content": "(1) Where a member withdraws from a fund for any reason, the fund shall pay the benefits to which that member is entitled within a period of two months from the date of withdrawal. (2) If a fund delays the payment of benefits as contemplated in subsection (1) the fund shall be liable to late payment interest on the withdrawal benefits during that period and such interest shall be paid in addition to the benefits payable in respect of withdrawal of the member . (3) Nothing in this section shall be construed to prevent a fund from seeking redress against any person as a result of liability arising under subsection (2)."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VII",
+      "section": "37",
+      "title": "Other benefits",
+      "content": "All benefits not provided for under this Act by a fund shall be dealt with in accordance with the rules of the fund."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VII",
+      "section": "38",
+      "title": "Preservation of benefits",
+      "content": "Where a member withdraws from a fund for any reason, the member may either— (a) retain such benefits in the fund, if the rules permit; (b) transfer the benefit to a preservation fund ; or (c) transfer the benefits to a fund where the person has acquired membership."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VII",
+      "section": "39",
+      "title": "Unclaimed benefits",
+      "content": "(1) A fund shall have a process for tracing beneficiaries of unclaimed benefits. (2) Where a benefit remains unclaimed for a period of more than one year, the fund shall, in a newspaper of wide national circulation and through electronic media, publicise the names of the beneficiaries of unclaimed benefits. (3) A fund holding any unclaimed benefits shall annually report such benefits to the Regulator , and pay or deliver all such benefits listed in the report in a manner and time as may be prescribed by regulations."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VII",
+      "section": "40",
+      "title": "Contributions and benefits not to be assigned or pledged",
+      "content": "(1) Notwithstanding the rules of a fund, except for deductions permitted in terms of section 33 , amounts paid as contribution to a fund in respect of a member , entitlement to benefits in a fund, and amounts paid out of a fund by way of benefits in respect of a member shall not— (a) be assigned, transferred, pledged, charged or otherwise become subject to a security interest, however described; or (b) be liable to be attached, sequestrated, or levied upon for or in respect of any debt or claim. (2) A fund shall not recognise, or in any way encourage or sanction, a purported assignment, transfer of, or granting of a pledge, charge or other security interest, however described, in respect of entitlement to benefits by a member ."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VII",
+      "section": "41",
+      "title": "Risk management",
+      "content": "(1) A board shall establish a risk management system for the fund that includes setting and monitoring of standards and limits so that all major risks are identified, measured, monitored and controlled on an on-going basis. (2) The Regulator may, by regulations, issue requirements relating to the risk management of a fund."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VII",
+      "section": "42",
+      "title": "Reporting",
+      "content": "A fund shall submit— (a) reports to the Regulator in such form and manner, and at such frequency, as may be prescribed by regulations; and (b) any information that the Regulator may request from it. Part VIII – Fund investments"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VIII",
+      "section": "43",
+      "title": "Holding of assets",
+      "content": "(1) The assets of a fund shall be held separately from and shall not form part of the assets of any other person . (2) All the assets of a fund, including title deeds, securities, insurance policies or participatory interest in a collective investment scheme, shall be registered in the name of— (a) the fund; or (b) a nominee appointed by the board and approved by the Regulator . (3) No person shall hold the assets of a fund for safekeeping unless he is licensed by the Regulator to provide custody services."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VIII",
+      "section": "44",
+      "title": "Change of custodian",
+      "content": "(1) A fund may change the safekeeping of the assets of a fund from one custodian to another subject to the approval of the Regulator . (2) Change of a custodian shall be organised in a manner that ensures continuous performance of the custodial duties in respect of the fund assets. (3) Where a contract with a custodian is terminated, the custodian shall release the assets of the fund and all documents relating to the performance of its duties to a new custodian within a period agreed by the parties. (4) The original custodian is liable for performance of its duties until all documents referred to in subsection (3) and all assets have been completely transferred."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VIII",
+      "section": "45",
+      "title": "Investment policy",
+      "content": "(1) A fund shall have a written investment policy on the investment of its assets. (2) The investment policy for funds in which members make investment choices shall— (a) ensure that an appropriate array of investment options, including a default option, are provided for members; (b) ensure that members have access to the information necessary to make informed investment decisions; and (c) classify the investment options according to the investment risk that members bear. (3) The Regulator may issue regulations on— (a) the kind of assets which a fund may invest in, including any related limits; (b) the jurisdictions to which a fund may invest, including any related limits; (c) diversification requirements of the fund; (d) the minimum contents of an investment policy; (e) the implementation, monitoring and review of the investment policy; and (f) any other requirements relating to the investment of fund assets."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VIII",
+      "section": "46",
+      "title": "Prohibition concerning assets",
+      "content": "(1) The assets of a fund shall not be used for any purpose other than for the interest of its beneficiaries and for the settlement of the expenses of the fund. (2) No person shall manage or invest the assets of a fund unless that person is— (a) a fund, where approval has been sought from the Regulator ; (b) a licensed asset manager ; or (c) a licensed insurance company, where that insurance company issues insurance policies to the fund. (3) A person who invests the assets of a fund shall not— (a) encumber the assets of the fund under its management; (b) allow the assets of the fund under its management to be held by a person other than a custodian ; or (c) directly or indirectly borrow any asset of the fund, or borrow against the security of the assets of a fund, for any purpose. (4) The assets of a fund may not be invested in derivatives for speculative purposes."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VIII",
+      "section": "47",
+      "title": "Invalidity of exclusion clauses",
+      "content": "Any provision in any document to which a fund is a party which purports to exempt any person who manages the assets of the fund from liability for any failure to exercise due care and diligence in the discharge of its respective function shall be void."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VIII",
+      "section": "48",
+      "title": "Fund assets to be invested at arm’s length",
+      "content": "(1) A fund shall not invest assets, whether by loan or otherwise, unless— (a) the fund, or the entity acting on its behalf, and the other party to the transaction are dealing with each other at arm’s length in respect of that transaction; and (b) the terms of the transaction are no more favourable to the other party than those that it is reasonable to expect would apply if the fund, or the entity acting on its behalf, were dealing with the other party at arm’s length in similar circumstances. (2) Subsection (1) shall apply to any person investing the assets of a fund. Part IX – Mergers and transfers"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part IX",
+      "section": "49",
+      "title": "Mergers and transfers",
+      "content": "(1) Subject to this Part, and with the written approval of the Regulator — (a) two or more registered funds may merge and become one fund; or (b) a fund may transfer all or any of its assets and liabilities to another fund. (2) A transaction involving the merger of any business carried on by a fund with any business carried on by any other person , irrespective of whether that other person is or is not a fund, or the transfer of any business from a fund to any other person shall not have any force or effect unless— (a) a report on the proposed merger or transfer, including a copy of every actuarial or other statement taken into account for the purposes of the merger or transfer, have been submitted to the Regulator ; (b) the Regulator has been furnished with any additional information it may consider necessary; (c) the Regulator is satisfied that the proposed merger or transfer would not render any fund which is a party to a transaction unable— (i) to meet the requirements of this Act; (ii) to remain in a sound financial condition; or (iii) in the case of a fund that is not in a sound financial condition, to attain such a condition within a period considered by the Regulator to be satisfactory; (d) the Regulator is satisfied that the provisions of the rules of a fund which is a party to the merger or transfer— (i) have been complied with; or (ii) that adequate arrangements have been made to ensure that such provisions will be complied with at the appropriate time; (e) the Regulator is satisfied that the proposed merger or transfer has given full recognition to the rights and legitimate expectations of the member in respect of benefits related to their membership prior to the effective date of the merger or transfer; and (f) the Regulator has forwarded a merger or transfer certificate to a principal officer of every such fund to the effect that all the requirements of this section have been complied with. (3) Where a new fund is to be created as a consequence of the merger or transfer, the report required under subsection (2)(a) and (b) shall include an application for registration of a new fund in terms of this Act."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part IX",
+      "section": "50",
+      "title": "Notice of merger or transfer",
+      "content": "(1) Notwithstanding any provision in the rules of a fund, the board shall give all stakeholders written notice of at least six weeks of the intention to lodge an application for a merger or transfer, together with such information as the Regulator may require. (2) A notice referred to under subsection (1) shall set out, in a language that stakeholders can reasonably be expected to understand— (a) the terms of the proposed merger or transfer; (b) the determination of the value of the fund and the sharing of any reserves of the fund; and (c) the application of the transfer value in the transferee fund. (3) Stakeholders may, in writing, lodge an objection to the proposed merger or transfer with the principal officer during the notice period specified under subsection (1). (4) An objection lodged under subsection (3) shall be considered by the board before submitting an application to the Regulator , and a summary of any such objection and the action taken by the board in response to the objection shall be attached to the application submitted."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part IX",
+      "section": "51",
+      "title": "Rights of members upon receipt of notice of proposed merger or transfer",
+      "content": "(1) A fund that will cease to exist after the proposed merger or transfer shall, prior to the effective date of the merger or transfer— (a) inform all members of the proposed merger or transfer; (b) give the members three months to exercise their right to transfer their entitlements to a fund that will result from the merger, or to which the assets and liabilities of their fund are proposed to be transferred as the case may be, or to transfer their entitlements to a fund of their choice; (c) inform the members of the consequences of not exercising their rights in paragraph (b) as per subsection (2); (d) inform the members that they have a right to demand payment of their entitlements; and (e) inform the members about the potential tax consequences of terminating and receiving pension pay out prior to retirement age. (2) A member who has not exercised his or her rights in terms of subsection (1)(a) shall be considered to have accepted membership in the new fund that results from the merger, or to which the assets and liabilities of their fund have been transferred."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part IX",
+      "section": "52",
+      "title": "Effects of merger or transfer",
+      "content": "(1) Upon completion of a merger of two or more funds— (a) any fund that has ceased to have any assets and liabilities shall cease to exist and the Regulator shall remove it from the register and cancel its registration; and (b) where a new fund is created as a result of the merger, the relevant assets and liabilities of the funds that have been so merged shall respectively vest in and become binding upon the resultant fund. (2) Upon completion of a transfer of the assets and liabilities of a fund the relevant assets and liabilities shall respectively vest in and become binding upon the fund to which they are transferred."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part IX",
+      "section": "53",
+      "title": "Alterations in the register of deeds",
+      "content": "The officer responsible for deeds registry which registered any deed or other document relating to any asset which is transferred in accordance with the provisions of section 52 shall, upon service on him or her of such deed or other document, make— (a) endorsements upon such deed or document; or (b) alterations in the register kept by him or her that are necessary by reason of the merger or transfer."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part IX",
+      "section": "54",
+      "title": "Rights of creditors",
+      "content": "A merger or transfer effected under this Part shall not deprive any creditor of any right or remedy which he or she had prior to the date of the merger or transfer. Part X – Termination and winding up"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part X",
+      "section": "55",
+      "title": "Voluntary winding up",
+      "content": "(1) A fund shall not be voluntarily wound up without the prior written approval of the Regulator . (2) The Regulator may approve a voluntarily winding up where a fund has met all the requirements prescribed in the regulations prior to the winding up. (3) Where the Regulator approves a voluntary winding up under subsection (2), the fund shall— (a) immediately cease to carry on its activities, except activities that are necessary for the purpose of effecting an orderly winding up; and (b) wind up all operations undertaken. (4) A fund shall— (a) not later than 30 days from the date of receipt of approval under subsection (2), send by registered post a notice of voluntary winding up specifying such information as the Regulator may, by regulations, prescribe; and (b) cause to be published a notice of the voluntary winding up in such a manner as the Regulator may prescribe. (5) Where a fund has fully discharged its obligations to members and beneficiaries in a manner prescribed by the Regulator , the fund shall cease to exist and the Regulator shall remove it from the register and cancel its registration."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part X",
+      "section": "56",
+      "title": "Winding up by court",
+      "content": "(1) The Regulator may make an application to the High Court for the winding up of a fund, the cost of which shall be borne by the fund, where— (a) the fund violates the provisions of this Act, or any other applicable law; (b) the Regulator is satisfied that the fund cannot be restored to a financially sound condition within a reasonable period; or (c) such winding up is in the interests of the members, beneficiaries, or the public. (2) Where an application to the High Court is made by a person other than the Regulator , a copy of the application shall, at the same time, be served on the Regulator , who shall be entitled to be heard on the application. (3) The Regulator shall be a party to any proceedings under any enactment relating to the winding up of the activities of a fund, and the liquidator in such winding up shall provide the Regulator with such information as the Regulator may, from time to time, require about the activities of the fund."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part X",
+      "section": "57",
+      "title": "Provisions for winding up",
+      "content": "The Regulator may, by regulations, make provision for— (a) the distribution of the assets of a fund in the case of winding up; (b) the distribution of the assets of a fund in the case of the winding up of a sponsoring employer ; (c) the rights and obligations of a fund and its members, beneficiaries and other interested parties in the case of winding up; and (d) such other matters and procedures as it may determine. Part XI – Licensing and functions of administrators and pension fund intermediaries"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part XI",
+      "section": "58",
+      "title": "Licensing requirements",
+      "content": "No person shall act as an— (a) administrator ; or (b) pension fund intermediary , for a fund in Lesotho unless that person is licensed under this Act."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part XI",
+      "section": "59",
+      "title": "Application for a licence",
+      "content": "(1) An application to act as a pension fund intermediary or an administrator of a fund shall be made in such form and manner as may be prescribed by the Regulator . (2) The application shall— (a) state whether the applicant has the adequate professional technical knowledge, experience or operational ability to perform the functions; (b) contain or be accompanied by any other information that the Regulator may require for the purpose of determining the application; (c) contain the address of a place in Lesotho for the service on the applicant of any notice or document required or authorised to be served on the applicant under this Act; and (d) be accompanied by the prescribed fee."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part XI",
+      "section": "60",
+      "title": "Licensing of administrator or pension fund intermediary",
+      "content": "(1) If the Regulator is satisfied that an applicant meets the criteria for licensing in terms of section 59 , the Regulator may, subject to such conditions as it may determine, license the applicant. (2) Where the Regulator decides to license the applicant in terms of subsection (1), the Regulator shall— (a) notify the applicant, in writing, of its decision to approve the application; and (b) issue a license to the applicant, within 90 days of the receipt of a complete application. (3) The Regulator may reject an application for a license if it appears to the Regulator that the applicant does not meet the requirements of this Act and regulations. (4) Where an application has been rejected in terms of subsection (3)— (a) the Regulator shall, in writing— (i) inform the applicant of the decision to reject the application; and (ii) indicate in what respect the applicant does not meet the licensing criteria, within 90 days of the receipt of a complete application; and (b) the applicant may resubmit an application for a license in terms of section 59 after having addressed the concerns raised in paragraph (a)(ii)."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part XI",
+      "section": "61",
+      "title": "Functions of administrator",
+      "content": "(1) An administrator of a fund shall— (a) administer the fund in accordance with this Act and regulations made under this Act, the rules of the fund and any other relevant law; (b) at all times act in the best interest of the fund and its members or beneficiaries; (c) ensure proper administration of the fund by— (i) maintaining and updating the records and books of accounts of the fund; (ii) processing contributions, benefit payments and any other transactions of the fund; and (iii) producing accounts for audit; (d) diligently prepare any other reports, statements or returns required in terms of the contract with the fund; (e) generally, facilitate the proper administration of the fund; and (f) carry out any other function as may be prescribed by the Regulator . (2) An administrator of a fund shall not conduct any other business than administration of the fund."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part XI",
+      "section": "62",
+      "title": "Functions of pension fund intermediaries",
+      "content": "(1) A pension fund intermediary shall— (a) provide potential members of funds with information and advice on funds; (b) assist the potential members in acquiring membership of the funds; (c) facilitate the participation of members in a fund; (d) carry out other function that the Regulator may prescribe. (2) A pension fund intermediary shall only market funds that have been registered by the Regulator ."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part XI",
+      "section": "63",
+      "title": "Pension fund intermediary authorisation",
+      "content": "(1) A pension fund intermediary shall be authorised through a certificate issued by a fund to act on behalf of the fund. (2) A pension fund intermediary shall keep the certificate issued in subsection (1) as proof that a contract to act for and on behalf of the fund exists and that the fund accepts responsibility for the acts performed by the pension fund intermediary within the scope of the contract. (3) The Regulator may prescribe forms of identification by pension fund intermediaries to potential members in the regulations."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part XI",
+      "section": "64",
+      "title": "Register of pension fund intermediaries",
+      "content": "(1) A fund shall maintain a register of all pension fund intermediaries that act for and on its behalf, and the register shall be continually updated and be available to the Regulator for purposes of reference or inspection. (2) The register shall contain the name and business address of the pension fund intermediary and specify the specific powers the intermediary has to act on behalf of the fund. (3) The Regulator may prescribe additional information that may be provided in the register. Part XII – Marketing and selling of pension funds"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part XII",
+      "section": "65",
+      "title": "Prohibition against use of false or misleading information",
+      "content": "(1) No person shall give false or misleading information, claims or statements, either orally or in writing, in the promotion or marketing of a fund. (2) Where the Regulator considers that information has been given in violation of subsection (1) the Regulator may prohibit continued publication or provision of such information or provision of such information by a specified deadline. (3) Any person who has acted in violation of subsection (1) and has caused loss to another person shall be fully liable for any loss suffered by that other person . (4) The Regulator may issue regulations regarding the promotion or marketing of funds and the content of any advertisement or promotional material relating to any fund."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part XII",
+      "section": "66",
+      "title": "Undesirable business practices",
+      "content": "(1) The Regulator may declare a particular business practice to be undesirable for— (a) all or a particular category of funds; or (b) all or a particular category of persons who render services in respect of funds. (2) Where the Regulator considers that a person who renders services in respect of a fund is engaging in an undesirable business practice, the Regulator may direct the person to immediately cease the practice."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part XII",
+      "section": "67",
+      "title": "Disclosure of fees related to fund membership",
+      "content": "(1) A person who provides services related to a fund shall disclose all the fees charged or to be charged, and shall disclose such fees to the fund or any person who contemplates to become a member in a fund. (2) The fees referred to in subsection (1) shall be described in a manner that is designed to be easily understood by the reasonable person and be written in simple language. (3) The Regulator may issue regulations specifying the format, content and the disclosure of fees. (4) An increase in the level of fees charged shall be brought to the attention of members at least six months before they become effective, failing which, the increase of the fees shall not be effective."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part XII",
+      "section": "68",
+      "title": "Service fees",
+      "content": "(1) A service provider shall not collect fees or commissions from any person other than the fund, and shall not receive commissions or referral fees for any product or from any service provider in respect of the fund. (2) The Regulator may issue regulations on how fees may be charged, including the maximum amount of fees and method of charging the fees. Part XIII – Anti-money laundering and financial crime"
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part XIII",
+      "section": "69",
+      "title": "Duty to establish measures to prevent money laundering and financing of terrorism",
+      "content": "(1) A fund and any person who provides services to a fund shall establish procedures to prevent a financial crime or money laundering and financing of terrorism in accordance with the relevant legislation, including— (a) performing the necessary know-your-customer due diligence on the members, and fit and proper due diligence on ultimate controllers, beneficial owners and beneficiaries of the fund; (b) taking enhanced measures with respect to higher risk members; (c) monitoring complex, unusually large transactions or unusual patterns of transactions that have no apparent or visible economic or lawful purpose; (d) reporting suspicious transactions to the Financial Intelligence Unit for further investigation and possible referral for prosecution; (e) developing internal programs including training programs, procedures, controls and audit functions to combat money laundering; and (f) ensuring that its foreign branches and subsidiaries observe appropriate anti-money laundering and combating of financing of terrorism requirements. (2) The Regulator may— (a) issue regulations to enhance further anti-money laundering and combating of financing of terrorism measures; and (b) share information and cooperate in all ways necessary with other institutions, organisations or bodies both domestic and foreign for anti-money laundering and combating the financing of terrorism purposes."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part XIII",
+      "section": "70",
+      "title": "Duty to report financial crime",
+      "content": "(1) A fund and any service provider shall report immediately to law enforcement agencies any evidence of criminal activity either in Lesotho or elsewhere which it suspects is associated with the use of its institution or services. (2) The Regulator may prescribe by regulation measures that a registered or licensed person shall adopt to reduce money laundering and financing of terrorism. Part XIV – Offences and penalties"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part XIV",
+      "section": "71",
+      "title": "Offences and penalties",
+      "content": "(1) A person who contravenes or fails to comply with— (a) any provision of this Act; or (b) any regulation, specification or requirement made, or any order in writing, direction, instruction, or notice given, or any limit, term, condition, or restriction imposed, or any other thing howsoever done, in the exercise of any power conferred under, pursuant to, or by virtue of, any provision of this Act, may be liable to an administrative fine as may be imposed by the Regulator . (2) In addition to subsection (1)(b), the person may, upon conviction, be liable to a fine not exceeding 5 million Maloti (M5,000,000.00) or to imprisonment for a term not exceeding three years or both. (3) An amount of penalty payable in terms of subsection (1) shall constitute a debt due to the Regulator by the person concerned and may be recovered by the Regulator by means of proceedings instituted in any competent court. (4) Notwithstanding subsection (1), the Regulator may waive the payment of or refund the whole or any part of a fine payable in terms of subsection (1) if the Regulator is satisfied that the failure of the person concerned to comply with a requirement contemplated in subsection (1) was not due to wilful conduct or negligence."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part XIV",
+      "section": "72",
+      "title": "False or misleading representation, statements, reports or returns",
+      "content": "(1) Any person who makes or assists in making a representation, statement, report or return, whether oral or written that— (a) is required or permitted by this Act or regulations; and (b) contains a false statement of a material fact; or (c) omits to state a material fact required to be disclosed to the Regulator or necessary to avoid the statement or document being materially misleading, commits an offence and is liable on conviction to a fine not exceeding 1 million Maloti (M1,000 000.00) or imprisonment for a term not exceeding 2 years or both. (2) A person does not commit an offence under subsection (1) if the person did not know and, with the exercise of reasonable diligence, could not have known that the representation or statement contained a false statement or omitted a material fact."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part XIV",
+      "section": "73",
+      "title": "Other offences",
+      "content": "(1) A person who commits an offence under this Act for which no penalty is provided for elsewhere in this Act, is liable— (a) to an administrative penalty imposed by the Regulator ; and (b) upon conviction to a fine not exceeding 5 million Maloti (M5,000 000.00) or to imprisonment for a term not exceeding 3 years, or both."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part XIV",
+      "section": "74",
+      "title": "Powers of court",
+      "content": "Notwithstanding any penalty imposed under this Act, a court may, where circumstances warrant, impose a penalty less or greater than that stipulated under this Act. Part XV – Miscellaneous provisions"
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part XV",
+      "section": "75",
+      "title": "Investigations and inspections",
+      "content": "(1) The Regulator may conduct an investigation— (a) into the affairs of any person who is not registered or licensed under this Act whom the Regulator has reason to suspect is carrying on a business of a fund or service provider; or (b) where the Regulator has reason to suspect that— (i) an offence has been or may have been committed under this Act; (ii) a fund or service provider is not complying or has not complied with the provisions of this Act, or (iii) a person has in his possession or control any evidence that may be relevant to any matter that may be subject to investigation under this Act. (2) In conducting an investigation under subsection (1), the Regulator may— (a) require a person to produce such documentation and information for purposes of the investigation, within a stated time; and (b) enter any premises used or apparently used by the person referred to under subsection (1), at any reasonable time to inspect, confiscate, make copies, or take extracts from, any relevant records, documents or things in those premises. (3) A person who fails to produce any document or information required, or who prevents the Regulator from entering and exercising powers conferred under subsection (2)(b) commits an offence. (4) The Regulator shall be entitled to recover from the person referred to in subsection (2) all expenses necessarily incurred in connection with the investigation, unless such investigation shows that such person is not carrying on the business of a pension fund or service provider."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part XV",
+      "section": "76",
+      "title": "Appointment of persons to conduct investigation",
+      "content": "(1) Where the Regulator is entitled to take enforcement action against any person under this Act, the Regulator may appoint one or more competent persons to conduct an investigation on behalf of the Regulator . (2) In conducting an investigation under subsection (1), the Regulator may direct an investigated person to pay partial or whole fees related to the investigation."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part XV",
+      "section": "77",
+      "title": "Revocation of registration or licence",
+      "content": "The Regulator may suspend or revoke the registration or licence issued under this Act where the registered or licensed person fails to— (a) comply with the provisions of this Act, regulations, notices and directives issued pursuant to this Act; or (b) commence business for which the registration or licence has been issued within six months from the date of issue of the registration or licence."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part XV",
+      "section": "78",
+      "title": "Right of appeal to the Tribunal",
+      "content": "(1) A person aggrieved by any decision taken by the Regulator under this Act, including refusal or cancellation of registration or licence of a fund, administrator or pension fund intermediary may, within thirty days from the date on which the decision was made to the person in writing, appeal against the decision in writing, to the Tribunal established in terms of section 76 of the Financial Institutions Act, 2012, which may, subject to the limitations of this Act, uphold, reverse, revoke or vary that decision. (2) Except as provided elsewhere, the decision taken under subsection (1) shall— (a) be final and binding upon all parties; and (b) within thirty days of its taking, be transmitted in writing to the applicant."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part XV",
+      "section": "79",
+      "title": "Member and beneficiary complaints",
+      "content": "(1) Where a member or beneficiary is aggrieved by any decision taken or action by a fund, administrator or pension fund intermediary , the member may lodge a complaint with the Regulator , and the Regulator shall strive to resolve the complaint amicably. (2) Where the parties do not agree with any resolution under subsection (1) they may appeal to any other body set up for that purpose. (3) The Regulator may, by regulations, prescribe a complaints handling procedure for service providers, pension fund intermediaries and a fund."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part XV",
+      "section": "80",
+      "title": "Transitional provisions",
+      "content": "No person shall carry on the business of a fund that is in existence at the commencement of this Act, for a period of six months after such commencement unless that business is registered as a fund in terms of this Act."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part XV",
+      "section": "81",
+      "title": "Regulations",
+      "content": "The Regulator may, by regulations, make provisions for— (a) the constitution and management of funds; (b) the duties and functions of the board of a fund and those of the service provider; (c) fit and proper person requirements; (d) the rights and obligations of a member ; (e) the financial statements of a fund and documents to be annexed to the statements; (f) rights of members to transfer benefits between funds; (g) defined benefit funds, defined contribution fund and hybrid funds; (h) commutation of pensions and annuities from funds; and (i) any such other matter as may be required for attaining the purposes of this Act or to give effect to its provisions. History of this document 15 November 2019 this version Published in Government Gazette 63 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About LesLII The Lesotho Legal Information Institute (LesLII) was set up in 2012. LesLII's mission is to publish the laws of Lesotho for free access to everyone. LesLII is supported by the Judiciary of Lesotho, the Law Office, the Law Society and other justice sector stakeholders. AfricanLII and Laws.Africa provide technical support to LesLII. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Lesotho Judiciary Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "actuarial report",
+      "definition": "means a report prepared by the actuary of a pension fund pursuant to section 24 (1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "actuary",
+      "definition": "means a person having an actuarial qualification and being a member of a professional actuarial body or institute recognised as such by the Regulator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "administrator",
+      "definition": "means a legal entity licensed by the Regulator in terms of section 60",
+      "source_provision": "s2"
+    },
+    {
+      "term": "annuity",
+      "definition": "means a specified income payable at stated intervals for a fixed or contingent period, against payment of a stipulated premium and paid either in prior instalment payments or in a single payment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "asset manager",
+      "definition": "means a person licensed in terms of the Central Bank (Collective Investment Schemes) Regulations, 2001 1 ; 1 L.N. No. 5 of 2001 \"",
+      "source_provision": "s2"
+    },
+    {
+      "term": "auditor",
+      "definition": "means a member of the Lesotho Institute of Accountants certified to provide auditing functions recognised by the Institute",
+      "source_provision": "s2"
+    },
+    {
+      "term": "bank",
+      "definition": "means an institution that holds a licence issued under the Financial Institutions Act, 2012 2 ; 2 Act No. 3 of 2012 \"",
+      "source_provision": "s2"
+    },
+    {
+      "term": "beneficiary",
+      "definition": "means any person who is entitled to receive a benefit from a pension fund as provided for in the rules of the fund or in accordance with this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "beneficiary fund",
+      "definition": "means a fund that accepts and administers death benefits on behalf of beneficiaries of a deceased fund member",
+      "source_provision": "s2"
+    },
+    {
+      "term": "board",
+      "definition": "means the Board of Trustees of a pension fund",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conservator",
+      "definition": "means a person who is appointed by the Regulator to take care of the assets of a pension scheme whose licence has been suspended, terminated, or otherwise revoked",
+      "source_provision": "s2"
+    },
+    {
+      "term": "custodian",
+      "definition": "means a bank licensed by the Regulator to provide custodial services in terms of the Financial Institutions Act, 2012",
+      "source_provision": "s2"
+    },
+    {
+      "term": "defined benefit fund",
+      "definition": "means a fund which promises to pay a specified amount at retirement, in the form of a lump sum, series of payments or a combination, based on pre-determined method",
+      "source_provision": "s2"
+    },
+    {
+      "term": "defined contribution fund",
+      "definition": "means a fund in which benefits of individual members are calculated by adding— (a) the total accumulated contributions of the member or sponsoring employer ; (b) any interest, dividends and other income accrued in respect of contributions of the member or sponsoring employer ; (c) any capital appreciation; and (d) any insurance proceeds in respect of any insured benefits, if applicable, and deducting any capital depreciation, cost of any insured benefits and any other expenses",
+      "source_provision": "s2"
+    },
+    {
+      "term": "employer",
+      "definition": "means a person , including the Government of Lesotho and state owned company that has entered into an employment contract with another person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financially sound fund",
+      "definition": "means a pension fund that has assets that exceed or are equal to its liabilities",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial year",
+      "definition": "means a 12-month period determined by a fund as reflected in the rules of the fund",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hybrid fund",
+      "definition": "means a fund which is a mixture of a defined benefit fund and a defined contribution fund",
+      "source_provision": "s2"
+    },
+    {
+      "term": "independent trustee",
+      "definition": "means a trustee that is not directly or indirectly associated with the employer , sponsor or the members of a fund",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Institute",
+      "definition": "means the Lesotho Institute of Accountants",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "means a person licensed by the Regulator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "liquidator",
+      "definition": "means a liquidator as defined in the Companies Act, 2011 3 ; 3 Act No. 18 of 2011 \"",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "means a natural person who has acquired membership of a pension fund in terms of the rules of the pension fund",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "means the Minister responsible for finance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "non-occupational pension fund",
+      "definition": "means a pension fund which a person applies to join in his or her individual capacity and is not dependent on an employer -employee relationship, and includes a retirement annuity fund , a preservation fund or a beneficiary fund",
+      "source_provision": "s2"
+    },
+    {
+      "term": "occupational pension fund",
+      "definition": "means a pension fund which a person joins as a result of an employee- employer relationship",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pension fund",
+      "definition": "or \"fund\" means a fund registered under section 10 and set up to conduct pension fund business",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pension fund business",
+      "definition": "means the business of undertaking liability in return for contributions from members or sponsoring employers to provide annuities or lump-sum payments and other related benefits on the attainment of retirement age of member or some other contingency",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pension fund intermediary",
+      "definition": "means person licensed in terms of section 60",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person",
+      "definition": "means a natural or legal person and includes an individual, a company, a government, a government agency and any other body recognised as a separate legal entity",
+      "source_provision": "s2"
+    },
+    {
+      "term": "preservation fund",
+      "definition": "means a fund established for purpose of preservation of pension benefits",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Principal Officer",
+      "definition": "means a representative of the fund, appointed in terms of section 21 of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "professional advisor",
+      "definition": "means a person who provides advisory services to a pension fund , and includes an auditor or actuary",
+      "source_provision": "s2"
+    },
+    {
+      "term": "provident fund",
+      "definition": "means any fund that pays out benefits in the form of a lump sum",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Regulator",
+      "definition": "means the Central Bank of Lesotho continued into existence by the Central Bank Act, 2000 4 ; 4 Act No. 2 of 2000 \"",
+      "source_provision": "s2"
+    },
+    {
+      "term": "retirement annuity fund",
+      "definition": "means a pension fund set up for individual natural persons",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sponsor",
+      "definition": "means any person that applies to set up a non-occupational pension fund or an umbrella pension fund",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sponsoring employer",
+      "definition": "means an employer who contributes towards a pension fund on behalf of a member",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stakeholder",
+      "definition": "means— (a) a member and any beneficiary of the fund; (b) an employer ; or (c) a former member who has legitimate interest in the fund",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ultimate controller",
+      "definition": "means any person , regardless of whether the person exercises any influence on a licensee either directly or indirectly through a third party, and includes but is not limited to any person in accordance with whose direction and instructions the directors of the licensee are accustomed to act and whose opinions are influential in the decision making process of the licensee ; and \"",
+      "source_provision": "s2"
+    }
+  ]
+}

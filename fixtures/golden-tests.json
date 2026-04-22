@@ -1,1 +1,142 @@
-{ "tests": [] }
+{
+  "version": "1.0",
+  "mcp_name": "Lesotho Law MCP",
+  "description": "Golden contract tests covering data protection, anti-trafficking, companies, penal code, and terrorism legislation",
+  "tests": [
+    {
+      "id": "ls-001",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 2 (Interpretation) of the Data Protection Act, 2012",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Data Protection Act, 2012",
+        "section": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ls-002",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 2 (Interpretation) of the Anti-Trafficking in Persons Act, 2011",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Anti-Trafficking in Persons Act, 2011",
+        "section": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true,
+        "text_contains": ["trafficking"]
+      }
+    },
+    {
+      "id": "ls-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Section 1 of the Companies Act, 2011",
+      "tool": "get_provision",
+      "input": {
+        "document_id": "Companies Act, 2011",
+        "section": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["results"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ls-004",
+      "category": "search",
+      "description": "Search for data protection provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "\"data protection\"",
+        "limit": 10
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "ls-005",
+      "category": "search",
+      "description": "Search for money laundering provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "\"money laundering\"",
+        "limit": 10
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "ls-006",
+      "category": "search",
+      "description": "Search for terrorism provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "terrorism",
+        "limit": 10
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1
+      }
+    },
+    {
+      "id": "ls-007",
+      "category": "metadata",
+      "description": "Retrieve server about / dataset metadata (may require context outside tests)",
+      "tool": "about",
+      "input": {},
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "ls-008",
+      "category": "metadata",
+      "description": "List legal data sources",
+      "tool": "list_sources",
+      "input": {},
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["lesotholii.org"]
+      }
+    },
+    {
+      "id": "ls-009",
+      "category": "search",
+      "description": "Search for cybercrime / computer misuse (expected to be sparse or empty - Lesotho has no comprehensive cybercrime act on LesLII yet)",
+      "tool": "search_legislation",
+      "input": {
+        "query": "cybercrime OR cyber OR computer",
+        "limit": 5
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "ls-010",
+      "category": "search",
+      "description": "Search for labour law provisions - may be sparse because Labour Act 2024 is PDF-only",
+      "tool": "search_legislation",
+      "input": {
+        "query": "labour",
+        "limit": 5
+      },
+      "assertions": {
+        "result_not_empty": true
+      }
+    }
+  ]
+}

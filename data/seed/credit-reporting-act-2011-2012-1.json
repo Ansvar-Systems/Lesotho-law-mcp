@@ -1,0 +1,412 @@
+{
+  "id": "credit-reporting-act-2011-2012-1",
+  "type": "statute",
+  "title": "Credit Reporting Act, 2011",
+  "title_en": "Credit Reporting Act, 2011",
+  "short_name": "Credit Reporting Act, 2011",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://lesotholii.org/akn/ls/act/2012/1/eng@2012-01-24",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Chapter 1",
+      "section": "1",
+      "title": "Citation and commencement",
+      "content": "This Act may be cited as the Credit Reporting Act 2011 and shall come into operation on the date of its publication in the Gazette ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Chapter 1",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "(1) In this Act unless the context otherwise requires— \" adverse credit information \" means information which indicates that a consumer is not satisfying all debt obligations in terms of an agreement relating to the extension of credit ; \" agreement \" includes an arrangement or understanding between or among two or more parties, that purports to establish a relationship in law between those parties; \" alternative dispute resolution agent \" means a person providing services to assist in the resolution of consumer credit information disputes through conciliation, mediation or arbitration; \" Central Bank \" means the Central Bank of Lesotho continued in existence by the Central Bank of Lesotho Act 2000; \" Commission \" means the Data Protection Commission established in terms of any legislation relating to data protection; \" consumer \" means a natural or a juristic person — (a) to whom goods or services are sold under an agreement ; or (b) to whom money is advanced, or credit extended, under an agreement . \" credit bureau \" means a person registered as such under section 13 ; \" credit bureau activity \" means an activity referred to in section 11 ; \" credit information \" means information concerning— (a) a person ’s credit history, including applications for credit, agreements to which the person is or has been a party in terms of which credit is extended, pattern of payment or default under any such agreements, incidence of enforcement actions with respect to any agreement in terms of which credit is extended, the circumstances of termination of any such agreement , and related matters; (b) a person ’s financial history, including the person ’s past and current income, assets and debts and other matters within the scope of that person ’s financial means, prospects and obligations and related matters; (c) a person ’s education, employment, career, professional or business history, including the circumstances of termination of any employment, career, professional or business relationship, and related matters; or (d) a person ’s identity, including the person ’s name, date of birth, identity number, marital status and family relationships, past and current addresses and other contact details; \" credit information supplier \" means any source of information where the outgoing source of information is a person defined in section 19 ; \" credit provider \" means a person registered or licensed in terms of other legislation, that engages in the extension of credit to consumers; \" de-identify \" in relation to credit information of a consumer , means to delete any information that— (a) identifies the consumer ; (b) can be used or manipulated by a reasonably foreseeable method to identify the consumer ; and (c) can be linked by a reasonably foreseeable method to other information that identifies the consumer ; \" extension of credit \", means to provide goods or services or to pay a monetary amount to a consumer ; and to defer payment of any part of the cost of the good or services or repayment of the monetary amount; \" Governor \" means the Governor of the Central Bank appointed under section 9(1)(a) of the Central Bank Act 2000; \" juristic person \" includes a partnership, association or other body of persons corporate or unincorporated, and a trust if— (a) there are three or more individual trustees; or (b) the trustee is itself a juristic person; \" Ombudsman \" means a person appointed as such under section 134 of the Constitution; \" organ of state \" means the Legislature, Executive and Judiciary as defined in the Constitution of Lesotho; \" person \" includes a juristic person ; \" positive credit information \" means information which indicates that consumer is able to satisfy all debt obligations in terms of an agreement relating to the extension of credit ; \" prescribed \" means prescribed by regulation; \" processing \" means any operation or activity or any set of operations, whether or not by automatic means, concerning credit information , including— (a) the collection, receipt, recording, organisation, collation, storage, updating or modification, retrieval, alteration, consultation or use; (b) dissemination by means of transmission, distribution or making available in any other form; or (c) merging, linking, as well as blocking, degradation, erasure or destruction of information; \" registrant \" means a person who has been registered in terms of this Act; \" regulations \" means regulations made in terms of this Act; (2) This Act shall be interpreted in accordance with the purposes set out in section 3 . (3) When a particular number of business days is provided for between the happening of one event and another, the number of days shall be calculated by— (a) excluding the day on which the first such event occurs; (b) including the day on or by which the second event is to occur; and (c) excluding any public holiday, Saturday or Sunday that falls on or between the days contemplated in paragraphs (a) and (b) respectively. (4) Except as specifically set out in this Act, the provisions of this Act are not to be construed as— (a) limiting, amending, repealing or otherwise altering any provision of any other Act; (b) exempting any person from any duty or obligation imposed by any other Act; or (c) prohibiting any person from complying with any provision of another Act."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Chapter 1",
+      "section": "3",
+      "title": "Purpose of Act",
+      "content": "The purpose of this Act is to— (a) regulate the manner in which credit information may be processed, in accordance with international personal information protection principles and standards; (b) promote and advance an effective and reliable credit reporting system, by— (i) promoting accuracy and integrity of credit information ; (ii) ensuring confidentiality and security of credit information ; (iii) specifying purposes for which credit information may be processed; (iv) allowing for retention of credit information for as long as is necessary to achieve the purpose for which the information was collected, and to specify the display of credit information for fixed and reasonable periods; (v) promoting participation of the consumer in the credit reporting system, by providing for the right of a consumer to access their credit information ; (vi) promoting openness and transparency within the credit reporting system; (vii) providing for accountability of a credit bureau , credit information supplier , and credit information user; (viii) providing for cross-border flow of credit information where services are rendered by a credit bureau located outside Lesotho."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Chapter 1",
+      "section": "4",
+      "title": "Application of Act",
+      "content": "This Act applies to the processing of credit information in relation to a consumer , by— (a) a credit bureau having its principal place of business in Lesotho; or (b) a credit bureau having its principal place of business outside Lesotho, where use is made of automated means for transmitting credit information from Lesotho, and forwarding credit information to Lesotho; (c) a supplier of credit information ; (d) a user of credit information ; (e) a foreign credit bureau ."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Chapter 1",
+      "section": "5",
+      "title": "Limited application of Act to credit information about a juristic person",
+      "content": "Sections 19 , 20 and 21 shall not apply to the processing of credit information about a consumer that is a juristic person."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Chapter 1",
+      "section": "6",
+      "title": "Exclusions",
+      "content": "This Act does not apply to the processing of credit information that has been de-identified to the extent that it cannot be re-identified. Chapter 2 Credit information supervisory authorities"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Chapter 2",
+      "section": "7",
+      "title": "General enforcement of compliance",
+      "content": "(1) The Governor is responsible for enforcing compliance with the provisions of this Act, including— (a) registering credit bureaux; (b) enforcing credit bureau registration requirements, including the requirement set out in section 31 (1) requiring a foreign credit bureau to be registered with the Central Bank under this Act; (c) subject to section 17 , suspending or cancelling any registration issued in terms of this Act; and (d) enforce compliance with the provisions of section 30 by credit providers. (2) The Governor may prescribe standards for the filing, retention and reporting of credit information by a registered credit bureau , in addition to, or in furtherance of, the requirements set out in this Act."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Chapter 2",
+      "section": "8",
+      "title": "Monitoring trends in the credit market",
+      "content": "The Governor is responsible for monitoring and advising on the following— (a) credit availability, price and market conditions, conduct and trends; (b) credit provider compliance with section 30 ; (c) market share, market conduct and competition within the consumer credit industry, the credit industry structure; (d) access to consumer credit by small businesses; (e) levels of consumer indebtedness and the incidence of overindebtedness; (f) trends in the credit market; (g) the functioning of the credit reporting system; and (h) any other matter relating to the credit industry."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Chapter 2",
+      "section": "9",
+      "title": "Credit bureau reports to the Governors",
+      "content": "The Governor may, for the purposes of section 8 , require any registered credit bureau to provide— (a) periodic analyses based on aggregated credit information of the credit market, with reference to factors such as number of credit active consumers, credit standing of consumers, credit market activity; credit bureau activity , and any other factor of relevance to a proper analysis of the credit market; (b) reports on the sources and quality of information submitted to the credit bureau ; (c) any further information for purposes of monitoring the credit market and the credit reporting system."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Chapter 2",
+      "section": "10",
+      "title": "Powers and functions of the Commission under this Act",
+      "content": "The powers and functions of the Commission as set out in the law relating to data protection shall only be applicable to section 37 . Chapter 3 Registration of credit bureaux"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Chapter 3",
+      "section": "11",
+      "title": "Prohibition against non-registration",
+      "content": "A person shall not, for payment, engage in the business of— (a) collecting or receiving; (b) recording; (c) collating; (d) storing; and (e) disseminating; credit information about consumers unless the person is registered with the Central Bank as a credit bureau ."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Chapter 3",
+      "section": "12",
+      "title": "Registration requirements, criteria and procedures for application for registration",
+      "content": "(1) The Governor shall not register a person as a credit bureau unless that person — (a) maintains minimum qualifications, competence, knowledge and experience requirements for its employees or contractors who will have authority to represent it in any function under this Act; (b) has sufficient human, financial and operational resources to enable it to function efficiently and to carry out effectively its functions in terms of this Act; and (c) has adopted procedures to ensure that questions, concerns and complaints of consumers are treated equitably and consistently in a timely, efficient and courteous manner. (2) The Governor may, by regulations , define the criteria to be followed in considering an application to be registered as a credit bureau under this section."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Chapter 3",
+      "section": "13",
+      "title": "Application for registration",
+      "content": "(1) A person who wishes to be registered as a credit bureau in terms of this Act shall apply for registration in the prescribed manner and form to the Governor . (2) The Governor may— (a) require further information relevant to an application contemplated in sub-section (1); and (b) refuse an application, if the applicant, when so required to supply information in terms of paragraph (a), has not supplied any information within the prescribed time. (3) If an application complies with the provisions of this Act and the applicant meets the criteria set out in this Act for registration, the Governor , after considering the application, shall register the applicant. (4) If an application is refused in terms of this section, written reasons for refusal of the application shall be provided to the applicant. (5) An applicant dissatisfied with a decision of the Governor in terms of this section may lodge a complaint with the Ombudsman in accordance with section 8 of the Ombudsman Act of 1996."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Chapter 3",
+      "section": "14",
+      "title": "Disqualification of natural persons",
+      "content": "(1) A natural person may not be registered as a credit bureau . (2) The Governor may, by regulations , declare any business activity which a credit bureau engages in as disqualified, if that business activity is inconsistent with the function of operating an independent and objective credit bureau ."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Chapter 3",
+      "section": "15",
+      "title": "Application, registration and renewal fees",
+      "content": "(1) The Governor may prescribe— (a) an application fee to be paid in connection with any application under this Act; (b) an initial registration fee to be paid upon registration; and (c) an annual registration renewal fee to be paid by registrants to be followed in considering an application to be registered as a credit bureau under this section. (2) In the event of cancellation of registration under sections 17 and 18 , the registrant shall forfeit application, registration or renewal fees paid."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Chapter 3",
+      "section": "16",
+      "title": "Certificate, validity, and public notice of registration",
+      "content": "(1) Upon registering an applicant, the Governor shall— (a) issue a certificate of registration to the applicant with respect to registered activities; (b) enter the registration in the register; and (c) assign a unique registration number to that registrant . (2) A registrant shall— (a) post the certificate of registration in any premises at or from which it conducts its registered activities; and (b) reflect its registered status and registration number, in a legible typeface, on all its communications related to the conduct of its credit reporting activities."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Chapter 3",
+      "section": "17",
+      "title": "Cancellation of registration",
+      "content": "(1) The Governor may cancel a registration made under this Act if the registrant contravenes a provision of this Act. (2) A registrant shall be afforded a hearing before the registration is cancelled. (3) Where the Governor has cancelled a registration under sub-section (1), the Governor shall— (a) notify the registrant in writing of— (i) the cancellation; (ii) the reasons for the cancellation; and (iii) the date of cancellation; (b) within 7 days from the date of cancellation, cause to be published by notice— (i) in the Gazette ; (ii) in 3 local newspapers of general circulation and in 3 consecutive editions of the newspaper; and (iii) on a radio station with national coverage during prime time for at least 3 consecutive days; and (c) keep the credit information acquired by the cancelled registrant until such time that the information may be transferred to another credit bureau . (4) A registrant whose registration has been cancelled shall not engage in any activities in respect of which it was registered, after the date on which the cancellation takes effect."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Chapter 3",
+      "section": "18",
+      "title": "Voluntary cancellation of registration",
+      "content": "(1) A registrant may request cancellation of its registration by giving the Governor written notice of not less than sixty business days. (2) The provisions of section 17 (b) and (c) shall apply with necessary modifications. Chapter 4 Credit information protection provisions"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Chapter 4",
+      "section": "19",
+      "title": "Sources of credit information",
+      "content": "(1) A registered credit bureau may receive credit information from any person provided the originating source of the information is— (a) an organ of state ; (b) a court, or a judicial officer; (c) a provider of goods or services; (d) a credit provider ; (e) a provider of financial services; (f) a provider of long and short term insurance; (g) entities involved in economic crime investigation; (h) educational institutions; (i) an employer in terms of a contract of employment; (j) debt collectors to whom book debt is ceded or sold; or (k) the consumer to whom the information belongs. (2) A credit provider shall report both positive and adverse consumer credit information arising from an agreement pertaining to the extension of credit , to a registrant , in terms of this Act."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Chapter 4",
+      "section": "20",
+      "title": "Notification to consumer",
+      "content": "Except where the supplier of the credit information is the consumer to whom the information relates, or the credit information is to be supplied is in a public record or has been made public by the consumer , a person supplying credit information to a credit bureau shall ensure that the consumer is aware of— (a) the information being collected; (b) the credit bureau that will receive the information; (c) the sharing of the information with third parties through the credit bureau for lawful and prescribed purposes; (d) the lawful and prescribed purposes for the sharing of the information with third parties through the credit bureau ; (e) the name and address of the credit bureau to whom the information will be supplied."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Chapter 4",
+      "section": "21",
+      "title": "Relevant data",
+      "content": "(1) Only credit information as defined in section 2 , may be supplied to a credit bureau. (2) The credit information collected and supplied to a credit bureau shall be adequate and relevant to the purpose for which it is supplied to a credit bureau ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Chapter 4",
+      "section": "22",
+      "title": "Quality of data supplied",
+      "content": "(1) A person supplying credit information to a credit bureau shall ensure that the information supplied is accurate, complete, not misleading and updated regularly. (2) Credit information supplied to a credit bureau in respect of a consumer that is a natural person shall contain the following mandatory categories of information— (a) full names and surname of the consumer ; (b) the national identity number and date of birth of the consumer , and in the case of a juristic person , the licence number or tax identification number; or (c) if the consumer is a foreign national and does not have an identity number, the consumer ’s passport number and date of birth; (3) Credit information supplied to a credit bureau shall also contain the following categories of information— (a) the residential address and telephone number of the consumer ; (b) details of the consumer ’s place of work and employer, or if the consumer is self employed or unemployed, an affidavit to that effect. (4) Information removed from the data by a credit bureau upon the resolution of a consumer dispute under section 32 shall not be resubmitted by the person supplying credit information. (5) A person supplying credit information to a credit bureau shall give notice to a consumer prior to submitting adverse information about the consumer to the credit bureau ."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Chapter 4",
+      "section": "23",
+      "title": "Data security",
+      "content": "(1) A person supplying credit information to a credit bureau shall ensure that the information is supplied in a manner that secures the integrity of the information, by taking appropriate, technical and organisational measures to prevent— (a) loss of, damage to or unauthorised destruction of the credit information ; and (b) unlawful access to or processing of the credit information . (2) A supplier of credit information shall have due regard to the information security practices of the recipient credit bureau ."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Chapter 4",
+      "section": "24",
+      "title": "Quality of captured data",
+      "content": "(1) When capturing, maintaining and managing credit information a credit bureau shall ensure that the credit information is complete, accurate and updated where necessary. (2) In relation to sub-section (1), a credit bureau shall— (a) verify the accuracy of credit information received; and (b) ensure that credit information received is matched to the correct consumer ."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Chapter 4",
+      "section": "25",
+      "title": "Preservation of integrity of data",
+      "content": "(1) When capturing, maintaining and managing credit information a credit bureau shall secure the integrity of the credit information in its possession or under its control by taking appropriate, technical and organisational measures to prevent— (a) loss of, damage to or unauthorised destruction of the credit information ; and (b) unlawful access to or processing of the credit information . (2) The credit bureau shall have due regard to generally accepted information security practices and procedures or professional rules and regulations which may apply to it generally or specifically in the industry."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Chapter 4",
+      "section": "26",
+      "title": "Confidentiality of credit information",
+      "content": "(1) A credit bureau shall protect the confidentiality of credit information , and shall only report or release that information— (a) to the consumer to whom the information relates; (b) on the instructions of the consumer to whom the information relates; (c) to another person for purposes set out in sub-section (2); (d) to the State or an organ of State, in the public interest; or (e) as required under this Act or any other legislation. (2) The prescribed purposes for which credit information may be reported in terms of sub-section (1)(c), include— (a) the assessment by a credit provider of likelihood of repayment and affordability by a consumer , where payment is respect of any part of the cost of goods or services advanced, is deferred, or where repayment of a monetary amount advanced is deferred; (b) pre-screening prospective consumers for risk and affordability by credit providers, prior to making a pre-approved offer for goods or services; (c) an investigation of an economic crime by a statutory enforcement agency or the police service; (d) economic crime detection and prevention services; (e) detection and prevention of identity theft; (f) assessing an application for insurance or an insurance claim; (g) verification of educational qualifications and employment; (h) assessment of a prospective employee where a good credit standing is an inherent requirement of the job applied for; (i) tracing a consumer for purposes of distributing unclaimed funds, such as pension funds, and insurance claims; (j) tracing a consumer in respect of an agreement between the consumer and a provider of goods or services; or (k) an assessment of the debtors book of a business for purposes of any transaction that is dependant on determining the value of the business or debtors book of that business."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Chapter 4",
+      "section": "27",
+      "title": "Consumer access",
+      "content": "(1) A consumer who provides adequate proof of identity shall have the right to request from a credit bureau , credit information about the consumer held by the credit bureau , including the identity of third parties that have had access to the information— (a) within 60 days; (b) once per annum free of charge, thereafter on payment of a prescribed fee; (c) in a reasonable manner and format. (2) A consumer may request that a credit bureau — (a) correct inaccurate, incomplete, misleading or out of date credit information about the consumer ; or (b) remove from display a record of credit information about the consumer that the credit bureau is not authorised to display in terms of section 28 . (3) On receipt of a request in terms of sub-section (2), the credit bureau shall, within 60 days— (a) correct the credit information or provide the consumer with credible evidence in support of the correctness of the information; (b) remove the record of credit information from display or provide the consumer with evidence of the authority to display the information in terms of section 28 ; (4) During the period that a request received in terms of this section is being investigated, a credit bureau — (a) may not report information pertaining to the request; but (b) may indicate that a request has been received. (5) A consumer who has been provided with evidence in terms of sub-section (3) may refer the disputed information to the Commission for investigation."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Chapter 4",
+      "section": "28",
+      "title": "Retention and display periods",
+      "content": "(1) A credit bureau — (a) shall not retain a record of credit information beyond such period as may be stipulated by the Governor under subsection (2); (b) shall display records of credit information for fixed periods as prescribed by the Governor in accordance with international norms; (c) may retain a record of credit information for periods in excess of those contemplated in paragraph (a), for statistical or research purposes and for the development of credit scoring models, if the credit bureau has established, to the satisfaction of the Governor , safeguards against the records being used for any other purpose. (2) The Governor may, by regulations , stipulate the period for which a credit bureau may retain a record of credit information . Chapter 5 Credit bureau user obligations"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Chapter 5",
+      "section": "29",
+      "title": "Credit information to be accessed and used for lawful purposes",
+      "content": "A person who accesses and uses credit information shall protect the confidentiality of the information and shall ensure that— (a) the information is accessed and used for purposes set out in section 27 (2) or any other lawful purpose; (b) the information is not used unfairly to discriminate against a consumer or a prospective consumer ; (c) the consent of the consumer has been obtained, if consent is required in terms of this Act."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Chapter 5",
+      "section": "30",
+      "title": "Assessment of risk and affordability by credit providers",
+      "content": "(1) A credit provider shall, prior to extending credit, take reasonable steps to assess the prospective consumer ’s— (a) likelihood of satisfying, in a timely manner, the debt obligation under the agreement in terms of which credit is extended by considering the consumer ’s debt repayment history; and (b) ability to satisfy, in a timely manner, the debt obligation under the agreement in terms of which credit is extended, by considering the consumer ’s financial means, prospects and obligations. (2) A credit provider may access credit information from a registered credit bureau for purposes of meeting its assessment obligations under subsection (1). (3) Failure by a credit provider to comply with sub-section (1) is an offence. Chapter 6 Transborder flows of credit information"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Chapter 6",
+      "section": "31",
+      "title": "Transfer of credit information outside Lesotho",
+      "content": "(1) Credit information may be processed by a credit bureau in a foreign country and then returned to Lesotho, provided the recipient credit bureau is registered with the Governor in terms of this Act and complies with the provisions of this Act. (2) Except as provided in subsection (1), credit information may not be transferred to a third party who is in a foreign country unless— (a) the recipient of the information is subject to a law, binding code of conduct or contract, that— (i) effectively upholds the international information protection principles for the processing of personal information; and (ii) contains a provision substantially similar to this section relating to the transfer of information from the recipient to third parties in foreign countries; or (b) the consumer expressly consents to the transfer of the credit information . Chapter 7 Complaints and settlement of disputes"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Chapter 7",
+      "section": "32",
+      "title": "Alternative dispute resolution",
+      "content": "(1) As an alternative to filing a complaint with the Commission or the Governor , a person may refer a complaint to an accredited alternative dispute resolution agent , for resolution by conciliation, mediation or arbitration. (2) If an alternative dispute resolution agent concludes that there is no reasonable probability of the parties resolving their dispute through that process, the alternative dispute resolution agent shall issue a certificate stating that the process has failed. (3) If an alternative dispute resolution agent that has resolved, or assisted parties in resolving a dispute in terms of this Act, the alternative dispute resolution agent shall record the resolution of that dispute in the form of an agreement of settlement, signed by both parties."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Chapter 7",
+      "section": "33",
+      "title": "Initiating a complaint to or by the Governor",
+      "content": "Any person may submit a complaint to the Governor or the Governor may on its own initiative commence an investigation alleging any of the following conduct: (a) that a person has contravened the registration requirements set out in section 12 ; (b) that a person has contravened section 16 (2); (c) that a credit bureau has contravened section 28 ; (d) that a credit provider has contravened section 30 ."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Chapter 7",
+      "section": "34",
+      "title": "Investigation by the Governor",
+      "content": "Upon initiating an investigation or accepting a complaint in terms of section 33 , the Governor may— (a) issue a notice of non-referral to the complainant, if the complaint appears to be frivolous or vexatious, or does not allege any facts which, if true, would constitute grounds for a remedy under this Act; (b) refer the complaint to— (i) the Commission , if the matter appears to concern an information protection provision; or (ii) an alternative dispute resolution agent for the purposes of assisting the parties to resolve the dispute; or (c) investigate the complaint as quickly as practicable, in any other case."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Chapter 7",
+      "section": "35",
+      "title": "Issue of compliance notice by the Governor",
+      "content": "(1) The Governor may issue a notice in the prescribed form, to a person who— (a) is not registered in terms of section 13 (3); (b) is registered, but has engaged in an activity contrary to section 29 ; (c) has failed to assess the risk and affordability by credit providers in terms of section 31 ; requiring that person to stop engaging in offering or holding themselves out as authorised to engage in that activity. (2) A compliance notice contemplated in sub-section (1) shall set out— (a) the person or association to whom the notice applies; (b) the provision or condition that has not been complied with; (c) details of the nature and extent of the non-compliance; (d) any steps that are required to be taken and the period within which those steps should be taken; (e) a penalty that may be imposed in terms of this Act if those steps are not taken. (3) Failure to comply with a notice issued in terms of this section is an offence. (4) A compliance notice issued in terms of this section remains in force until the Governor issues a compliance certificate."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Chapter 7",
+      "section": "36",
+      "title": "Objection to compliance notices",
+      "content": "(1) A person issued with a notice in terms of section 35 may apply to the Ombudsman to review the notice within— (a) 15 business days after receiving that notice; or (b) such longer period as may be allowed by the Ombudsman on good cause shown. (2) After considering any representations by the applicant and any other relevant information, and after affording the Governor opportunity to respond to the application, the Ombudsman may confirm, modify or cancel all or part of a notice."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Chapter 7",
+      "section": "37",
+      "title": "Initiating complaints to and by the Commission",
+      "content": "(1) A person may submit a complaint to the Commission alleging a breach of or non compliance with the credit information protection provisions set out in Chapter 4 and section 31 . (2) The Commission may on its own initiative commence an investigation if there are reasonable grounds for believing that a breach of or non compliance with a credit information protection provision set out in chapter 4, sections 30 and 32 (2) may have occurred. (3) A complaint submitted to the Commission or initiated by the Commission shall be dealt with in terms of the procedure set out in the law relating to data protection."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Chapter 7",
+      "section": "38",
+      "title": "Hindering administration of Act",
+      "content": "It is an offence to hinder, oppose, obstruct or unduly influence any person who is exercising a power or performing a duty delegated, conferred or imposed on that person under this Act."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Chapter 7",
+      "section": "39",
+      "title": "Offences relating to non compliance with a notice",
+      "content": "A person who contravenes or fails to comply with a compliance notice issued by the Governor or the Commission commits an offence."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Chapter 7",
+      "section": "40",
+      "title": "Penalties",
+      "content": "Any person convicted of an offence in terms of this Act shall be liable to a fine not exceeding M250,000. Chapter 8 Miscellaneous"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Chapter 8",
+      "section": "41",
+      "title": "Regulations",
+      "content": "(1) The Governor may make regulations generally for giving effect to the provisions of this Act. (2) The regulations may prescribe— (a) any forms required to be used for the purposes of this Act; and (b) in general, any ancillary or incidental matter that is necessary to prescribe for the proper implementation or administration of this Act. (3) Before making any regulations in terms of subsection (1), the Governor — (a) shall seek public comments on the proposed regulations ; and (b) may consult the Commission . Note 1. Act No. 12 of 2000 2. Act No. 9 of 1996 History of this document 24 January 2012 this version Published in Government Gazette 6 Commenced Related documents [] [] [] [] ▲ To the top > Contact us Visit our Facebook Page Visit our Twitter/X profile About LesLII The Lesotho Legal Information Institute (LesLII) was set up in 2012. LesLII's mission is to publish the laws of Lesotho for free access to everyone. LesLII is supported by the Judiciary of Lesotho, the Law Office, the Law Society and other justice sector stakeholders. AfricanLII and Laws.Africa provide technical support to LesLII. Help About us Contact us Terms of Use Our partners AfricanLII Laws.Africa Lesotho Judiciary Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "adverse credit information",
+      "definition": "means information which indicates that a consumer is not satisfying all debt obligations in terms of an agreement relating to the extension of credit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "agreement",
+      "definition": "includes an arrangement or understanding between or among two or more parties, that purports to establish a relationship in law between those parties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "alternative dispute resolution agent",
+      "definition": "means a person providing services to assist in the resolution of consumer credit information disputes through conciliation, mediation or arbitration",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Central Bank",
+      "definition": "means the Central Bank of Lesotho continued in existence by the Central Bank of Lesotho Act 2000",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commission",
+      "definition": "means the Data Protection Commission established in terms of any legislation relating to data protection",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consumer",
+      "definition": "means a natural or a juristic person — (a) to whom goods or services are sold under an agreement ; or (b) to whom money is advanced, or credit extended, under an agreement . \"",
+      "source_provision": "s2"
+    },
+    {
+      "term": "credit bureau",
+      "definition": "means a person registered as such under section 13",
+      "source_provision": "s2"
+    },
+    {
+      "term": "credit bureau activity",
+      "definition": "means an activity referred to in section 11",
+      "source_provision": "s2"
+    },
+    {
+      "term": "credit information",
+      "definition": "means information concerning— (a) a person ’s credit history, including applications for credit, agreements to which the person is or has been a party in terms of which credit is extended, pattern of payment or default under any such agreements, incidence of enforcement actions with respect to any agreement in terms of which credit is extended, the circumstances of termination of any such agreement , and related matters; (b) a person ’s financial history, including the person ’s past and current income, assets and debts and other matters within the scope of that person ’s financial means, prospects and obligations and related matters; (c) a person ’s education, employment, career, professional or business history, including the circumstances of termination of any employment, career, professional or business relationship, and related matters; or (d) a person ’s identity, including the person ’s name, date of birth, identity number, marital status and family relationships, past and current addresses and other contact details",
+      "source_provision": "s2"
+    },
+    {
+      "term": "credit information supplier",
+      "definition": "means any source of information where the outgoing source of information is a person defined in section 19",
+      "source_provision": "s2"
+    },
+    {
+      "term": "credit provider",
+      "definition": "means a person registered or licensed in terms of other legislation, that engages in the extension of credit to consumers",
+      "source_provision": "s2"
+    },
+    {
+      "term": "de-identify",
+      "definition": "in relation to credit information of a consumer , means to delete any information that— (a) identifies the consumer ; (b) can be used or manipulated by a reasonably foreseeable method to identify the consumer ; and (c) can be linked by a reasonably foreseeable method to other information that identifies the consumer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "extension of credit",
+      "definition": ", means to provide goods or services or to pay a monetary amount to a consumer ; and to defer payment of any part of the cost of the good or services or repayment of the monetary amount",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Governor",
+      "definition": "means the Governor of the Central Bank appointed under section 9(1)(a) of the Central Bank Act 2000",
+      "source_provision": "s2"
+    },
+    {
+      "term": "juristic person",
+      "definition": "includes a partnership, association or other body of persons corporate or unincorporated, and a trust if— (a) there are three or more individual trustees; or (b) the trustee is itself a juristic person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Ombudsman",
+      "definition": "means a person appointed as such under section 134 of the Constitution",
+      "source_provision": "s2"
+    },
+    {
+      "term": "organ of state",
+      "definition": "means the Legislature, Executive and Judiciary as defined in the Constitution of Lesotho",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person",
+      "definition": "includes a juristic person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "positive credit information",
+      "definition": "means information which indicates that consumer is able to satisfy all debt obligations in terms of an agreement relating to the extension of credit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "means prescribed by regulation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "processing",
+      "definition": "means any operation or activity or any set of operations, whether or not by automatic means, concerning credit information , including— (a) the collection, receipt, recording, organisation, collation, storage, updating or modification, retrieval, alteration, consultation or use; (b) dissemination by means of transmission, distribution or making available in any other form; or (c) merging, linking, as well as blocking, degradation, erasure or destruction of information",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registrant",
+      "definition": "means a person who has been registered in terms of this Act",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -44,16 +44,16 @@ export async function listSources(
     results: {
       sources: [
         {
-          name: 'Lesotho Legal Information Portal',
-          authority: 'lawlesotho.com (Lesotho Legal Information Portal)',
-          url: 'https://www.lawlesotho.com',
+          name: 'Lesotho Legal Information Institute (LesLII)',
+          authority: 'lesotholii.org (AfricanLII / Laws.Africa network)',
+          url: 'https://lesotholii.org',
           license: 'Government Open Data',
           coverage:
-            'Federal proclamations, regulations, and directives published in the Federal Negarit Gazette. ' +
-            'Includes the Constitution of Lesotho (1995), major legislative acts from 1995 to present, ' +
-            'covering administrative law, banking, tax, trade, investment, labor, telecommunications, ' +
-            'criminal law, and more. Most content is bilingual (Amharic/English).',
-          languages: ['en', 'am'],
+            'Acts of Parliament, legal notices, and subsidiary legislation published by the Government of Lesotho. ' +
+            'Covers legislation from the pre-independence era through to present-day enactments, ' +
+            'including the Labour Act, Labour Code, Constitution-era statutes, and key commercial and ' +
+            'criminal legislation. Documents served as Akoma Ntoso HTML or source PDF.',
+          languages: ['en'],
         },
       ],
       database: {

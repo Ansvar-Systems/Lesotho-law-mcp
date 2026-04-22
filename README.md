@@ -8,9 +8,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Lesotho-law-mcp?style=social)](https://github.com/Ansvar-Systems/Lesotho-law-mcp)
 [![CI](https://github.com/Ansvar-Systems/Lesotho-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/Lesotho-law-mcp/actions/workflows/ci.yml)
 [![Database](https://img.shields.io/badge/database-pre--built-green)]()
-[![Provisions](https://img.shields.io/badge/provisions-21%2C559-blue)]()
+[![Provisions](https://img.shields.io/badge/provisions-4%2C324-blue)]()
 
-Query **494 Lesotho Acts** -- from the Data Protection Act and Computer Misuse and Cybercrimes Act to the Companies Act, Constitution of Lesotho, and more -- directly from Claude, Cursor, or any MCP-compatible client.
+Query **84 Lesotho legal documents** -- 61 Acts of Parliament and 23 Legal Notices, from the Data Protection Act, 2012 and Anti-Trafficking in Persons Act, 2011 to the Companies Act, 2011, Penal Code Act, 2012, and more -- directly from Claude, Cursor, or any MCP-compatible client.
 
 If you're building legal tech, compliance tools, or doing Lesotho legal research, this is your verified reference database.
 
@@ -20,11 +20,11 @@ Built by [Ansvar Systems](https://ansvar.eu) -- Stockholm, Sweden
 
 ## Why This Exists
 
-Lesotho legal research is scattered across Lesotho Law Reports, the Lesotho Gazette, and various government portals. Whether you're:
+Lesotho legal research lives on the Lesotho Legal Information Institute (LesLII) and the Lesotho Government Gazette, with no free programmatic access. Whether you're:
 - A **lawyer** validating citations in a brief or contract under Lesotho law
-- A **compliance officer** checking if the Data Protection Act 2019 provisions apply to your processing activities
+- A **compliance officer** checking how the Data Protection Act, 2012 applies to your processing activities
 - A **legal tech developer** building tools on Lesotho legislation
-- A **researcher** tracing legislative history from colonial-era statutes to the 2010 Constitution
+- A **researcher** tracing statutes from the Prescription Act of 1861 forward
 
 ...you shouldn't need dozens of browser tabs and manual PDF cross-referencing. Ask Claude. Get the exact provision. With context.
 
@@ -114,12 +114,12 @@ npx @ansvar/lesotho-law-mcp
 
 Once connected, just ask naturally:
 
-- *"What does the Data Protection Act 2019 say about consent?"*
-- *"Is the Companies Act 2015 still in force?"*
-- *"Find provisions about cybersecurity in the Computer Misuse and Cybercrimes Act"*
-- *"What does the Constitution of Lesotho say about the right to privacy?"*
-- *"Search for data breach notification requirements in Lesotho law"*
-- *"What are the obligations under the National Payment Systems Act?"*
+- *"What does the Data Protection Act, 2012 say about consent?"*
+- *"Is the Companies Act, 2011 still in force?"*
+- *"Find provisions about trafficking in persons under Lesotho law"*
+- *"Summarise the Money Laundering and Proceeds of Crime Act, 2008"*
+- *"What does the Penal Code Act, 2012 say about murder?"*
+- *"Retrieve Section 2 of the Anti-Trafficking in Persons Act, 2011"*
 - *"Validate this legal citation"*
 - *"Build a legal stance on personal data processing in Lesotho"*
 
@@ -129,14 +129,18 @@ Once connected, just ask naturally:
 
 | Act | Year | Significance |
 |-----|------|-------------|
-| **Data Protection Act** | 2019 | Comprehensive data protection law modeled on EU GDPR; established the Office of the Data Protection Commissioner (ODPC) |
-| **Computer Misuse and Cybercrimes Act** | 2018 | Comprehensive cybercrime legislation (note: Sections 22, 23, 24, 27, and 53 were partially suspended by the High Court pending constitutional review) |
-| **Lesotho Information and Communications Act** | 1998 (amended) | Regulates telecommunications and ICT sector; establishes the Communications Authority of Lesotho |
-| **Companies Act** | 2015 | Modern company law framework replacing the Companies Act (Cap 486) |
-| **Consumer Protection Act** | 2012 | Consumer rights and fair trade practices |
-| **Access to Information Act** | 2016 | Right to access government-held information |
-| **National Payment Systems Act** | 2011 | Regulation of payment systems including mobile money (M-Pesa) |
-| **Constitution of Lesotho** | 2010 | Supreme law; Article 31 guarantees the right to privacy |
+| **Data Protection Act** | 2012 | Personal data protection framework in Lesotho |
+| **Anti-Trafficking in Persons Act** | 2011 | Criminalises human trafficking; victim protection framework |
+| **Penal Code Act** | 2012 | Codified criminal offences |
+| **Criminal Procedure and Evidence Act** | 1981 | Criminal procedure and evidence (345 provisions) |
+| **Companies Act** | 2011 | Modern company law framework |
+| **Money Laundering and Proceeds of Crime Act** | 2008 | AML framework with accompanying 2019 regulations |
+| **Prevention and Suppression of Terrorism Act** | 2018 | Counter-terrorism and related financing offences |
+| **Prevention of Corruption and Economic Offences Act** | 1999 | Anti-corruption framework |
+| **Financial Institutions Act** | 2012 | Banking and financial services regulation |
+| **Insurance Act** | 2014 | Insurance sector regulation (139 provisions) |
+| **Communications Act** | 2012 | Communications sector regulation |
+| **Labour Act** | 2024 | Labour law (PDF-only on LesLII, pending OCR) |
 
 ---
 
@@ -144,7 +148,7 @@ Once connected, just ask naturally:
 
 **SMALL** -- Single tier, bundled SQLite database shipped with the npm package.
 
-**Estimated database size:** ~80-150 MB (full corpus of Lesotho federal legislation)
+**Database size:** ~9.2 MB (84 documents, 4,324 provisions, 1,482 definitions)
 
 ---
 
@@ -211,9 +215,11 @@ Official Sources --> Parse --> SQLite --> FTS5 snippet() --> MCP response
 
 All content is sourced from authoritative Lesotho legal databases:
 
-- **[Lesotho Law Reports](https://lesotholaw.org)** -- Official Lesotho government legal database
+- **[Lesotho Legal Information Institute (LesLII)](https://lesotholii.org)** -- the official legal information institute, part of the AfricanLII / Laws.Africa network. Content served as Akoma Ntoso HTML.
 
-**Verified data only** -- every citation is validated against official sources. Zero LLM-generated content.
+Ingestion runs against `https://lesotholii.org/legislation/` (acts and legal notices). Nine documents that LesLII serves PDF-only (including the Labour Act, 2024 and the 2024 High Court Civil Litigation Rules) are flagged in `data/census.json` with `pdf_only: true` pending a later OCR pass.
+
+**Verified data only** -- every citation is validated against the LesLII source document. Zero LLM-generated content.
 
 ---
 
